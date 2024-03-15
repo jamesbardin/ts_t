@@ -1,0 +1,1655 @@
+Time,Displacement,Force,File_ID,Material_ID
+0,0.0397571428571428,0.156469387755102,Flax 45deg_1,Flax 45deg
+1,0.122634,0.620336,Flax 45deg_1,Flax 45deg
+2,0.20597,1.039008,Flax 45deg_1,Flax 45deg
+3,0.289302,1.41301,Flax 45deg_1,Flax 45deg
+4,0.372642,1.747854,Flax 45deg_1,Flax 45deg
+5,0.455996,2.047322,Flax 45deg_1,Flax 45deg
+6,0.539332,2.314262,Flax 45deg_1,Flax 45deg
+7,0.622626,2.546666,Flax 45deg_1,Flax 45deg
+8,0.705998,2.7568560000000004,Flax 45deg_1,Flax 45deg
+9,0.7893340000000001,2.956472,Flax 45deg_1,Flax 45deg
+10,0.87262,3.149398,Flax 45deg_1,Flax 45deg
+11,0.956012,3.326212,Flax 45deg_1,Flax 45deg
+12,1.039328,3.494082,Flax 45deg_1,Flax 45deg
+13,1.122654,3.651492,Flax 45deg_1,Flax 45deg
+14,1.206,3.814282,Flax 45deg_1,Flax 45deg
+15,1.28933,3.980616,Flax 45deg_1,Flax 45deg
+16,1.372662,4.147862,Flax 45deg_1,Flax 45deg
+17,1.456006,4.314836000000001,Flax 45deg_1,Flax 45deg
+18,1.539324,4.48432,Flax 45deg_1,Flax 45deg
+19,1.62264,4.653178,Flax 45deg_1,Flax 45deg
+20,1.706018,4.82016,Flax 45deg_1,Flax 45deg
+21,1.789316,4.986368,Flax 45deg_1,Flax 45deg
+22,1.872652,5.150005999999999,Flax 45deg_1,Flax 45deg
+23,1.956,5.311898,Flax 45deg_1,Flax 45deg
+24,2.039328,5.470689999999999,Flax 45deg_1,Flax 45deg
+25,2.122642,5.624488,Flax 45deg_1,Flax 45deg
+26,2.206014,5.774192,Flax 45deg_1,Flax 45deg
+27,2.289346,5.921166,Flax 45deg_1,Flax 45deg
+28,2.372648,6.062659999999999,Flax 45deg_1,Flax 45deg
+29,2.4559960000000003,6.199027999999999,Flax 45deg_1,Flax 45deg
+30,2.539336,6.331994,Flax 45deg_1,Flax 45deg
+31,2.622632,6.459099999999999,Flax 45deg_1,Flax 45deg
+32,2.706006,6.581867999999999,Flax 45deg_1,Flax 45deg
+33,2.789324,6.701094,Flax 45deg_1,Flax 45deg
+34,2.8726420000000004,6.81513,Flax 45deg_1,Flax 45deg
+35,2.956004,6.925517999999999,Flax 45deg_1,Flax 45deg
+36,3.039346,7.03441,Flax 45deg_1,Flax 45deg
+37,3.122656,7.139475999999999,Flax 45deg_1,Flax 45deg
+38,3.205988,7.240624,Flax 45deg_1,Flax 45deg
+39,3.2893380000000003,7.341072,Flax 45deg_1,Flax 45deg
+40,3.372654,7.439304,Flax 45deg_1,Flax 45deg
+41,3.456014,7.535406,Flax 45deg_1,Flax 45deg
+42,3.539334,7.630604,Flax 45deg_1,Flax 45deg
+43,3.62265,7.723496,Flax 45deg_1,Flax 45deg
+44,3.706006,7.815014,Flax 45deg_1,Flax 45deg
+45,3.789326,7.906356,Flax 45deg_1,Flax 45deg
+46,3.872652,7.996064,Flax 45deg_1,Flax 45deg
+47,3.955998,8.083262,Flax 45deg_1,Flax 45deg
+48,4.039332,8.171038,Flax 45deg_1,Flax 45deg
+49,4.122658,8.25667,Flax 45deg_1,Flax 45deg
+50,4.206012,8.341380000000001,Flax 45deg_1,Flax 45deg
+51,4.289338,8.426088,Flax 45deg_1,Flax 45deg
+52,4.37266,8.508798,Flax 45deg_1,Flax 45deg
+53,4.456002,8.588116,Flax 45deg_1,Flax 45deg
+54,4.5393360000000005,8.666649999999999,Flax 45deg_1,Flax 45deg
+55,4.622652,8.741562,Flax 45deg_1,Flax 45deg
+56,4.705998,8.811484,Flax 45deg_1,Flax 45deg
+57,4.78931,8.87827,Flax 45deg_1,Flax 45deg
+58,4.872648,8.939146,Flax 45deg_1,Flax 45deg
+59,4.95602,8.98344,Flax 45deg_1,Flax 45deg
+60,5.039334,9.005932,Flax 45deg_1,Flax 45deg
+0,0.0397632653061224,0.2309020408163265,Flax 45deg_2,Flax 45deg
+1,0.122634,0.6719700000000001,Flax 45deg_2,Flax 45deg
+2,0.2059639999999999,1.099872,Flax 45deg_2,Flax 45deg
+3,0.289314,1.49011,Flax 45deg_2,Flax 45deg
+4,0.3726379999999999,1.833926,Flax 45deg_2,Flax 45deg
+5,0.455984,2.140072,Flax 45deg_2,Flax 45deg
+6,0.539328,2.415438,Flax 45deg_2,Flax 45deg
+7,0.622668,2.661636,Flax 45deg_2,Flax 45deg
+8,0.706002,2.8757080000000004,Flax 45deg_2,Flax 45deg
+9,0.78933,3.0683960000000003,Flax 45deg_2,Flax 45deg
+10,0.872654,3.247856,Flax 45deg_2,Flax 45deg
+11,0.95599,3.428306,Flax 45deg_2,Flax 45deg
+12,1.039328,3.606994,Flax 45deg_2,Flax 45deg
+13,1.12264,3.784138,Flax 45deg_2,Flax 45deg
+14,1.206,3.951484,Flax 45deg_2,Flax 45deg
+15,1.289334,4.10694,Flax 45deg_2,Flax 45deg
+16,1.37265,4.2627120000000005,Flax 45deg_2,Flax 45deg
+17,1.456016,4.422872,Flax 45deg_2,Flax 45deg
+18,1.5393199999999998,4.571898,Flax 45deg_2,Flax 45deg
+19,1.622642,4.71767,Flax 45deg_2,Flax 45deg
+20,1.706004,4.863554,Flax 45deg_2,Flax 45deg
+21,1.789324,5.010444,Flax 45deg_2,Flax 45deg
+22,1.87266,5.153372000000001,Flax 45deg_2,Flax 45deg
+23,1.955996,5.29279,Flax 45deg_2,Flax 45deg
+24,2.03933,5.429828,Flax 45deg_2,Flax 45deg
+25,2.122648,5.562894,Flax 45deg_2,Flax 45deg
+26,2.206012,5.6928600000000005,Flax 45deg_2,Flax 45deg
+27,2.289324,5.822882,Flax 45deg_2,Flax 45deg
+28,2.372668,5.951134,Flax 45deg_2,Flax 45deg
+29,2.455988,6.075868000000001,Flax 45deg_2,Flax 45deg
+30,2.53933,6.198854,Flax 45deg_2,Flax 45deg
+31,2.622662,6.317670000000001,Flax 45deg_2,Flax 45deg
+32,2.706002,6.4331320000000005,Flax 45deg_2,Flax 45deg
+33,2.789324,6.546968000000001,Flax 45deg_2,Flax 45deg
+34,2.872656,6.657064,Flax 45deg_2,Flax 45deg
+35,2.956012,6.7638300000000005,Flax 45deg_2,Flax 45deg
+36,3.039324,6.869196,Flax 45deg_2,Flax 45deg
+37,3.122652,6.971442,Flax 45deg_2,Flax 45deg
+38,3.2059960000000003,7.07129,Flax 45deg_2,Flax 45deg
+39,3.289344,7.170126,Flax 45deg_2,Flax 45deg
+40,3.372666,7.266097999999999,Flax 45deg_2,Flax 45deg
+41,3.456006,7.35973,Flax 45deg_2,Flax 45deg
+42,3.5393380000000003,7.453306,Flax 45deg_2,Flax 45deg
+43,3.622648,7.544202,Flax 45deg_2,Flax 45deg
+44,3.706004,7.633176,Flax 45deg_2,Flax 45deg
+45,3.789336,7.721596,Flax 45deg_2,Flax 45deg
+46,3.87265,7.808696,Flax 45deg_2,Flax 45deg
+47,3.956004,7.894692,Flax 45deg_2,Flax 45deg
+48,4.039334,7.980994000000001,Flax 45deg_2,Flax 45deg
+49,4.122642,8.065263999999999,Flax 45deg_2,Flax 45deg
+50,4.20602,8.14888,Flax 45deg_2,Flax 45deg
+51,4.2893360000000005,8.233428,Flax 45deg_2,Flax 45deg
+52,4.372656,8.316266,Flax 45deg_2,Flax 45deg
+53,4.455998,8.39742,Flax 45deg_2,Flax 45deg
+54,4.5393360000000005,8.478636,Flax 45deg_2,Flax 45deg
+55,4.622656,8.558376,Flax 45deg_2,Flax 45deg
+56,4.706008,8.636756,Flax 45deg_2,Flax 45deg
+57,4.789322,8.715054,Flax 45deg_2,Flax 45deg
+58,4.872654,8.790998,Flax 45deg_2,Flax 45deg
+59,4.956006,8.863842,Flax 45deg_2,Flax 45deg
+60,5.03934,8.93575,Flax 45deg_2,Flax 45deg
+61,5.122658,9.004158,Flax 45deg_2,Flax 45deg
+62,5.206008000000001,9.069006,Flax 45deg_2,Flax 45deg
+63,5.289344,9.1248,Flax 45deg_2,Flax 45deg
+0,0.0397632653061224,0.161934693877551,Flax 45deg_3,Flax 45deg
+1,0.122648,0.596148,Flax 45deg_3,Flax 45deg
+2,0.205962,1.027578,Flax 45deg_3,Flax 45deg
+3,0.28931,1.4157,Flax 45deg_3,Flax 45deg
+4,0.3726359999999999,1.739204,Flax 45deg_3,Flax 45deg
+5,0.45598,2.009616,Flax 45deg_3,Flax 45deg
+6,0.5393399999999999,2.241142,Flax 45deg_3,Flax 45deg
+7,0.622648,2.45467,Flax 45deg_3,Flax 45deg
+8,0.7059780000000001,2.639988,Flax 45deg_3,Flax 45deg
+9,0.78932,2.842838,Flax 45deg_3,Flax 45deg
+10,0.872654,3.04129,Flax 45deg_3,Flax 45deg
+11,0.956,3.214318,Flax 45deg_3,Flax 45deg
+12,1.039328,3.377152,Flax 45deg_3,Flax 45deg
+13,1.122666,3.53088,Flax 45deg_3,Flax 45deg
+14,1.20598,3.67574,Flax 45deg_3,Flax 45deg
+15,1.289324,3.825438,Flax 45deg_3,Flax 45deg
+16,1.372664,3.977966,Flax 45deg_3,Flax 45deg
+17,1.456002,4.12939,Flax 45deg_3,Flax 45deg
+18,1.539322,4.2810120000000005,Flax 45deg_3,Flax 45deg
+19,1.622648,4.433878,Flax 45deg_3,Flax 45deg
+20,1.706002,4.586834,Flax 45deg_3,Flax 45deg
+21,1.7893100000000002,4.739986,Flax 45deg_3,Flax 45deg
+22,1.87266,4.893256,Flax 45deg_3,Flax 45deg
+23,1.956,5.061456,Flax 45deg_3,Flax 45deg
+24,2.039306,5.215476,Flax 45deg_3,Flax 45deg
+25,2.122662,5.362318,Flax 45deg_3,Flax 45deg
+26,2.206014,5.507447999999999,Flax 45deg_3,Flax 45deg
+27,2.28932,5.651636,Flax 45deg_3,Flax 45deg
+28,2.372668,5.793884,Flax 45deg_3,Flax 45deg
+29,2.455976,5.932436,Flax 45deg_3,Flax 45deg
+30,2.539338,6.069095999999999,Flax 45deg_3,Flax 45deg
+31,2.622656,6.200114,Flax 45deg_3,Flax 45deg
+32,2.706016,6.328138,Flax 45deg_3,Flax 45deg
+33,2.7893220000000003,6.453258,Flax 45deg_3,Flax 45deg
+34,2.8726420000000004,6.573862,Flax 45deg_3,Flax 45deg
+35,2.95602,6.688604000000001,Flax 45deg_3,Flax 45deg
+36,3.039328,6.800084000000001,Flax 45deg_3,Flax 45deg
+37,3.122654,6.9066160000000005,Flax 45deg_3,Flax 45deg
+38,3.2059840000000004,7.008636,Flax 45deg_3,Flax 45deg
+39,3.28934,7.10977,Flax 45deg_3,Flax 45deg
+40,3.372674,7.20676,Flax 45deg_3,Flax 45deg
+41,3.45601,7.300706,Flax 45deg_3,Flax 45deg
+42,3.539336,7.392274,Flax 45deg_3,Flax 45deg
+43,3.622646,7.480155999999999,Flax 45deg_3,Flax 45deg
+44,3.706004,7.56495,Flax 45deg_3,Flax 45deg
+45,3.789326,7.649972,Flax 45deg_3,Flax 45deg
+46,3.872648,7.73077,Flax 45deg_3,Flax 45deg
+47,3.956002,7.803486,Flax 45deg_3,Flax 45deg
+0,0.0397428571428571,0.2571673469387755,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+1,0.122624,0.835524,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+2,0.205972,1.351788,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+3,0.2893,1.698888,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+4,0.3726339999999999,1.94466,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+5,0.455996,2.15133,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+6,0.539332,2.331498,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+7,0.6226579999999999,2.487728,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+8,0.705998,2.639918,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+9,0.789294,2.798572,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+10,0.87265,2.955166,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+11,0.956002,3.114414,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+12,1.03931,3.27931,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+13,1.122664,3.43875,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+14,1.205982,3.604056,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+15,1.289324,3.77533,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+16,1.372664,3.946152,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+17,1.45601,4.114666000000001,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+18,1.539308,4.280398,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+19,1.622664,4.454448,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+20,1.70599,4.633104,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+21,1.7893,4.809648,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+22,1.87266,4.98496,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+23,1.956008,5.155984,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+24,2.0393,5.332702,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+25,2.12264,5.509755999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+26,2.206024,5.6959,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+27,2.28932,5.8831240000000005,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+28,2.372652,6.067812,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+29,2.456002,6.249144,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+30,2.539322,6.432938,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+31,2.62265,6.6101160000000005,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+32,2.7059960000000003,6.789904,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+33,2.789314,6.968152,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+34,2.872638,7.146248000000001,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+35,2.956016,7.323297999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+36,3.039324,7.508211999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+37,3.12264,7.695264,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+38,3.20599,7.880818,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+39,3.28932,8.065474,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+40,3.3726800000000003,8.258326,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+41,3.45601,8.453375999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+42,3.539324,8.645704,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+43,3.622654,8.835808,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+44,3.705996,9.025638,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+45,3.78932,9.217574,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+46,3.872652,9.41175,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+47,3.956,9.605336,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+48,4.039324,9.798064,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+49,4.122656,9.988204,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+50,4.206008,10.177888,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+51,4.289328,10.36995,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+52,4.37266,10.55646,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+53,4.4559940000000005,10.740626,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+54,4.539326,10.928188,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+55,4.622648,11.113562,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+56,4.706008,11.295554,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+57,4.789328,11.479092,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+58,4.87265,11.665124,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+59,4.956008,11.849838,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+60,5.039324,12.034954,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+61,5.122648000000001,12.216107999999998,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+62,5.206,12.39346,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+63,5.289328,12.573426,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+64,5.372648000000001,12.755942,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+65,5.456014,12.93906,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+66,5.539328,13.11917,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+67,5.622644,13.299508,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+68,5.705988,13.478516,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+69,5.789324000000001,13.657082,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+70,5.872666000000001,13.835034,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+71,5.956008000000001,14.012657999999998,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+72,6.03932,14.190906,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+73,6.122652,14.36399,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+74,6.205997999999999,14.538764,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+75,6.289318,14.713556,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+76,6.372642,14.885228,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+77,6.456,15.05647,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+78,6.539321999999999,15.222640000000002,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+79,6.622644,15.38751,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+80,6.706018,15.54728,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+81,6.789331999999999,15.696014,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+82,6.87266,15.843178,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+83,6.955996,15.986652,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+84,7.03933,16.126076,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+85,7.122644,16.24504,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+86,7.206008000000001,16.36772,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+0,0.0397469387755102,0.341969387755102,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+1,0.122638,0.884812,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+2,0.205972,1.38995,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+3,0.289292,1.7856219999999998,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+4,0.372652,2.10656,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+5,0.455992,2.383198,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+6,0.539328,2.630604,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+7,0.6226619999999999,2.847098,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+8,0.705998,3.04647,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+9,0.7893340000000001,3.236934,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+10,0.872634,3.40917,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+11,0.956002,3.569218,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+12,1.039348,3.733532,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+13,1.122644,3.915438,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+14,1.205994,4.091624,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+15,1.289344,4.263938,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+16,1.37265,4.44176,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+17,1.456012,4.62513,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+18,1.5393279999999998,4.82028,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+19,1.622646,5.017647999999999,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+20,1.706,5.20826,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+21,1.789326,5.399072,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+22,1.872658,5.581544,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+23,1.955992,5.761083999999999,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+24,2.039326,5.943816000000001,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+25,2.12267,6.1287080000000005,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+26,2.206006,6.31836,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+27,2.289324,6.511402,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+28,2.372658,6.700262,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+29,2.455984,6.886921999999999,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+30,2.539334,7.075544,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+31,2.62265,7.267334,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+32,2.705992,7.462548000000001,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+33,2.789316,7.660536,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+34,2.87266,7.859516,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+35,2.9559960000000003,8.055932,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+36,3.039312,8.250843999999999,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+37,3.122664,8.441932000000001,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+38,3.205978,8.629302000000001,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+39,3.289318,8.819942,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+40,3.3726800000000003,9.009206,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+41,3.455998,9.198192,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+42,3.539324,9.382886,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+43,3.622646,9.559214,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+44,3.705988,9.740792,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+45,3.789312,9.926586,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+46,3.872656,10.106822,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+47,3.956002,10.285668,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+48,4.039316,10.468842,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+49,4.122654,10.651378,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+50,4.206006,10.831512,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+51,4.289334,11.011202,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+52,4.372644,11.193245999999998,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+53,4.4559940000000005,11.378614,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+54,4.539324,11.558714,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+55,4.622646,11.737562,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+56,4.706,11.921492,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+57,4.789318,12.102236,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+58,4.872648,12.282614,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+59,4.956004,12.459706,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+60,5.039322,12.632014,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+61,5.122644,12.802675999999998,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+62,5.206008000000001,12.970528,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+63,5.289321999999999,13.140058,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+64,5.372652,13.30273,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+65,5.456004,13.461010000000002,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+66,5.53933,13.626392,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+67,5.622644,13.79694,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+68,5.705990000000001,13.940366,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+69,5.789331999999999,14.088288,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+70,5.872655999999999,14.242202,Basalt Hemp 0deg_2,Basalt Hemp 0deg
+0,0.0397408163265306,0.2747142857142857,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+1,0.122634,0.7962640000000001,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+2,0.205976,1.303152,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+3,0.289306,1.692018,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+4,0.372642,2.002542,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+5,0.455994,2.257262,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+6,0.539332,2.477022,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+7,0.6226579999999999,2.695132,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+8,0.705998,2.89111,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+9,0.78932,3.10346,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+10,0.87265,3.3187900000000004,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+11,0.956008,3.530944,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+12,1.039328,3.751952,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+13,1.122656,3.961034,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+14,1.205984,4.171332,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+15,1.289348,4.393038000000001,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+16,1.372648,4.6078,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+17,1.456014,4.823778,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+18,1.539332,5.0344560000000005,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+19,1.622632,5.232402,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+20,1.706018,5.432404,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+21,1.789334,5.62764,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+22,1.872662,5.813146000000001,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+23,1.956004,6.008819999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+24,2.039324,6.216921999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+25,2.122644,6.428293999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+26,2.206006,6.63452,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+27,2.289326,6.839498,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+28,2.372644,7.042142,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+29,2.45599,7.244166,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+30,2.539322,7.446996,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+31,2.622652,7.64929,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+32,2.705988,7.846048,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+33,2.789334,8.044382,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+34,2.87265,8.245326,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+35,2.956002,8.442626,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+36,3.039336,8.639328,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+37,3.122658,8.835531999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+38,3.205978,9.030242,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+39,3.2893419999999995,9.224388,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+40,3.372662,9.416482,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+41,3.456002,9.604814,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+42,3.53933,9.794462,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+43,3.622656,9.987252,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+44,3.705998,10.182654,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+45,3.789316,10.373604,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+46,3.872648,10.560016,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+47,3.955998,10.744556,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+48,4.039314,10.928717999999998,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+49,4.122648,11.10835,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+50,4.206,11.287676,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+51,4.28933,11.469222,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+52,4.372646,11.65942,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+53,4.4559820000000006,11.846622,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+54,4.539334,12.031292,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+55,4.622642,12.216959999999998,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+56,4.706004,12.402736,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+57,4.789326,12.584896,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+58,4.872646,12.752136,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+59,4.956004,12.93057,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+60,5.039326,13.103572,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+61,5.122652,13.282238,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+62,5.206,13.454776,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+63,5.289326,13.616894,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+64,5.37265,13.77161,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+65,5.456006,13.931432,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+66,5.53933,14.080838000000002,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+67,5.622646,14.237018,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+0,0.0397510204081632,0.233469387755102,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+1,0.122644,0.747612,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+2,0.2059659999999999,1.248394,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+3,0.2893,1.6177959999999998,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+4,0.372656,1.897524,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+5,0.4559899999999999,2.106024,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+6,0.53933,2.284886,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+7,0.6226619999999999,2.448182,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+8,0.705996,2.60623,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+9,0.7893399999999999,2.781406,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+10,0.87263,2.959212,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+11,0.95601,3.131338,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+12,1.039332,3.292482,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+13,1.122658,3.46451,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+14,1.206002,3.645178,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+15,1.289336,3.832232,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+16,1.37265,4.017162,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+17,1.456008,4.202772,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+18,1.539332,4.390018,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+19,1.622646,4.57824,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+20,1.706004,4.770102,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+21,1.78933,4.96392,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+22,1.872646,5.161088,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+23,1.955994,5.357698,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+24,2.03933,5.55399,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+25,2.122652,5.748038,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+26,2.206006,5.944902,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+27,2.289338,6.14352,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+28,2.372648,6.347656,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+29,2.4559800000000003,6.551632,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+30,2.539336,6.75821,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+31,2.622646,6.9636000000000005,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+32,2.7060000000000004,7.162162,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+33,2.7893220000000003,7.364808,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+34,2.872646,7.568228,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+35,2.9560000000000004,7.772982,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+36,3.03933,7.979674,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+37,3.122648,8.183796,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+38,3.2060000000000004,8.386324,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+39,3.289336,8.595317999999999,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+40,3.372656,8.800576,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+41,3.456006,9.003244,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+42,3.5393220000000003,9.205488,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+43,3.622664,9.412406,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+44,3.705994,9.620234,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+45,3.78933,9.824378,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+46,3.872652,10.027906,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+47,3.956,10.233894,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+48,4.039316,10.443858,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+49,4.122652,10.654682,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+50,4.206012,10.86136,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+51,4.289332,11.067932,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+52,4.372654,11.270772,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+53,4.455998,11.470866,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+54,4.539326,11.67302,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+55,4.622642,11.869776,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+56,4.705996,12.06261,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+57,4.78932,12.257428,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+58,4.872648,12.448581999999998,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+59,4.955996,12.64186,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+60,5.03932,12.841322,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+61,5.122658,13.043852,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+62,5.205992,13.244028,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+63,5.28932,13.440138,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+64,5.372646,13.628042,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+65,5.456006,13.821232,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+66,5.539328,14.014656,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+67,5.622631999999999,14.1999,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+68,5.705994,14.385048,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+69,5.789331999999999,14.572442,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+70,5.87266,14.752852,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+71,5.956016,14.931316,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+72,6.039332000000001,15.117068,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+73,6.1226400000000005,15.293018,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+74,6.205978,15.462042,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+75,6.289328,15.635856,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+76,6.372654,15.808398,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+77,6.455992,15.971924,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+78,6.53932,16.131512,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+79,6.622642,16.29639,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+80,6.70601,16.453827999999998,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+81,6.789326,16.546468,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+0,0.0397571428571428,0.1542816326530612,Hemp 0deg_1,Hemp 0deg
+1,0.12263,0.47021,Hemp 0deg_1,Hemp 0deg
+2,0.205974,0.815848,Hemp 0deg_1,Hemp 0deg
+3,0.289306,1.144812,Hemp 0deg_1,Hemp 0deg
+4,0.37265,1.423942,Hemp 0deg_1,Hemp 0deg
+5,0.4559879999999999,1.6667519999999998,Hemp 0deg_1,Hemp 0deg
+6,0.5393439999999999,1.865718,Hemp 0deg_1,Hemp 0deg
+7,0.6226579999999999,2.042404,Hemp 0deg_1,Hemp 0deg
+8,0.706002,2.218434,Hemp 0deg_1,Hemp 0deg
+9,0.789346,2.392194,Hemp 0deg_1,Hemp 0deg
+10,0.87263,2.560132,Hemp 0deg_1,Hemp 0deg
+11,0.95601,2.7225740000000003,Hemp 0deg_1,Hemp 0deg
+12,1.039332,2.879412,Hemp 0deg_1,Hemp 0deg
+13,1.12265,3.030236,Hemp 0deg_1,Hemp 0deg
+14,1.205982,3.176826,Hemp 0deg_1,Hemp 0deg
+15,1.289342,3.317104,Hemp 0deg_1,Hemp 0deg
+16,1.3726580000000002,3.449612,Hemp 0deg_1,Hemp 0deg
+17,1.456014,3.5776060000000003,Hemp 0deg_1,Hemp 0deg
+18,1.539346,3.705858,Hemp 0deg_1,Hemp 0deg
+19,1.622646,3.824126,Hemp 0deg_1,Hemp 0deg
+20,1.706006,3.932318,Hemp 0deg_1,Hemp 0deg
+21,1.78934,4.030022,Hemp 0deg_1,Hemp 0deg
+22,1.872658,4.12308,Hemp 0deg_1,Hemp 0deg
+23,1.955994,4.215168,Hemp 0deg_1,Hemp 0deg
+24,2.0393440000000003,4.302736,Hemp 0deg_1,Hemp 0deg
+25,2.122666,4.382156,Hemp 0deg_1,Hemp 0deg
+26,2.206012,4.454454,Hemp 0deg_1,Hemp 0deg
+27,2.28932,4.519088,Hemp 0deg_1,Hemp 0deg
+28,2.372662,4.564192,Hemp 0deg_1,Hemp 0deg
+29,2.456002,4.604914,Hemp 0deg_1,Hemp 0deg
+0,0.0397530612244897,0.1011918367346938,Hemp 0deg_2,Hemp 0deg
+1,0.122638,0.394392,Hemp 0deg_2,Hemp 0deg
+2,0.205972,0.739074,Hemp 0deg_2,Hemp 0deg
+3,0.289292,1.0766,Hemp 0deg_2,Hemp 0deg
+4,0.3726359999999999,1.369392,Hemp 0deg_2,Hemp 0deg
+5,0.456002,1.61607,Hemp 0deg_2,Hemp 0deg
+6,0.539338,1.82531,Hemp 0deg_2,Hemp 0deg
+7,0.622636,2.01641,Hemp 0deg_2,Hemp 0deg
+8,0.706,2.178562,Hemp 0deg_2,Hemp 0deg
+9,0.7893340000000001,2.343554,Hemp 0deg_2,Hemp 0deg
+10,0.872636,2.505458,Hemp 0deg_2,Hemp 0deg
+11,0.956008,2.664554,Hemp 0deg_2,Hemp 0deg
+12,1.039332,2.829654,Hemp 0deg_2,Hemp 0deg
+13,1.122648,2.976548,Hemp 0deg_2,Hemp 0deg
+14,1.20599,3.107578,Hemp 0deg_2,Hemp 0deg
+15,1.289348,3.237426,Hemp 0deg_2,Hemp 0deg
+16,1.372652,3.36308,Hemp 0deg_2,Hemp 0deg
+17,1.456008,3.4845,Hemp 0deg_2,Hemp 0deg
+18,1.53934,3.604038,Hemp 0deg_2,Hemp 0deg
+19,1.622628,3.719302,Hemp 0deg_2,Hemp 0deg
+20,1.706014,3.83238,Hemp 0deg_2,Hemp 0deg
+21,1.789336,3.942596,Hemp 0deg_2,Hemp 0deg
+22,1.872644,4.046748,Hemp 0deg_2,Hemp 0deg
+23,1.955986,4.1486860000000005,Hemp 0deg_2,Hemp 0deg
+24,2.039342,4.242442,Hemp 0deg_2,Hemp 0deg
+25,2.122664,4.32897,Hemp 0deg_2,Hemp 0deg
+26,2.206012,4.408242,Hemp 0deg_2,Hemp 0deg
+0,0.0397571428571428,0.0738306122448979,Hemp 0deg_3,Hemp 0deg
+1,0.12262,0.330604,Hemp 0deg_3,Hemp 0deg
+2,0.205984,0.713252,Hemp 0deg_3,Hemp 0deg
+3,0.289298,1.095682,Hemp 0deg_3,Hemp 0deg
+4,0.372614,1.445716,Hemp 0deg_3,Hemp 0deg
+5,0.456004,1.760016,Hemp 0deg_3,Hemp 0deg
+6,0.539342,2.040664,Hemp 0deg_3,Hemp 0deg
+7,0.622638,2.292684,Hemp 0deg_3,Hemp 0deg
+8,0.706002,2.522906,Hemp 0deg_3,Hemp 0deg
+9,0.789332,2.730952,Hemp 0deg_3,Hemp 0deg
+10,0.87263,2.913068,Hemp 0deg_3,Hemp 0deg
+11,0.956008,3.060424,Hemp 0deg_3,Hemp 0deg
+12,1.03934,3.195282,Hemp 0deg_3,Hemp 0deg
+13,1.122644,3.3294940000000004,Hemp 0deg_3,Hemp 0deg
+14,1.2059959999999998,3.459708,Hemp 0deg_3,Hemp 0deg
+15,1.289332,3.585754,Hemp 0deg_3,Hemp 0deg
+16,1.372654,3.706558,Hemp 0deg_3,Hemp 0deg
+17,1.455986,3.822954,Hemp 0deg_3,Hemp 0deg
+18,1.53935,3.93543,Hemp 0deg_3,Hemp 0deg
+19,1.62265,4.041812,Hemp 0deg_3,Hemp 0deg
+20,1.705986,4.14206,Hemp 0deg_3,Hemp 0deg
+21,1.789356,4.236822,Hemp 0deg_3,Hemp 0deg
+22,1.872658,4.326096,Hemp 0deg_3,Hemp 0deg
+23,1.955976,4.405212000000001,Hemp 0deg_3,Hemp 0deg
+24,2.039348,4.473002,Hemp 0deg_3,Hemp 0deg
+25,2.122664,4.527508,Hemp 0deg_3,Hemp 0deg
+26,2.206004,4.573772,Hemp 0deg_3,Hemp 0deg
+27,2.28934,4.60143,Hemp 0deg_3,Hemp 0deg
+0,0.039769387755102,0.277538775510204,Basalt 0deg_1,Basalt 0deg
+1,0.122664,1.181704,Basalt 0deg_1,Basalt 0deg
+2,0.20602,1.917048,Basalt 0deg_1,Basalt 0deg
+3,0.28936,2.45855,Basalt 0deg_1,Basalt 0deg
+4,0.3726959999999999,2.9167140000000003,Basalt 0deg_1,Basalt 0deg
+5,0.456038,3.318918,Basalt 0deg_1,Basalt 0deg
+6,0.539378,3.66346,Basalt 0deg_1,Basalt 0deg
+7,0.622706,3.93265,Basalt 0deg_1,Basalt 0deg
+8,0.7060339999999999,4.185772,Basalt 0deg_1,Basalt 0deg
+9,0.7893819999999999,4.448956,Basalt 0deg_1,Basalt 0deg
+10,0.872688,4.71397,Basalt 0deg_1,Basalt 0deg
+11,0.956036,4.9856240000000005,Basalt 0deg_1,Basalt 0deg
+12,1.03938,5.265666,Basalt 0deg_1,Basalt 0deg
+13,1.122702,5.552312,Basalt 0deg_1,Basalt 0deg
+14,1.20603,5.843624,Basalt 0deg_1,Basalt 0deg
+15,1.289374,6.143072,Basalt 0deg_1,Basalt 0deg
+16,1.372704,6.444482000000001,Basalt 0deg_1,Basalt 0deg
+17,1.4560400000000002,6.747446,Basalt 0deg_1,Basalt 0deg
+18,1.539374,7.056688,Basalt 0deg_1,Basalt 0deg
+19,1.622702,7.367916,Basalt 0deg_1,Basalt 0deg
+20,1.7060400000000002,7.683016,Basalt 0deg_1,Basalt 0deg
+21,1.78938,8.004214,Basalt 0deg_1,Basalt 0deg
+22,1.872704,8.327796,Basalt 0deg_1,Basalt 0deg
+23,1.956032,8.656842000000001,Basalt 0deg_1,Basalt 0deg
+24,2.039372,8.994508,Basalt 0deg_1,Basalt 0deg
+25,2.122704,9.334924,Basalt 0deg_1,Basalt 0deg
+26,2.206044,9.680256,Basalt 0deg_1,Basalt 0deg
+27,2.289372,10.03172,Basalt 0deg_1,Basalt 0deg
+28,2.3727080000000003,10.384344,Basalt 0deg_1,Basalt 0deg
+29,2.456024,10.736812,Basalt 0deg_1,Basalt 0deg
+30,2.539364,11.094628,Basalt 0deg_1,Basalt 0deg
+31,2.6227080000000003,11.453438,Basalt 0deg_1,Basalt 0deg
+32,2.706038,11.815128,Basalt 0deg_1,Basalt 0deg
+33,2.789366,12.183132,Basalt 0deg_1,Basalt 0deg
+34,2.872702,12.552012,Basalt 0deg_1,Basalt 0deg
+35,2.956044,12.921624,Basalt 0deg_1,Basalt 0deg
+36,3.039364,13.294668,Basalt 0deg_1,Basalt 0deg
+37,3.122698,13.6675,Basalt 0deg_1,Basalt 0deg
+38,3.206036,14.037724,Basalt 0deg_1,Basalt 0deg
+39,3.28937,14.4133,Basalt 0deg_1,Basalt 0deg
+40,3.372702,14.787866,Basalt 0deg_1,Basalt 0deg
+41,3.456036,15.162482,Basalt 0deg_1,Basalt 0deg
+42,3.539376,15.543806,Basalt 0deg_1,Basalt 0deg
+43,3.622692,15.92529,Basalt 0deg_1,Basalt 0deg
+44,3.706052,16.311014,Basalt 0deg_1,Basalt 0deg
+45,3.789354,16.700504000000002,Basalt 0deg_1,Basalt 0deg
+46,3.872694,17.08781,Basalt 0deg_1,Basalt 0deg
+47,3.956034,17.475393999999998,Basalt 0deg_1,Basalt 0deg
+48,4.03937,17.865925999999998,Basalt 0deg_1,Basalt 0deg
+49,4.1227,18.25626,Basalt 0deg_1,Basalt 0deg
+50,4.20605,18.645364,Basalt 0deg_1,Basalt 0deg
+51,4.28938,19.034812,Basalt 0deg_1,Basalt 0deg
+52,4.372686,19.421362,Basalt 0deg_1,Basalt 0deg
+53,4.456032,19.806574,Basalt 0deg_1,Basalt 0deg
+54,4.53939,20.193112,Basalt 0deg_1,Basalt 0deg
+55,4.62269,20.576802,Basalt 0deg_1,Basalt 0deg
+56,4.706046,20.947396,Basalt 0deg_1,Basalt 0deg
+57,4.789354,21.32412,Basalt 0deg_1,Basalt 0deg
+58,4.872713999999999,21.703632,Basalt 0deg_1,Basalt 0deg
+59,4.95605,22.078694,Basalt 0deg_1,Basalt 0deg
+60,5.03937,22.452496,Basalt 0deg_1,Basalt 0deg
+61,5.1227,22.823882,Basalt 0deg_1,Basalt 0deg
+62,5.206044,23.19687,Basalt 0deg_1,Basalt 0deg
+63,5.289358,23.572402,Basalt 0deg_1,Basalt 0deg
+64,5.372696,23.936144,Basalt 0deg_1,Basalt 0deg
+65,5.456040000000001,24.298686,Basalt 0deg_1,Basalt 0deg
+66,5.5393740000000005,24.654824,Basalt 0deg_1,Basalt 0deg
+67,5.622704,24.999148,Basalt 0deg_1,Basalt 0deg
+68,5.706040000000001,25.21457,Basalt 0deg_1,Basalt 0deg
+69,5.789382000000001,25.288506,Basalt 0deg_1,Basalt 0deg
+70,5.872726,25.296976,Basalt 0deg_1,Basalt 0deg
+71,5.956066,25.394008,Basalt 0deg_1,Basalt 0deg
+72,6.03938,25.582286,Basalt 0deg_1,Basalt 0deg
+73,6.122702,25.797966,Basalt 0deg_1,Basalt 0deg
+74,6.206066,25.997818,Basalt 0deg_1,Basalt 0deg
+75,6.28937,26.168346,Basalt 0deg_1,Basalt 0deg
+76,6.372696,26.252206,Basalt 0deg_1,Basalt 0deg
+0,0.0397591836734693,0.1100204081632653,Hemp 0deg_4,Hemp 0deg
+1,0.122644,0.39046,Hemp 0deg_4,Hemp 0deg
+2,0.2059639999999999,0.74233,Hemp 0deg_4,Hemp 0deg
+3,0.289306,1.074828,Hemp 0deg_4,Hemp 0deg
+4,0.372624,1.3807900000000002,Hemp 0deg_4,Hemp 0deg
+5,0.456014,1.6544139999999998,Hemp 0deg_4,Hemp 0deg
+6,0.539336,1.89282,Hemp 0deg_4,Hemp 0deg
+7,0.622642,2.10456,Hemp 0deg_4,Hemp 0deg
+8,0.70601,2.2924360000000004,Hemp 0deg_4,Hemp 0deg
+9,0.789332,2.47132,Hemp 0deg_4,Hemp 0deg
+10,0.872642,2.65251,Hemp 0deg_4,Hemp 0deg
+11,0.956016,2.82816,Hemp 0deg_4,Hemp 0deg
+12,1.03934,2.988784,Hemp 0deg_4,Hemp 0deg
+13,1.122654,3.139036,Hemp 0deg_4,Hemp 0deg
+14,1.20599,3.2835840000000003,Hemp 0deg_4,Hemp 0deg
+15,1.28934,3.423852,Hemp 0deg_4,Hemp 0deg
+16,1.372654,3.556262,Hemp 0deg_4,Hemp 0deg
+17,1.456006,3.682252,Hemp 0deg_4,Hemp 0deg
+18,1.539344,3.801082,Hemp 0deg_4,Hemp 0deg
+19,1.622648,3.90791,Hemp 0deg_4,Hemp 0deg
+20,1.705968,4.008778,Hemp 0deg_4,Hemp 0deg
+21,1.789366,4.105918,Hemp 0deg_4,Hemp 0deg
+22,1.872652,4.195576,Hemp 0deg_4,Hemp 0deg
+23,1.955986,4.282406,Hemp 0deg_4,Hemp 0deg
+24,2.039334,4.36464,Hemp 0deg_4,Hemp 0deg
+25,2.122658,4.430212,Hemp 0deg_4,Hemp 0deg
+0,0.0397510204081632,0.1323020408163265,Flax 0deg_1,Flax 0deg
+1,0.12264,0.46895,Flax 0deg_1,Flax 0deg
+2,0.205978,0.855008,Flax 0deg_1,Flax 0deg
+3,0.289298,1.234352,Flax 0deg_1,Flax 0deg
+4,0.372614,1.5927099999999998,Flax 0deg_1,Flax 0deg
+5,0.4560099999999999,1.913638,Flax 0deg_1,Flax 0deg
+6,0.539346,2.201314,Flax 0deg_1,Flax 0deg
+7,0.622628,2.45365,Flax 0deg_1,Flax 0deg
+8,0.7060080000000001,2.6736880000000003,Flax 0deg_1,Flax 0deg
+9,0.789332,2.873138,Flax 0deg_1,Flax 0deg
+10,0.872636,3.051128,Flax 0deg_1,Flax 0deg
+11,0.956008,3.23472,Flax 0deg_1,Flax 0deg
+12,1.039334,3.41909,Flax 0deg_1,Flax 0deg
+13,1.122654,3.58061,Flax 0deg_1,Flax 0deg
+14,1.206008,3.725796,Flax 0deg_1,Flax 0deg
+15,1.289332,3.868076,Flax 0deg_1,Flax 0deg
+16,1.3726580000000002,4.01394,Flax 0deg_1,Flax 0deg
+17,1.456002,4.159186,Flax 0deg_1,Flax 0deg
+18,1.539336,4.303272,Flax 0deg_1,Flax 0deg
+19,1.622642,4.4451920000000005,Flax 0deg_1,Flax 0deg
+20,1.705986,4.58847,Flax 0deg_1,Flax 0deg
+21,1.789342,4.732442,Flax 0deg_1,Flax 0deg
+22,1.87266,4.876542,Flax 0deg_1,Flax 0deg
+23,1.955972,5.019694,Flax 0deg_1,Flax 0deg
+24,2.039358,5.165398,Flax 0deg_1,Flax 0deg
+25,2.122664,5.310796,Flax 0deg_1,Flax 0deg
+26,2.205982,5.456492,Flax 0deg_1,Flax 0deg
+27,2.28934,5.60588,Flax 0deg_1,Flax 0deg
+28,2.372658,5.758168,Flax 0deg_1,Flax 0deg
+29,2.455986,5.910259999999999,Flax 0deg_1,Flax 0deg
+30,2.53935,6.053484,Flax 0deg_1,Flax 0deg
+31,2.622646,6.191478,Flax 0deg_1,Flax 0deg
+32,2.706006,6.32862,Flax 0deg_1,Flax 0deg
+33,2.78933,6.46539,Flax 0deg_1,Flax 0deg
+34,2.872656,6.600026000000001,Flax 0deg_1,Flax 0deg
+35,2.956008,6.728630000000001,Flax 0deg_1,Flax 0deg
+36,3.039328,6.855588,Flax 0deg_1,Flax 0deg
+37,3.122658,6.983764,Flax 0deg_1,Flax 0deg
+38,3.205986,7.113198,Flax 0deg_1,Flax 0deg
+39,3.2893419999999995,7.243744,Flax 0deg_1,Flax 0deg
+40,3.372668,7.372190000000001,Flax 0deg_1,Flax 0deg
+41,3.4560000000000004,7.498594000000001,Flax 0deg_1,Flax 0deg
+42,3.539336,7.624131999999999,Flax 0deg_1,Flax 0deg
+43,3.622654,7.747261999999999,Flax 0deg_1,Flax 0deg
+44,3.706002,7.867523999999999,Flax 0deg_1,Flax 0deg
+45,3.789328,7.98567,Flax 0deg_1,Flax 0deg
+46,3.87265,8.100024,Flax 0deg_1,Flax 0deg
+47,3.956004,8.209996,Flax 0deg_1,Flax 0deg
+48,4.039332,8.317208,Flax 0deg_1,Flax 0deg
+49,4.122646,8.416278,Flax 0deg_1,Flax 0deg
+0,0.0397673469387755,0.0737673469387755,Flax 0deg_2,Flax 0deg
+1,0.122642,0.39356,Flax 0deg_2,Flax 0deg
+2,0.20597,0.77208,Flax 0deg_2,Flax 0deg
+3,0.289304,1.106688,Flax 0deg_2,Flax 0deg
+4,0.3726319999999999,1.39883,Flax 0deg_2,Flax 0deg
+5,0.456004,1.64289,Flax 0deg_2,Flax 0deg
+6,0.539326,1.844992,Flax 0deg_2,Flax 0deg
+7,0.62266,2.007182,Flax 0deg_2,Flax 0deg
+8,0.706002,2.167514,Flax 0deg_2,Flax 0deg
+9,0.789332,2.331332,Flax 0deg_2,Flax 0deg
+10,0.87264,2.475024,Flax 0deg_2,Flax 0deg
+11,0.956,2.63644,Flax 0deg_2,Flax 0deg
+12,1.039328,2.811392,Flax 0deg_2,Flax 0deg
+13,1.122646,2.981988,Flax 0deg_2,Flax 0deg
+14,1.20601,3.15403,Flax 0deg_2,Flax 0deg
+15,1.28934,3.329906,Flax 0deg_2,Flax 0deg
+16,1.372652,3.50943,Flax 0deg_2,Flax 0deg
+17,1.456018,3.69222,Flax 0deg_2,Flax 0deg
+18,1.539338,3.877504,Flax 0deg_2,Flax 0deg
+19,1.622644,4.064374,Flax 0deg_2,Flax 0deg
+20,1.705994,4.251716,Flax 0deg_2,Flax 0deg
+21,1.789336,4.441414,Flax 0deg_2,Flax 0deg
+22,1.872642,4.630018,Flax 0deg_2,Flax 0deg
+23,1.955988,4.81795,Flax 0deg_2,Flax 0deg
+24,2.039346,5.009702,Flax 0deg_2,Flax 0deg
+25,2.122656,5.199964,Flax 0deg_2,Flax 0deg
+26,2.2059800000000003,5.389031999999999,Flax 0deg_2,Flax 0deg
+27,2.289342,5.580088,Flax 0deg_2,Flax 0deg
+28,2.372656,5.768402,Flax 0deg_2,Flax 0deg
+29,2.455976,5.953384,Flax 0deg_2,Flax 0deg
+30,2.5393440000000003,6.1379280000000005,Flax 0deg_2,Flax 0deg
+31,2.622654,6.318518,Flax 0deg_2,Flax 0deg
+32,2.705982,6.494432000000001,Flax 0deg_2,Flax 0deg
+33,2.78934,6.668956,Flax 0deg_2,Flax 0deg
+34,2.8726420000000004,6.83821,Flax 0deg_2,Flax 0deg
+35,2.9559960000000003,7.004056,Flax 0deg_2,Flax 0deg
+36,3.039346,7.168182000000001,Flax 0deg_2,Flax 0deg
+37,3.122658,7.327139999999999,Flax 0deg_2,Flax 0deg
+38,3.205988,7.481584000000001,Flax 0deg_2,Flax 0deg
+39,3.289346,7.633497999999999,Flax 0deg_2,Flax 0deg
+40,3.372662,7.780252000000001,Flax 0deg_2,Flax 0deg
+41,3.45601,7.923258,Flax 0deg_2,Flax 0deg
+42,3.539324,8.063332,Flax 0deg_2,Flax 0deg
+43,3.62265,8.198726,Flax 0deg_2,Flax 0deg
+44,3.705998,8.330814,Flax 0deg_2,Flax 0deg
+45,3.78932,8.461194,Flax 0deg_2,Flax 0deg
+46,3.872648,8.588208,Flax 0deg_2,Flax 0deg
+47,3.956008,8.711864,Flax 0deg_2,Flax 0deg
+48,4.039332,8.834758,Flax 0deg_2,Flax 0deg
+49,4.122646,8.955136,Flax 0deg_2,Flax 0deg
+50,4.20601,9.073688,Flax 0deg_2,Flax 0deg
+51,4.289328,9.193078,Flax 0deg_2,Flax 0deg
+52,4.372656,9.310582,Flax 0deg_2,Flax 0deg
+53,4.455988,9.426408,Flax 0deg_2,Flax 0deg
+54,4.539334,9.542784,Flax 0deg_2,Flax 0deg
+55,4.62265,9.657076,Flax 0deg_2,Flax 0deg
+56,4.706002,9.76834,Flax 0deg_2,Flax 0deg
+0,0.0397591836734693,0.1074163265306122,Flax 0deg_3,Flax 0deg
+1,0.1226459999999999,0.4036039999999999,Flax 0deg_3,Flax 0deg
+2,0.20597,0.862706,Flax 0deg_3,Flax 0deg
+3,0.289296,1.3138,Flax 0deg_3,Flax 0deg
+4,0.3726339999999999,1.701124,Flax 0deg_3,Flax 0deg
+5,0.4559879999999999,2.015276,Flax 0deg_3,Flax 0deg
+6,0.5393180000000001,2.269062,Flax 0deg_3,Flax 0deg
+7,0.62265,2.476454,Flax 0deg_3,Flax 0deg
+8,0.705994,2.655108,Flax 0deg_3,Flax 0deg
+9,0.789328,2.83717,Flax 0deg_3,Flax 0deg
+10,0.872646,3.026368,Flax 0deg_3,Flax 0deg
+11,0.95601,3.218532,Flax 0deg_3,Flax 0deg
+12,1.03932,3.40815,Flax 0deg_3,Flax 0deg
+13,1.122652,3.591792,Flax 0deg_3,Flax 0deg
+14,1.206,3.76924,Flax 0deg_3,Flax 0deg
+15,1.289338,3.932978,Flax 0deg_3,Flax 0deg
+16,1.372668,4.103694,Flax 0deg_3,Flax 0deg
+17,1.456016,4.272742,Flax 0deg_3,Flax 0deg
+18,1.539336,4.441992,Flax 0deg_3,Flax 0deg
+19,1.622634,4.612074,Flax 0deg_3,Flax 0deg
+20,1.706024,4.780994,Flax 0deg_3,Flax 0deg
+21,1.789326,4.95048,Flax 0deg_3,Flax 0deg
+22,1.872624,5.119724,Flax 0deg_3,Flax 0deg
+23,1.956006,5.289488,Flax 0deg_3,Flax 0deg
+24,2.03934,5.460512,Flax 0deg_3,Flax 0deg
+25,2.122634,5.627786,Flax 0deg_3,Flax 0deg
+26,2.206018,5.795846,Flax 0deg_3,Flax 0deg
+27,2.289332,5.964966,Flax 0deg_3,Flax 0deg
+28,2.372638,6.129534,Flax 0deg_3,Flax 0deg
+29,2.455994,6.291034,Flax 0deg_3,Flax 0deg
+30,2.539338,6.449932,Flax 0deg_3,Flax 0deg
+31,2.622646,6.604588,Flax 0deg_3,Flax 0deg
+32,2.706006,6.755566,Flax 0deg_3,Flax 0deg
+33,2.7893380000000003,6.903472000000001,Flax 0deg_3,Flax 0deg
+34,2.87265,7.047262,Flax 0deg_3,Flax 0deg
+35,2.9559840000000004,7.185764000000001,Flax 0deg_3,Flax 0deg
+36,3.039336,7.322211999999999,Flax 0deg_3,Flax 0deg
+37,3.122646,7.454077999999999,Flax 0deg_3,Flax 0deg
+38,3.205992,7.582488,Flax 0deg_3,Flax 0deg
+39,3.289344,7.70879,Flax 0deg_3,Flax 0deg
+40,3.372658,7.832324,Flax 0deg_3,Flax 0deg
+41,3.456012,7.953714,Flax 0deg_3,Flax 0deg
+42,3.5393380000000003,8.074756,Flax 0deg_3,Flax 0deg
+43,3.622654,8.192556,Flax 0deg_3,Flax 0deg
+44,3.705988,8.307488,Flax 0deg_3,Flax 0deg
+45,3.78933,8.422372000000001,Flax 0deg_3,Flax 0deg
+46,3.87265,8.535362,Flax 0deg_3,Flax 0deg
+47,3.955998,8.647108,Flax 0deg_3,Flax 0deg
+48,4.039332,8.759521999999999,Flax 0deg_3,Flax 0deg
+49,4.122652,8.869036,Flax 0deg_3,Flax 0deg
+50,4.206018,8.97793,Flax 0deg_3,Flax 0deg
+51,4.2893360000000005,9.088362,Flax 0deg_3,Flax 0deg
+52,4.372662,9.197174,Flax 0deg_3,Flax 0deg
+53,4.455988,9.304884,Flax 0deg_3,Flax 0deg
+54,4.5393360000000005,9.41277,Flax 0deg_3,Flax 0deg
+55,4.622656,9.518976,Flax 0deg_3,Flax 0deg
+56,4.706,9.62335,Flax 0deg_3,Flax 0deg
+57,4.789328,9.727784,Flax 0deg_3,Flax 0deg
+58,4.87265,9.83125,Flax 0deg_3,Flax 0deg
+59,4.955996,9.933092,Flax 0deg_3,Flax 0deg
+60,5.039328,10.035574,Flax 0deg_3,Flax 0deg
+0,0.0397612244897959,0.047369387755102,Flax 0deg_4,Flax 0deg
+1,0.122656,0.246124,Flax 0deg_4,Flax 0deg
+2,0.205974,0.633166,Flax 0deg_4,Flax 0deg
+3,0.289276,1.030942,Flax 0deg_4,Flax 0deg
+4,0.372652,1.357626,Flax 0deg_4,Flax 0deg
+5,0.455992,1.620114,Flax 0deg_4,Flax 0deg
+6,0.539324,1.83996,Flax 0deg_4,Flax 0deg
+7,0.62266,2.047936,Flax 0deg_4,Flax 0deg
+8,0.705984,2.24268,Flax 0deg_4,Flax 0deg
+9,0.789324,2.44216,Flax 0deg_4,Flax 0deg
+10,0.8726579999999999,2.639192,Flax 0deg_4,Flax 0deg
+11,0.956006,2.823002,Flax 0deg_4,Flax 0deg
+12,1.039316,3.004904,Flax 0deg_4,Flax 0deg
+13,1.12266,3.205936,Flax 0deg_4,Flax 0deg
+14,1.205988,3.391982,Flax 0deg_4,Flax 0deg
+15,1.289324,3.571108,Flax 0deg_4,Flax 0deg
+16,1.37266,3.742938,Flax 0deg_4,Flax 0deg
+17,1.456006,3.899878,Flax 0deg_4,Flax 0deg
+18,1.539338,4.058608,Flax 0deg_4,Flax 0deg
+19,1.622652,4.22114,Flax 0deg_4,Flax 0deg
+20,1.706018,4.387326,Flax 0deg_4,Flax 0deg
+21,1.7893199999999998,4.554136,Flax 0deg_4,Flax 0deg
+22,1.872656,4.717558,Flax 0deg_4,Flax 0deg
+23,1.955996,4.877744,Flax 0deg_4,Flax 0deg
+24,2.03933,5.042532,Flax 0deg_4,Flax 0deg
+25,2.122646,5.207482,Flax 0deg_4,Flax 0deg
+26,2.206024,5.374582,Flax 0deg_4,Flax 0deg
+27,2.289328,5.54256,Flax 0deg_4,Flax 0deg
+28,2.372638,5.70982,Flax 0deg_4,Flax 0deg
+29,2.456006,5.8755820000000005,Flax 0deg_4,Flax 0deg
+30,2.539334,6.039748,Flax 0deg_4,Flax 0deg
+31,2.622654,6.201376,Flax 0deg_4,Flax 0deg
+32,2.705982,6.359503999999999,Flax 0deg_4,Flax 0deg
+33,2.789324,6.515224,Flax 0deg_4,Flax 0deg
+34,2.872656,6.666946,Flax 0deg_4,Flax 0deg
+35,2.956008,6.813024,Flax 0deg_4,Flax 0deg
+36,3.039328,6.956594,Flax 0deg_4,Flax 0deg
+37,3.122652,7.09665,Flax 0deg_4,Flax 0deg
+38,3.205998,7.232268,Flax 0deg_4,Flax 0deg
+39,3.2893380000000003,7.364864,Flax 0deg_4,Flax 0deg
+40,3.37266,7.493316,Flax 0deg_4,Flax 0deg
+41,3.456006,7.618583999999999,Flax 0deg_4,Flax 0deg
+42,3.539334,7.74257,Flax 0deg_4,Flax 0deg
+43,3.622656,7.864338,Flax 0deg_4,Flax 0deg
+44,3.705994,7.983315999999999,Flax 0deg_4,Flax 0deg
+45,3.78932,8.101258,Flax 0deg_4,Flax 0deg
+46,3.872658,8.217376,Flax 0deg_4,Flax 0deg
+47,3.956,8.332704,Flax 0deg_4,Flax 0deg
+48,4.039326,8.44847,Flax 0deg_4,Flax 0deg
+49,4.122652,8.56241,Flax 0deg_4,Flax 0deg
+50,4.206016,8.675536,Flax 0deg_4,Flax 0deg
+51,4.28933,8.790104,Flax 0deg_4,Flax 0deg
+52,4.372658,8.902636,Flax 0deg_4,Flax 0deg
+53,4.45599,9.013692,Flax 0deg_4,Flax 0deg
+54,4.539342,9.125462,Flax 0deg_4,Flax 0deg
+55,4.622648,9.235204,Flax 0deg_4,Flax 0deg
+56,4.706008,9.344358,Flax 0deg_4,Flax 0deg
+57,4.789324,9.454296,Flax 0deg_4,Flax 0deg
+58,4.872652,9.563168,Flax 0deg_4,Flax 0deg
+59,4.956004,9.669766,Flax 0deg_4,Flax 0deg
+60,5.039334,9.776726,Flax 0deg_4,Flax 0deg
+61,5.12266,9.882882,Flax 0deg_4,Flax 0deg
+62,5.206006,9.987048,Flax 0deg_4,Flax 0deg
+0,0.0397795918367346,0.0112142857142857,Basalt Flax 0deg_1,Basalt Flax 0deg
+1,0.12264,0.296946,Basalt Flax 0deg_1,Basalt Flax 0deg
+2,0.2059659999999999,0.874946,Basalt Flax 0deg_1,Basalt Flax 0deg
+3,0.289286,1.5164760000000002,Basalt Flax 0deg_1,Basalt Flax 0deg
+4,0.3726299999999999,2.148764,Basalt Flax 0deg_1,Basalt Flax 0deg
+5,0.455992,2.705862,Basalt Flax 0deg_1,Basalt Flax 0deg
+6,0.539334,3.166398,Basalt Flax 0deg_1,Basalt Flax 0deg
+7,0.622648,3.508292,Basalt Flax 0deg_1,Basalt Flax 0deg
+8,0.706002,3.755826,Basalt Flax 0deg_1,Basalt Flax 0deg
+9,0.7893340000000001,3.956526,Basalt Flax 0deg_1,Basalt Flax 0deg
+10,0.872642,4.18213,Basalt Flax 0deg_1,Basalt Flax 0deg
+11,0.955994,4.409334,Basalt Flax 0deg_1,Basalt Flax 0deg
+12,1.039326,4.641762,Basalt Flax 0deg_1,Basalt Flax 0deg
+13,1.12265,4.872846,Basalt Flax 0deg_1,Basalt Flax 0deg
+14,1.205994,5.099072,Basalt Flax 0deg_1,Basalt Flax 0deg
+15,1.289334,5.328436,Basalt Flax 0deg_1,Basalt Flax 0deg
+16,1.372656,5.564732,Basalt Flax 0deg_1,Basalt Flax 0deg
+17,1.455984,5.80522,Basalt Flax 0deg_1,Basalt Flax 0deg
+18,1.539332,6.046468,Basalt Flax 0deg_1,Basalt Flax 0deg
+19,1.62264,6.286581999999999,Basalt Flax 0deg_1,Basalt Flax 0deg
+20,1.70599,6.518774,Basalt Flax 0deg_1,Basalt Flax 0deg
+21,1.789322,6.745521999999999,Basalt Flax 0deg_1,Basalt Flax 0deg
+22,1.872662,6.964844,Basalt Flax 0deg_1,Basalt Flax 0deg
+23,1.95599,7.1754560000000005,Basalt Flax 0deg_1,Basalt Flax 0deg
+24,2.039302,7.382532,Basalt Flax 0deg_1,Basalt Flax 0deg
+25,2.122676,7.586544,Basalt Flax 0deg_1,Basalt Flax 0deg
+26,2.20601,7.784829999999999,Basalt Flax 0deg_1,Basalt Flax 0deg
+27,2.289304,7.981418,Basalt Flax 0deg_1,Basalt Flax 0deg
+28,2.372676,8.175063999999999,Basalt Flax 0deg_1,Basalt Flax 0deg
+29,2.45599,8.368328,Basalt Flax 0deg_1,Basalt Flax 0deg
+30,2.539286,8.567322,Basalt Flax 0deg_1,Basalt Flax 0deg
+31,2.622674,8.765685999999999,Basalt Flax 0deg_1,Basalt Flax 0deg
+32,2.705988,8.96191,Basalt Flax 0deg_1,Basalt Flax 0deg
+33,2.7893060000000003,9.153186,Basalt Flax 0deg_1,Basalt Flax 0deg
+34,2.872654,9.343182,Basalt Flax 0deg_1,Basalt Flax 0deg
+35,2.955994,9.53087,Basalt Flax 0deg_1,Basalt Flax 0deg
+36,3.039324,9.716282,Basalt Flax 0deg_1,Basalt Flax 0deg
+37,3.122672,9.877524,Basalt Flax 0deg_1,Basalt Flax 0deg
+38,3.205974,10.01034,Basalt Flax 0deg_1,Basalt Flax 0deg
+39,3.289332,10.146972,Basalt Flax 0deg_1,Basalt Flax 0deg
+40,3.372666,10.29782,Basalt Flax 0deg_1,Basalt Flax 0deg
+41,3.45601,10.448288,Basalt Flax 0deg_1,Basalt Flax 0deg
+42,3.539314,10.587784,Basalt Flax 0deg_1,Basalt Flax 0deg
+43,3.622644,10.748314,Basalt Flax 0deg_1,Basalt Flax 0deg
+44,3.705996,10.922134000000002,Basalt Flax 0deg_1,Basalt Flax 0deg
+45,3.789324,11.088604,Basalt Flax 0deg_1,Basalt Flax 0deg
+46,3.872642,11.261361999999998,Basalt Flax 0deg_1,Basalt Flax 0deg
+47,3.955994,11.440148,Basalt Flax 0deg_1,Basalt Flax 0deg
+48,4.039334,11.608154,Basalt Flax 0deg_1,Basalt Flax 0deg
+49,4.122654,11.764126,Basalt Flax 0deg_1,Basalt Flax 0deg
+50,4.206008,11.930016,Basalt Flax 0deg_1,Basalt Flax 0deg
+51,4.289322,12.107565999999998,Basalt Flax 0deg_1,Basalt Flax 0deg
+52,4.372652,12.27789,Basalt Flax 0deg_1,Basalt Flax 0deg
+53,4.4559820000000006,12.45612,Basalt Flax 0deg_1,Basalt Flax 0deg
+54,4.53933,12.640012,Basalt Flax 0deg_1,Basalt Flax 0deg
+55,4.622652,12.822492,Basalt Flax 0deg_1,Basalt Flax 0deg
+56,4.706002,13.007,Basalt Flax 0deg_1,Basalt Flax 0deg
+57,4.789314,13.192596000000002,Basalt Flax 0deg_1,Basalt Flax 0deg
+58,4.872652,13.377062,Basalt Flax 0deg_1,Basalt Flax 0deg
+59,4.955998,13.559358,Basalt Flax 0deg_1,Basalt Flax 0deg
+60,5.039324,13.737018,Basalt Flax 0deg_1,Basalt Flax 0deg
+61,5.122655999999999,13.91579,Basalt Flax 0deg_1,Basalt Flax 0deg
+62,5.205996,14.100236,Basalt Flax 0deg_1,Basalt Flax 0deg
+63,5.28932,14.28739,Basalt Flax 0deg_1,Basalt Flax 0deg
+64,5.372654,14.472466,Basalt Flax 0deg_1,Basalt Flax 0deg
+65,5.456011999999999,14.658214,Basalt Flax 0deg_1,Basalt Flax 0deg
+66,5.539331999999999,14.841022,Basalt Flax 0deg_1,Basalt Flax 0deg
+67,5.622648000000001,15.01083,Basalt Flax 0deg_1,Basalt Flax 0deg
+68,5.705990000000001,15.15764,Basalt Flax 0deg_1,Basalt Flax 0deg
+69,5.789334,15.257792,Basalt Flax 0deg_1,Basalt Flax 0deg
+70,5.872654,15.396992,Basalt Flax 0deg_1,Basalt Flax 0deg
+71,5.95601,15.56703,Basalt Flax 0deg_1,Basalt Flax 0deg
+72,6.039324000000001,15.744896,Basalt Flax 0deg_1,Basalt Flax 0deg
+73,6.12266,15.92487,Basalt Flax 0deg_1,Basalt Flax 0deg
+74,6.205988,16.100746,Basalt Flax 0deg_1,Basalt Flax 0deg
+75,6.28932,16.276966,Basalt Flax 0deg_1,Basalt Flax 0deg
+76,6.372646,16.446336000000002,Basalt Flax 0deg_1,Basalt Flax 0deg
+77,6.455997999999999,16.608615999999998,Basalt Flax 0deg_1,Basalt Flax 0deg
+78,6.539331999999999,16.76821,Basalt Flax 0deg_1,Basalt Flax 0deg
+79,6.622652,16.91719,Basalt Flax 0deg_1,Basalt Flax 0deg
+80,6.706006,17.009412,Basalt Flax 0deg_1,Basalt Flax 0deg
+81,6.789328,17.125496000000002,Basalt Flax 0deg_1,Basalt Flax 0deg
+82,6.872654,17.21073,Basalt Flax 0deg_1,Basalt Flax 0deg
+83,6.9559940000000005,17.23031,Basalt Flax 0deg_1,Basalt Flax 0deg
+84,7.039331999999999,17.245026,Basalt Flax 0deg_1,Basalt Flax 0deg
+85,7.122652,17.276612,Basalt Flax 0deg_1,Basalt Flax 0deg
+86,7.206018,17.338484,Basalt Flax 0deg_1,Basalt Flax 0deg
+87,7.289321999999999,17.431017999999998,Basalt Flax 0deg_1,Basalt Flax 0deg
+88,7.37266,17.522548,Basalt Flax 0deg_1,Basalt Flax 0deg
+89,7.455992,17.58652,Basalt Flax 0deg_1,Basalt Flax 0deg
+90,7.53932,17.667408000000002,Basalt Flax 0deg_1,Basalt Flax 0deg
+91,7.622676,17.747914,Basalt Flax 0deg_1,Basalt Flax 0deg
+0,0.0397795918367346,0.0301755102040816,Basalt Flax 0deg_2,Basalt Flax 0deg
+1,0.122658,0.138296,Basalt Flax 0deg_2,Basalt Flax 0deg
+2,0.2059679999999999,0.518688,Basalt Flax 0deg_2,Basalt Flax 0deg
+3,0.2893,0.905632,Basalt Flax 0deg_2,Basalt Flax 0deg
+4,0.37264,1.1766759999999998,Basalt Flax 0deg_2,Basalt Flax 0deg
+5,0.456002,1.423902,Basalt Flax 0deg_2,Basalt Flax 0deg
+6,0.539338,1.62275,Basalt Flax 0deg_2,Basalt Flax 0deg
+7,0.622654,1.7998580000000002,Basalt Flax 0deg_2,Basalt Flax 0deg
+8,0.706002,1.947526,Basalt Flax 0deg_2,Basalt Flax 0deg
+9,0.789342,2.099642,Basalt Flax 0deg_2,Basalt Flax 0deg
+10,0.872648,2.23501,Basalt Flax 0deg_2,Basalt Flax 0deg
+11,0.956004,2.353584,Basalt Flax 0deg_2,Basalt Flax 0deg
+12,1.039322,2.482714,Basalt Flax 0deg_2,Basalt Flax 0deg
+13,1.122662,2.630032,Basalt Flax 0deg_2,Basalt Flax 0deg
+14,1.205988,2.760238,Basalt Flax 0deg_2,Basalt Flax 0deg
+15,1.289344,2.891082,Basalt Flax 0deg_2,Basalt Flax 0deg
+16,1.372662,3.020224,Basalt Flax 0deg_2,Basalt Flax 0deg
+17,1.45601,3.156784,Basalt Flax 0deg_2,Basalt Flax 0deg
+18,1.53934,3.296914,Basalt Flax 0deg_2,Basalt Flax 0deg
+19,1.622642,3.439134,Basalt Flax 0deg_2,Basalt Flax 0deg
+20,1.706006,3.580928,Basalt Flax 0deg_2,Basalt Flax 0deg
+21,1.78934,3.723732,Basalt Flax 0deg_2,Basalt Flax 0deg
+22,1.87265,3.8669,Basalt Flax 0deg_2,Basalt Flax 0deg
+23,1.955986,4.010356,Basalt Flax 0deg_2,Basalt Flax 0deg
+24,2.039328,4.162012,Basalt Flax 0deg_2,Basalt Flax 0deg
+25,2.122652,4.315586,Basalt Flax 0deg_2,Basalt Flax 0deg
+26,2.206012,4.468612,Basalt Flax 0deg_2,Basalt Flax 0deg
+27,2.289326,4.626742,Basalt Flax 0deg_2,Basalt Flax 0deg
+28,2.372648,4.786042,Basalt Flax 0deg_2,Basalt Flax 0deg
+29,2.456002,4.94726,Basalt Flax 0deg_2,Basalt Flax 0deg
+30,2.539316,5.109526,Basalt Flax 0deg_2,Basalt Flax 0deg
+31,2.622668,5.267868,Basalt Flax 0deg_2,Basalt Flax 0deg
+32,2.70599,5.42568,Basalt Flax 0deg_2,Basalt Flax 0deg
+33,2.789318,5.571088,Basalt Flax 0deg_2,Basalt Flax 0deg
+34,2.87265,5.719632000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
+35,2.956006,5.875956,Basalt Flax 0deg_2,Basalt Flax 0deg
+36,3.0393220000000003,6.023866000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
+37,3.122658,6.167872,Basalt Flax 0deg_2,Basalt Flax 0deg
+38,3.206002,6.267996,Basalt Flax 0deg_2,Basalt Flax 0deg
+39,3.289348,6.315856,Basalt Flax 0deg_2,Basalt Flax 0deg
+40,3.372658,6.409042,Basalt Flax 0deg_2,Basalt Flax 0deg
+41,3.456002,6.523922,Basalt Flax 0deg_2,Basalt Flax 0deg
+42,3.539326,6.646454,Basalt Flax 0deg_2,Basalt Flax 0deg
+43,3.62265,6.763162,Basalt Flax 0deg_2,Basalt Flax 0deg
+44,3.705992,6.882192,Basalt Flax 0deg_2,Basalt Flax 0deg
+45,3.789332,7.005118,Basalt Flax 0deg_2,Basalt Flax 0deg
+46,3.872658,7.118276,Basalt Flax 0deg_2,Basalt Flax 0deg
+47,3.955998,7.236914,Basalt Flax 0deg_2,Basalt Flax 0deg
+48,4.03933,7.366112,Basalt Flax 0deg_2,Basalt Flax 0deg
+49,4.122654,7.49666,Basalt Flax 0deg_2,Basalt Flax 0deg
+50,4.206002,7.630882000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
+51,4.28933,7.76676,Basalt Flax 0deg_2,Basalt Flax 0deg
+52,4.372662,7.898162,Basalt Flax 0deg_2,Basalt Flax 0deg
+53,4.455984,8.028787999999999,Basalt Flax 0deg_2,Basalt Flax 0deg
+54,4.539332,8.16658,Basalt Flax 0deg_2,Basalt Flax 0deg
+55,4.622654,8.304181999999999,Basalt Flax 0deg_2,Basalt Flax 0deg
+56,4.70601,8.444548,Basalt Flax 0deg_2,Basalt Flax 0deg
+57,4.78932,8.590786,Basalt Flax 0deg_2,Basalt Flax 0deg
+58,4.872652,8.737524,Basalt Flax 0deg_2,Basalt Flax 0deg
+59,4.956004,8.887006,Basalt Flax 0deg_2,Basalt Flax 0deg
+60,5.039332,9.032792,Basalt Flax 0deg_2,Basalt Flax 0deg
+61,5.12266,9.17546,Basalt Flax 0deg_2,Basalt Flax 0deg
+62,5.206008000000001,9.321188,Basalt Flax 0deg_2,Basalt Flax 0deg
+63,5.289326,9.467074,Basalt Flax 0deg_2,Basalt Flax 0deg
+64,5.372646,9.618104,Basalt Flax 0deg_2,Basalt Flax 0deg
+65,5.45601,9.77,Basalt Flax 0deg_2,Basalt Flax 0deg
+66,5.539326,9.923678,Basalt Flax 0deg_2,Basalt Flax 0deg
+67,5.622646,10.074214,Basalt Flax 0deg_2,Basalt Flax 0deg
+68,5.706,10.226018,Basalt Flax 0deg_2,Basalt Flax 0deg
+69,5.78933,10.38026,Basalt Flax 0deg_2,Basalt Flax 0deg
+70,5.87266,10.537656,Basalt Flax 0deg_2,Basalt Flax 0deg
+71,5.956018,10.697274,Basalt Flax 0deg_2,Basalt Flax 0deg
+72,6.039338,10.861448,Basalt Flax 0deg_2,Basalt Flax 0deg
+73,6.122646,11.026676,Basalt Flax 0deg_2,Basalt Flax 0deg
+74,6.205992,11.190084,Basalt Flax 0deg_2,Basalt Flax 0deg
+75,6.28933,11.347856,Basalt Flax 0deg_2,Basalt Flax 0deg
+76,6.372648000000001,11.503098,Basalt Flax 0deg_2,Basalt Flax 0deg
+77,6.456002,11.656222,Basalt Flax 0deg_2,Basalt Flax 0deg
+78,6.539328,11.810726,Basalt Flax 0deg_2,Basalt Flax 0deg
+79,6.622652,11.965834,Basalt Flax 0deg_2,Basalt Flax 0deg
+80,6.706004,12.12251,Basalt Flax 0deg_2,Basalt Flax 0deg
+81,6.789331999999999,12.281448,Basalt Flax 0deg_2,Basalt Flax 0deg
+82,6.872644,12.440838,Basalt Flax 0deg_2,Basalt Flax 0deg
+83,6.955997999999999,12.592866,Basalt Flax 0deg_2,Basalt Flax 0deg
+84,7.039321999999999,12.740436,Basalt Flax 0deg_2,Basalt Flax 0deg
+85,7.122658,12.889516,Basalt Flax 0deg_2,Basalt Flax 0deg
+86,7.206,13.041394,Basalt Flax 0deg_2,Basalt Flax 0deg
+87,7.289312,13.179624,Basalt Flax 0deg_2,Basalt Flax 0deg
+88,7.37267,13.321928,Basalt Flax 0deg_2,Basalt Flax 0deg
+89,7.455986,13.472231999999998,Basalt Flax 0deg_2,Basalt Flax 0deg
+90,7.539312,13.618254,Basalt Flax 0deg_2,Basalt Flax 0deg
+91,7.622662,13.769328,Basalt Flax 0deg_2,Basalt Flax 0deg
+92,7.705988,13.912448,Basalt Flax 0deg_2,Basalt Flax 0deg
+93,7.789326,14.038194,Basalt Flax 0deg_2,Basalt Flax 0deg
+94,7.872663999999999,14.175578,Basalt Flax 0deg_2,Basalt Flax 0deg
+95,7.956004,14.31828,Basalt Flax 0deg_2,Basalt Flax 0deg
+96,8.039338,14.457672,Basalt Flax 0deg_2,Basalt Flax 0deg
+97,8.122658,14.600104000000002,Basalt Flax 0deg_2,Basalt Flax 0deg
+98,8.205982,14.743734,Basalt Flax 0deg_2,Basalt Flax 0deg
+99,8.289334,14.88478,Basalt Flax 0deg_2,Basalt Flax 0deg
+100,8.37265,15.026482,Basalt Flax 0deg_2,Basalt Flax 0deg
+101,8.455996,15.168446,Basalt Flax 0deg_2,Basalt Flax 0deg
+102,8.53934,15.312486,Basalt Flax 0deg_2,Basalt Flax 0deg
+103,8.622658,15.453672,Basalt Flax 0deg_2,Basalt Flax 0deg
+104,8.706,15.591664000000002,Basalt Flax 0deg_2,Basalt Flax 0deg
+105,8.789312,15.730688,Basalt Flax 0deg_2,Basalt Flax 0deg
+106,8.872646,15.865454,Basalt Flax 0deg_2,Basalt Flax 0deg
+107,8.955988,15.999975999999998,Basalt Flax 0deg_2,Basalt Flax 0deg
+108,9.039328,16.13308,Basalt Flax 0deg_2,Basalt Flax 0deg
+109,9.122666,16.246318,Basalt Flax 0deg_2,Basalt Flax 0deg
+110,9.206014,16.352866,Basalt Flax 0deg_2,Basalt Flax 0deg
+111,9.289326,16.462906,Basalt Flax 0deg_2,Basalt Flax 0deg
+112,9.372654,16.562592,Basalt Flax 0deg_2,Basalt Flax 0deg
+113,9.455992,16.684546,Basalt Flax 0deg_2,Basalt Flax 0deg
+114,9.539342,16.812768000000002,Basalt Flax 0deg_2,Basalt Flax 0deg
+115,9.62266,16.928518,Basalt Flax 0deg_2,Basalt Flax 0deg
+116,9.706012,17.054994,Basalt Flax 0deg_2,Basalt Flax 0deg
+117,9.78933,17.182848,Basalt Flax 0deg_2,Basalt Flax 0deg
+118,9.87266,17.306326,Basalt Flax 0deg_2,Basalt Flax 0deg
+119,9.955992,17.42394,Basalt Flax 0deg_2,Basalt Flax 0deg
+120,10.039326,17.529326,Basalt Flax 0deg_2,Basalt Flax 0deg
+121,10.122644,17.614556,Basalt Flax 0deg_2,Basalt Flax 0deg
+122,10.206,17.681252,Basalt Flax 0deg_2,Basalt Flax 0deg
+123,10.289338,17.714502,Basalt Flax 0deg_2,Basalt Flax 0deg
+124,10.372658,17.728722,Basalt Flax 0deg_2,Basalt Flax 0deg
+0,0.0397795918367346,0.017404081632653,Basalt Flax 0deg_3,Basalt Flax 0deg
+1,0.12266,0.076524,Basalt Flax 0deg_3,Basalt Flax 0deg
+2,0.20597,0.336592,Basalt Flax 0deg_3,Basalt Flax 0deg
+3,0.289286,0.91737,Basalt Flax 0deg_3,Basalt Flax 0deg
+4,0.372646,1.413258,Basalt Flax 0deg_3,Basalt Flax 0deg
+5,0.45599,1.760264,Basalt Flax 0deg_3,Basalt Flax 0deg
+6,0.539334,2.032208,Basalt Flax 0deg_3,Basalt Flax 0deg
+7,0.62266,2.234434,Basalt Flax 0deg_3,Basalt Flax 0deg
+8,0.706,2.451082,Basalt Flax 0deg_3,Basalt Flax 0deg
+9,0.7893340000000001,2.6645799999999995,Basalt Flax 0deg_3,Basalt Flax 0deg
+10,0.872632,2.866126,Basalt Flax 0deg_3,Basalt Flax 0deg
+11,0.956012,3.0519920000000003,Basalt Flax 0deg_3,Basalt Flax 0deg
+12,1.039328,3.2195780000000003,Basalt Flax 0deg_3,Basalt Flax 0deg
+13,1.122642,3.37354,Basalt Flax 0deg_3,Basalt Flax 0deg
+14,1.205994,3.529728,Basalt Flax 0deg_3,Basalt Flax 0deg
+15,1.289336,3.691632,Basalt Flax 0deg_3,Basalt Flax 0deg
+16,1.372652,3.855618,Basalt Flax 0deg_3,Basalt Flax 0deg
+17,1.456014,4.017512,Basalt Flax 0deg_3,Basalt Flax 0deg
+18,1.539344,4.182524,Basalt Flax 0deg_3,Basalt Flax 0deg
+19,1.622638,4.347014,Basalt Flax 0deg_3,Basalt Flax 0deg
+20,1.706006,4.510364,Basalt Flax 0deg_3,Basalt Flax 0deg
+21,1.7893279999999998,4.671408,Basalt Flax 0deg_3,Basalt Flax 0deg
+22,1.872656,4.82755,Basalt Flax 0deg_3,Basalt Flax 0deg
+23,1.956,4.989914,Basalt Flax 0deg_3,Basalt Flax 0deg
+24,2.039332,5.155264,Basalt Flax 0deg_3,Basalt Flax 0deg
+25,2.122654,5.325812,Basalt Flax 0deg_3,Basalt Flax 0deg
+26,2.206014,5.493146,Basalt Flax 0deg_3,Basalt Flax 0deg
+27,2.289326,5.654514000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
+28,2.372652,5.815180000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
+29,2.455988,5.964672,Basalt Flax 0deg_3,Basalt Flax 0deg
+30,2.53932,6.115048000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
+31,2.622664,6.2689520000000005,Basalt Flax 0deg_3,Basalt Flax 0deg
+32,2.7060000000000004,6.402872,Basalt Flax 0deg_3,Basalt Flax 0deg
+33,2.789328,6.5153300000000005,Basalt Flax 0deg_3,Basalt Flax 0deg
+34,2.872654,6.582234,Basalt Flax 0deg_3,Basalt Flax 0deg
+35,2.95601,6.642024,Basalt Flax 0deg_3,Basalt Flax 0deg
+36,3.039324,6.73375,Basalt Flax 0deg_3,Basalt Flax 0deg
+37,3.122656,6.83678,Basalt Flax 0deg_3,Basalt Flax 0deg
+38,3.205998,6.954059999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
+39,3.289334,7.082908,Basalt Flax 0deg_3,Basalt Flax 0deg
+40,3.372646,7.213991999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
+41,3.45602,7.339656,Basalt Flax 0deg_3,Basalt Flax 0deg
+42,3.53933,7.459805999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
+43,3.622652,7.603636,Basalt Flax 0deg_3,Basalt Flax 0deg
+44,3.705992,7.751582,Basalt Flax 0deg_3,Basalt Flax 0deg
+45,3.789334,7.901934,Basalt Flax 0deg_3,Basalt Flax 0deg
+46,3.872656,8.053578,Basalt Flax 0deg_3,Basalt Flax 0deg
+47,3.955998,8.20465,Basalt Flax 0deg_3,Basalt Flax 0deg
+48,4.039332,8.355546,Basalt Flax 0deg_3,Basalt Flax 0deg
+49,4.122648,8.503326,Basalt Flax 0deg_3,Basalt Flax 0deg
+50,4.206008,8.652534,Basalt Flax 0deg_3,Basalt Flax 0deg
+51,4.289342,8.804156,Basalt Flax 0deg_3,Basalt Flax 0deg
+52,4.372662,8.953224,Basalt Flax 0deg_3,Basalt Flax 0deg
+53,4.4559940000000005,9.100904,Basalt Flax 0deg_3,Basalt Flax 0deg
+54,4.539328,9.251756,Basalt Flax 0deg_3,Basalt Flax 0deg
+55,4.622654,9.403484,Basalt Flax 0deg_3,Basalt Flax 0deg
+56,4.706008,9.553694,Basalt Flax 0deg_3,Basalt Flax 0deg
+57,4.789328,9.704848,Basalt Flax 0deg_3,Basalt Flax 0deg
+58,4.872646,9.85458,Basalt Flax 0deg_3,Basalt Flax 0deg
+59,4.956004,10.004284,Basalt Flax 0deg_3,Basalt Flax 0deg
+60,5.039326,10.156744,Basalt Flax 0deg_3,Basalt Flax 0deg
+61,5.122652,10.308426,Basalt Flax 0deg_3,Basalt Flax 0deg
+62,5.206004,10.45958,Basalt Flax 0deg_3,Basalt Flax 0deg
+63,5.289326,10.613618,Basalt Flax 0deg_3,Basalt Flax 0deg
+64,5.372672,10.769594,Basalt Flax 0deg_3,Basalt Flax 0deg
+65,5.456008000000001,10.92551,Basalt Flax 0deg_3,Basalt Flax 0deg
+66,5.53933,11.08243,Basalt Flax 0deg_3,Basalt Flax 0deg
+67,5.622636,11.235244,Basalt Flax 0deg_3,Basalt Flax 0deg
+68,5.705997999999999,11.38406,Basalt Flax 0deg_3,Basalt Flax 0deg
+69,5.789328,11.536062,Basalt Flax 0deg_3,Basalt Flax 0deg
+70,5.872658,11.690758,Basalt Flax 0deg_3,Basalt Flax 0deg
+71,5.956011999999999,11.843702,Basalt Flax 0deg_3,Basalt Flax 0deg
+72,6.039334,12.001354,Basalt Flax 0deg_3,Basalt Flax 0deg
+73,6.122646,12.156628,Basalt Flax 0deg_3,Basalt Flax 0deg
+74,6.205992,12.302034,Basalt Flax 0deg_3,Basalt Flax 0deg
+75,6.289324000000001,12.44542,Basalt Flax 0deg_3,Basalt Flax 0deg
+76,6.372652,12.59136,Basalt Flax 0deg_3,Basalt Flax 0deg
+77,6.456004,12.729276,Basalt Flax 0deg_3,Basalt Flax 0deg
+78,6.539318,12.87848,Basalt Flax 0deg_3,Basalt Flax 0deg
+79,6.622658,13.024724,Basalt Flax 0deg_3,Basalt Flax 0deg
+80,6.706004,13.16912,Basalt Flax 0deg_3,Basalt Flax 0deg
+81,6.789328,13.30586,Basalt Flax 0deg_3,Basalt Flax 0deg
+82,6.872642,13.436506,Basalt Flax 0deg_3,Basalt Flax 0deg
+83,6.956016,13.573606,Basalt Flax 0deg_3,Basalt Flax 0deg
+84,7.039318,13.711951999999998,Basalt Flax 0deg_3,Basalt Flax 0deg
+85,7.12266,13.832356,Basalt Flax 0deg_3,Basalt Flax 0deg
+86,7.20601,13.957262,Basalt Flax 0deg_3,Basalt Flax 0deg
+87,7.289306,14.088484,Basalt Flax 0deg_3,Basalt Flax 0deg
+88,7.372676,14.225696,Basalt Flax 0deg_3,Basalt Flax 0deg
+89,7.455996,14.349836,Basalt Flax 0deg_3,Basalt Flax 0deg
+90,7.539312,14.49545,Basalt Flax 0deg_3,Basalt Flax 0deg
+91,7.622662,14.64171,Basalt Flax 0deg_3,Basalt Flax 0deg
+92,7.705992,14.781254,Basalt Flax 0deg_3,Basalt Flax 0deg
+93,7.789326,14.92181,Basalt Flax 0deg_3,Basalt Flax 0deg
+94,7.87266,15.06314,Basalt Flax 0deg_3,Basalt Flax 0deg
+95,7.956004,15.199496,Basalt Flax 0deg_3,Basalt Flax 0deg
+96,8.03933,15.333244,Basalt Flax 0deg_3,Basalt Flax 0deg
+97,8.122658,15.461916,Basalt Flax 0deg_3,Basalt Flax 0deg
+98,8.205994,15.582952,Basalt Flax 0deg_3,Basalt Flax 0deg
+99,8.289325999999999,15.698298,Basalt Flax 0deg_3,Basalt Flax 0deg
+100,8.372644000000001,15.805642,Basalt Flax 0deg_3,Basalt Flax 0deg
+101,8.456006,15.889726,Basalt Flax 0deg_3,Basalt Flax 0deg
+102,8.539325999999999,15.960506,Basalt Flax 0deg_3,Basalt Flax 0deg
+103,8.622672,16.01374,Basalt Flax 0deg_3,Basalt Flax 0deg
+104,8.706012,16.048659999999998,Basalt Flax 0deg_3,Basalt Flax 0deg
+105,8.789325999999999,16.057642,Basalt Flax 0deg_3,Basalt Flax 0deg
+0,0.039738775510204,0.4036204081632653,Basalt Flax 0deg_4,Basalt Flax 0deg
+1,0.122628,1.08973,Basalt Flax 0deg_4,Basalt Flax 0deg
+2,0.205974,1.611558,Basalt Flax 0deg_4,Basalt Flax 0deg
+3,0.289302,1.972306,Basalt Flax 0deg_4,Basalt Flax 0deg
+4,0.37265,2.25799,Basalt Flax 0deg_4,Basalt Flax 0deg
+5,0.455994,2.505066,Basalt Flax 0deg_4,Basalt Flax 0deg
+6,0.539334,2.7210680000000003,Basalt Flax 0deg_4,Basalt Flax 0deg
+7,0.622646,2.934276,Basalt Flax 0deg_4,Basalt Flax 0deg
+8,0.705996,3.1365320000000003,Basalt Flax 0deg_4,Basalt Flax 0deg
+9,0.789332,3.317502,Basalt Flax 0deg_4,Basalt Flax 0deg
+10,0.872634,3.4856420000000004,Basalt Flax 0deg_4,Basalt Flax 0deg
+11,0.956008,3.650528,Basalt Flax 0deg_4,Basalt Flax 0deg
+12,1.039338,3.821246,Basalt Flax 0deg_4,Basalt Flax 0deg
+13,1.122654,3.99216,Basalt Flax 0deg_4,Basalt Flax 0deg
+14,1.2059959999999998,4.159862,Basalt Flax 0deg_4,Basalt Flax 0deg
+15,1.28934,4.328272,Basalt Flax 0deg_4,Basalt Flax 0deg
+16,1.372654,4.49237,Basalt Flax 0deg_4,Basalt Flax 0deg
+17,1.456,4.652542,Basalt Flax 0deg_4,Basalt Flax 0deg
+18,1.539338,4.807606,Basalt Flax 0deg_4,Basalt Flax 0deg
+19,1.622642,4.958600000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
+20,1.706,5.109284,Basalt Flax 0deg_4,Basalt Flax 0deg
+21,1.789332,5.268592,Basalt Flax 0deg_4,Basalt Flax 0deg
+22,1.872656,5.427046000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
+23,1.955988,5.586864,Basalt Flax 0deg_4,Basalt Flax 0deg
+24,2.039338,5.732028000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
+25,2.122662,5.866608,Basalt Flax 0deg_4,Basalt Flax 0deg
+26,2.206016,6.018912,Basalt Flax 0deg_4,Basalt Flax 0deg
+27,2.289316,6.189556,Basalt Flax 0deg_4,Basalt Flax 0deg
+28,2.372656,6.348822,Basalt Flax 0deg_4,Basalt Flax 0deg
+29,2.456,6.49126,Basalt Flax 0deg_4,Basalt Flax 0deg
+30,2.539342,6.635992,Basalt Flax 0deg_4,Basalt Flax 0deg
+31,2.622658,6.7731140000000005,Basalt Flax 0deg_4,Basalt Flax 0deg
+32,2.705998,6.915376,Basalt Flax 0deg_4,Basalt Flax 0deg
+33,2.789324,7.066144,Basalt Flax 0deg_4,Basalt Flax 0deg
+34,2.8726420000000004,7.214678,Basalt Flax 0deg_4,Basalt Flax 0deg
+35,2.95601,7.354728,Basalt Flax 0deg_4,Basalt Flax 0deg
+36,3.0393220000000003,7.491764,Basalt Flax 0deg_4,Basalt Flax 0deg
+37,3.122656,7.621032,Basalt Flax 0deg_4,Basalt Flax 0deg
+38,3.205992,7.749424,Basalt Flax 0deg_4,Basalt Flax 0deg
+39,3.289344,7.878342,Basalt Flax 0deg_4,Basalt Flax 0deg
+40,3.372658,8.020138,Basalt Flax 0deg_4,Basalt Flax 0deg
+41,3.45602,8.167162,Basalt Flax 0deg_4,Basalt Flax 0deg
+42,3.539334,8.321390000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
+43,3.622648,8.474266,Basalt Flax 0deg_4,Basalt Flax 0deg
+44,3.705996,8.625966,Basalt Flax 0deg_4,Basalt Flax 0deg
+45,3.789314,8.782034,Basalt Flax 0deg_4,Basalt Flax 0deg
+46,3.872654,8.93735,Basalt Flax 0deg_4,Basalt Flax 0deg
+47,3.955994,9.091102,Basalt Flax 0deg_4,Basalt Flax 0deg
+48,4.039338,9.24376,Basalt Flax 0deg_4,Basalt Flax 0deg
+49,4.122656,9.396082,Basalt Flax 0deg_4,Basalt Flax 0deg
+50,4.20601,9.543872,Basalt Flax 0deg_4,Basalt Flax 0deg
+51,4.28933,9.688414,Basalt Flax 0deg_4,Basalt Flax 0deg
+52,4.372652,9.835282,Basalt Flax 0deg_4,Basalt Flax 0deg
+53,4.455985999999999,9.99099,Basalt Flax 0deg_4,Basalt Flax 0deg
+54,4.539334,10.149552,Basalt Flax 0deg_4,Basalt Flax 0deg
+55,4.622652,10.304582,Basalt Flax 0deg_4,Basalt Flax 0deg
+56,4.706006,10.462038,Basalt Flax 0deg_4,Basalt Flax 0deg
+57,4.789324,10.628922,Basalt Flax 0deg_4,Basalt Flax 0deg
+58,4.872656,10.796862,Basalt Flax 0deg_4,Basalt Flax 0deg
+59,4.956,10.963494,Basalt Flax 0deg_4,Basalt Flax 0deg
+60,5.039326,11.133384,Basalt Flax 0deg_4,Basalt Flax 0deg
+61,5.122648000000001,11.304274,Basalt Flax 0deg_4,Basalt Flax 0deg
+62,5.206004,11.47209,Basalt Flax 0deg_4,Basalt Flax 0deg
+63,5.28932,11.640298,Basalt Flax 0deg_4,Basalt Flax 0deg
+64,5.372648000000001,11.80577,Basalt Flax 0deg_4,Basalt Flax 0deg
+65,5.45601,11.97253,Basalt Flax 0deg_4,Basalt Flax 0deg
+66,5.539328,12.140248,Basalt Flax 0deg_4,Basalt Flax 0deg
+67,5.622644,12.297937999999998,Basalt Flax 0deg_4,Basalt Flax 0deg
+68,5.705994,12.46555,Basalt Flax 0deg_4,Basalt Flax 0deg
+69,5.789334,12.637372,Basalt Flax 0deg_4,Basalt Flax 0deg
+70,5.872654,12.807146,Basalt Flax 0deg_4,Basalt Flax 0deg
+71,5.956011999999999,12.974760000000002,Basalt Flax 0deg_4,Basalt Flax 0deg
+72,6.039338,13.140804,Basalt Flax 0deg_4,Basalt Flax 0deg
+73,6.122646,13.305788,Basalt Flax 0deg_4,Basalt Flax 0deg
+74,6.205994,13.46262,Basalt Flax 0deg_4,Basalt Flax 0deg
+75,6.289326,13.616674,Basalt Flax 0deg_4,Basalt Flax 0deg
+76,6.372648000000001,13.769788,Basalt Flax 0deg_4,Basalt Flax 0deg
+77,6.455997999999999,13.9191,Basalt Flax 0deg_4,Basalt Flax 0deg
+78,6.539328,14.058212,Basalt Flax 0deg_4,Basalt Flax 0deg
+79,6.62265,14.192952,Basalt Flax 0deg_4,Basalt Flax 0deg
+80,6.706018,14.319956,Basalt Flax 0deg_4,Basalt Flax 0deg
+81,6.789334,14.467636,Basalt Flax 0deg_4,Basalt Flax 0deg
+82,6.872648000000001,14.628638,Basalt Flax 0deg_4,Basalt Flax 0deg
+83,6.956002,14.784126,Basalt Flax 0deg_4,Basalt Flax 0deg
+84,7.039334,14.944902,Basalt Flax 0deg_4,Basalt Flax 0deg
+85,7.122652,15.11239,Basalt Flax 0deg_4,Basalt Flax 0deg
+86,7.205996,15.279704,Basalt Flax 0deg_4,Basalt Flax 0deg
+87,7.289312,15.447536,Basalt Flax 0deg_4,Basalt Flax 0deg
+88,7.372666000000001,15.617686,Basalt Flax 0deg_4,Basalt Flax 0deg
+89,7.455990000000001,15.790364,Basalt Flax 0deg_4,Basalt Flax 0deg
+90,7.539312,15.96604,Basalt Flax 0deg_4,Basalt Flax 0deg
+91,7.622652,16.137604,Basalt Flax 0deg_4,Basalt Flax 0deg
+92,7.705986,16.309766,Basalt Flax 0deg_4,Basalt Flax 0deg
+93,7.789318,16.485048,Basalt Flax 0deg_4,Basalt Flax 0deg
+94,7.872658,16.654834,Basalt Flax 0deg_4,Basalt Flax 0deg
+95,7.956005999999999,16.819442,Basalt Flax 0deg_4,Basalt Flax 0deg
+96,8.039334,16.983088,Basalt Flax 0deg_4,Basalt Flax 0deg
+97,8.122646,17.140984,Basalt Flax 0deg_4,Basalt Flax 0deg
+98,8.20601,17.298524,Basalt Flax 0deg_4,Basalt Flax 0deg
+99,8.289318,17.463578,Basalt Flax 0deg_4,Basalt Flax 0deg
+100,8.37265,17.624883999999998,Basalt Flax 0deg_4,Basalt Flax 0deg
+101,8.45601,17.780744,Basalt Flax 0deg_4,Basalt Flax 0deg
+102,8.539328000000001,17.93763,Basalt Flax 0deg_4,Basalt Flax 0deg
+103,8.62266,18.090738,Basalt Flax 0deg_4,Basalt Flax 0deg
+104,8.705996,18.229242,Basalt Flax 0deg_4,Basalt Flax 0deg
+105,8.789322,18.368868,Basalt Flax 0deg_4,Basalt Flax 0deg
+106,8.872638,18.4795,Basalt Flax 0deg_4,Basalt Flax 0deg
+107,8.955983999999999,18.589116,Basalt Flax 0deg_4,Basalt Flax 0deg
+108,9.039334,18.727718,Basalt Flax 0deg_4,Basalt Flax 0deg
+109,9.122662,18.858376,Basalt Flax 0deg_4,Basalt Flax 0deg
+110,9.206008,18.902968,Basalt Flax 0deg_4,Basalt Flax 0deg
+111,9.289326,18.949686,Basalt Flax 0deg_4,Basalt Flax 0deg
+112,9.37265,19.06324,Basalt Flax 0deg_4,Basalt Flax 0deg
+113,9.455994,19.176912,Basalt Flax 0deg_4,Basalt Flax 0deg
+114,9.539322,19.260748,Basalt Flax 0deg_4,Basalt Flax 0deg
+115,9.622672,19.27016,Basalt Flax 0deg_4,Basalt Flax 0deg
+0,0.0397367346938775,0.6680081632653061,Basalt 0deg_2,Basalt 0deg
+1,0.12261,1.452554,Basalt 0deg_2,Basalt 0deg
+2,0.205972,2.099758,Basalt 0deg_2,Basalt 0deg
+3,0.28929,2.598018,Basalt 0deg_2,Basalt 0deg
+4,0.372638,3.006382,Basalt 0deg_2,Basalt 0deg
+5,0.45599,3.370426,Basalt 0deg_2,Basalt 0deg
+6,0.539332,3.704832,Basalt 0deg_2,Basalt 0deg
+7,0.622646,4.005564,Basalt 0deg_2,Basalt 0deg
+8,0.705988,4.27558,Basalt 0deg_2,Basalt 0deg
+9,0.789326,4.557338,Basalt 0deg_2,Basalt 0deg
+10,0.872636,4.842563999999999,Basalt 0deg_2,Basalt 0deg
+11,0.955996,5.1034820000000005,Basalt 0deg_2,Basalt 0deg
+12,1.039326,5.361962,Basalt 0deg_2,Basalt 0deg
+13,1.122646,5.61831,Basalt 0deg_2,Basalt 0deg
+14,1.205984,5.878158,Basalt 0deg_2,Basalt 0deg
+15,1.2893279999999998,6.141282,Basalt 0deg_2,Basalt 0deg
+16,1.372656,6.405528,Basalt 0deg_2,Basalt 0deg
+17,1.455996,6.674058,Basalt 0deg_2,Basalt 0deg
+18,1.539324,6.95063,Basalt 0deg_2,Basalt 0deg
+19,1.622626,7.23067,Basalt 0deg_2,Basalt 0deg
+20,1.706004,7.514346000000001,Basalt 0deg_2,Basalt 0deg
+21,1.789326,7.802498000000001,Basalt 0deg_2,Basalt 0deg
+22,1.872646,8.090606000000001,Basalt 0deg_2,Basalt 0deg
+23,1.955994,8.381952,Basalt 0deg_2,Basalt 0deg
+24,2.039326,8.679184,Basalt 0deg_2,Basalt 0deg
+25,2.12265,8.97946,Basalt 0deg_2,Basalt 0deg
+26,2.2059960000000003,9.28444,Basalt 0deg_2,Basalt 0deg
+27,2.289322,9.598476,Basalt 0deg_2,Basalt 0deg
+28,2.37265,9.916524,Basalt 0deg_2,Basalt 0deg
+29,2.455984,10.237298,Basalt 0deg_2,Basalt 0deg
+30,2.539312,10.562258,Basalt 0deg_2,Basalt 0deg
+31,2.622634,10.889658,Basalt 0deg_2,Basalt 0deg
+32,2.705992,11.217946,Basalt 0deg_2,Basalt 0deg
+33,2.789312,11.54971,Basalt 0deg_2,Basalt 0deg
+34,2.8726420000000004,11.880576,Basalt 0deg_2,Basalt 0deg
+35,2.956004,12.20877,Basalt 0deg_2,Basalt 0deg
+36,3.039324,12.539504,Basalt 0deg_2,Basalt 0deg
+37,3.12267,12.869482,Basalt 0deg_2,Basalt 0deg
+38,3.205982,13.198758,Basalt 0deg_2,Basalt 0deg
+39,3.289328,13.530336,Basalt 0deg_2,Basalt 0deg
+40,3.372656,13.861028,Basalt 0deg_2,Basalt 0deg
+41,3.455978,14.192046,Basalt 0deg_2,Basalt 0deg
+42,3.539346,14.530118,Basalt 0deg_2,Basalt 0deg
+43,3.622646,14.86632,Basalt 0deg_2,Basalt 0deg
+44,3.705986,15.202424,Basalt 0deg_2,Basalt 0deg
+45,3.789306,15.541736,Basalt 0deg_2,Basalt 0deg
+46,3.87263,15.877332,Basalt 0deg_2,Basalt 0deg
+47,3.956,16.208462,Basalt 0deg_2,Basalt 0deg
+48,4.039314,16.539386,Basalt 0deg_2,Basalt 0deg
+49,4.122644,16.862650000000002,Basalt 0deg_2,Basalt 0deg
+50,4.205998,17.177796,Basalt 0deg_2,Basalt 0deg
+51,4.289322,17.488446,Basalt 0deg_2,Basalt 0deg
+52,4.372654,17.790884000000002,Basalt 0deg_2,Basalt 0deg
+53,4.4559820000000006,18.081406,Basalt 0deg_2,Basalt 0deg
+54,4.539314,18.36131,Basalt 0deg_2,Basalt 0deg
+55,4.622648,18.629282,Basalt 0deg_2,Basalt 0deg
+56,4.706008,18.888862000000003,Basalt 0deg_2,Basalt 0deg
+57,4.789314,19.13762,Basalt 0deg_2,Basalt 0deg
+58,4.87266,19.376582,Basalt 0deg_2,Basalt 0deg
+59,4.955988,19.59709,Basalt 0deg_2,Basalt 0deg
+60,5.039322,19.785142,Basalt 0deg_2,Basalt 0deg
+61,5.122658,19.965114,Basalt 0deg_2,Basalt 0deg
+62,5.205996,20.113958,Basalt 0deg_2,Basalt 0deg
+63,5.289326,20.202066,Basalt 0deg_2,Basalt 0deg
+64,5.372666000000001,20.234958,Basalt 0deg_2,Basalt 0deg
+0,0.039738775510204,0.3322428571428572,Basalt 0deg_3,Basalt 0deg
+1,0.122622,1.19726,Basalt 0deg_3,Basalt 0deg
+2,0.20597,1.878934,Basalt 0deg_3,Basalt 0deg
+3,0.289292,2.427266,Basalt 0deg_3,Basalt 0deg
+4,0.372638,2.8879,Basalt 0deg_3,Basalt 0deg
+5,0.4559879999999999,3.291932,Basalt 0deg_3,Basalt 0deg
+6,0.539328,3.668258,Basalt 0deg_3,Basalt 0deg
+7,0.622638,4.017218,Basalt 0deg_3,Basalt 0deg
+8,0.705994,4.356604,Basalt 0deg_3,Basalt 0deg
+9,0.789336,4.693734,Basalt 0deg_3,Basalt 0deg
+10,0.87263,5.023244,Basalt 0deg_3,Basalt 0deg
+11,0.956,5.345961999999999,Basalt 0deg_3,Basalt 0deg
+12,1.039326,5.661124,Basalt 0deg_3,Basalt 0deg
+13,1.122646,5.949476,Basalt 0deg_3,Basalt 0deg
+14,1.205982,6.245764,Basalt 0deg_3,Basalt 0deg
+15,1.289322,6.553238,Basalt 0deg_3,Basalt 0deg
+16,1.372642,6.866594,Basalt 0deg_3,Basalt 0deg
+17,1.455998,7.182644,Basalt 0deg_3,Basalt 0deg
+18,1.53933,7.502587999999999,Basalt 0deg_3,Basalt 0deg
+19,1.622644,7.826784,Basalt 0deg_3,Basalt 0deg
+20,1.705998,8.15617,Basalt 0deg_3,Basalt 0deg
+21,1.7893199999999998,8.490535999999999,Basalt 0deg_3,Basalt 0deg
+22,1.872646,8.830388000000001,Basalt 0deg_3,Basalt 0deg
+23,1.955986,9.173866,Basalt 0deg_3,Basalt 0deg
+24,2.03932,9.525346,Basalt 0deg_3,Basalt 0deg
+25,2.12264,9.878526,Basalt 0deg_3,Basalt 0deg
+26,2.206004,10.231182,Basalt 0deg_3,Basalt 0deg
+27,2.289318,10.585464,Basalt 0deg_3,Basalt 0deg
+28,2.372656,10.943324,Basalt 0deg_3,Basalt 0deg
+29,2.455972,11.305304,Basalt 0deg_3,Basalt 0deg
+30,2.539312,11.673384,Basalt 0deg_3,Basalt 0deg
+31,2.62264,12.04136,Basalt 0deg_3,Basalt 0deg
+32,2.705988,12.411168,Basalt 0deg_3,Basalt 0deg
+33,2.789324,12.785982,Basalt 0deg_3,Basalt 0deg
+34,2.87264,13.15878,Basalt 0deg_3,Basalt 0deg
+35,2.955994,13.53308,Basalt 0deg_3,Basalt 0deg
+36,3.0393220000000003,13.91384,Basalt 0deg_3,Basalt 0deg
+37,3.12265,14.294608,Basalt 0deg_3,Basalt 0deg
+38,3.205974,14.676186,Basalt 0deg_3,Basalt 0deg
+39,3.289332,15.063282,Basalt 0deg_3,Basalt 0deg
+40,3.372632,15.450004,Basalt 0deg_3,Basalt 0deg
+41,3.456006,15.838424,Basalt 0deg_3,Basalt 0deg
+42,3.5393220000000003,16.230961999999998,Basalt 0deg_3,Basalt 0deg
+43,3.62263,16.622666,Basalt 0deg_3,Basalt 0deg
+44,3.70598,17.013906,Basalt 0deg_3,Basalt 0deg
+45,3.789308,17.40785,Basalt 0deg_3,Basalt 0deg
+46,3.87263,17.800278000000002,Basalt 0deg_3,Basalt 0deg
+47,3.955984,18.189716,Basalt 0deg_3,Basalt 0deg
+48,4.039302,18.58104,Basalt 0deg_3,Basalt 0deg
+49,4.122662,18.967848,Basalt 0deg_3,Basalt 0deg
+50,4.206002,19.347732,Basalt 0deg_3,Basalt 0deg
+51,4.289326,19.72127,Basalt 0deg_3,Basalt 0deg
+52,4.372642,20.08544,Basalt 0deg_3,Basalt 0deg
+53,4.455976,20.433288,Basalt 0deg_3,Basalt 0deg
+54,4.539328,20.769464,Basalt 0deg_3,Basalt 0deg
+55,4.62265,21.090592,Basalt 0deg_3,Basalt 0deg
+56,4.705985999999999,21.406838000000004,Basalt 0deg_3,Basalt 0deg
+57,4.789314,21.727348000000003,Basalt 0deg_3,Basalt 0deg
+58,4.87265,22.043292,Basalt 0deg_3,Basalt 0deg
+59,4.9559940000000005,22.345246000000003,Basalt 0deg_3,Basalt 0deg
+60,5.039314,22.653322,Basalt 0deg_3,Basalt 0deg
+61,5.122652,22.96456,Basalt 0deg_3,Basalt 0deg
+62,5.205992,23.271342,Basalt 0deg_3,Basalt 0deg
+63,5.289321999999999,23.574588,Basalt 0deg_3,Basalt 0deg
+64,5.372652,23.870244000000003,Basalt 0deg_3,Basalt 0deg
+65,5.455997999999999,24.150314,Basalt 0deg_3,Basalt 0deg
+66,5.539334,24.407626,Basalt 0deg_3,Basalt 0deg
+67,5.622631999999999,24.63345,Basalt 0deg_3,Basalt 0deg
+68,5.705979999999999,24.818644,Basalt 0deg_3,Basalt 0deg
+69,5.789339999999999,24.954804,Basalt 0deg_3,Basalt 0deg
+70,5.87265,25.006572,Basalt 0deg_3,Basalt 0deg
+0,0.0397591836734693,0.1068653061224489,Hemp 45deg_1,Hemp 45deg
+1,0.122638,0.49552,Hemp 45deg_1,Hemp 45deg
+2,0.205974,0.8725740000000001,Hemp 45deg_1,Hemp 45deg
+3,0.289298,1.213902,Hemp 45deg_1,Hemp 45deg
+4,0.372644,1.516402,Hemp 45deg_1,Hemp 45deg
+5,0.45599,1.789294,Hemp 45deg_1,Hemp 45deg
+6,0.539336,2.037996,Hemp 45deg_1,Hemp 45deg
+7,0.622664,2.253184,Hemp 45deg_1,Hemp 45deg
+8,0.705994,2.4244220000000003,Hemp 45deg_1,Hemp 45deg
+9,0.7893399999999999,2.589388,Hemp 45deg_1,Hemp 45deg
+10,0.872636,2.750492,Hemp 45deg_1,Hemp 45deg
+11,0.956,2.908766,Hemp 45deg_1,Hemp 45deg
+12,1.039334,3.063148,Hemp 45deg_1,Hemp 45deg
+13,1.122644,3.210434,Hemp 45deg_1,Hemp 45deg
+14,1.205992,3.34902,Hemp 45deg_1,Hemp 45deg
+15,1.289346,3.4822800000000003,Hemp 45deg_1,Hemp 45deg
+16,1.3726580000000002,3.610878,Hemp 45deg_1,Hemp 45deg
+17,1.45601,3.734352,Hemp 45deg_1,Hemp 45deg
+18,1.539346,3.851798,Hemp 45deg_1,Hemp 45deg
+19,1.622646,3.96,Hemp 45deg_1,Hemp 45deg
+20,1.706,4.062374,Hemp 45deg_1,Hemp 45deg
+21,1.789334,4.16011,Hemp 45deg_1,Hemp 45deg
+22,1.872658,4.250606,Hemp 45deg_1,Hemp 45deg
+23,1.955992,4.334992,Hemp 45deg_1,Hemp 45deg
+24,2.03934,4.414464,Hemp 45deg_1,Hemp 45deg
+25,2.122666,4.487566,Hemp 45deg_1,Hemp 45deg
+26,2.206014,4.55556,Hemp 45deg_1,Hemp 45deg
+27,2.289342,4.616736,Hemp 45deg_1,Hemp 45deg
+28,2.372668,4.668954,Hemp 45deg_1,Hemp 45deg
+29,2.45599,4.710522,Hemp 45deg_1,Hemp 45deg
+30,2.5393440000000003,4.7428,Hemp 45deg_1,Hemp 45deg
+31,2.62266,4.76517,Hemp 45deg_1,Hemp 45deg
+0,0.0397591836734693,0.0919306122448979,Hemp 45deg_2,Hemp 45deg
+1,0.122636,0.49372,Hemp 45deg_2,Hemp 45deg
+2,0.20598,0.8810420000000001,Hemp 45deg_2,Hemp 45deg
+3,0.28929,1.248746,Hemp 45deg_2,Hemp 45deg
+4,0.372658,1.5835579999999998,Hemp 45deg_2,Hemp 45deg
+5,0.455992,1.886886,Hemp 45deg_2,Hemp 45deg
+6,0.539312,2.164326,Hemp 45deg_2,Hemp 45deg
+7,0.6226700000000001,2.412488,Hemp 45deg_2,Hemp 45deg
+8,0.705984,2.632792,Hemp 45deg_2,Hemp 45deg
+9,0.789324,2.829224,Hemp 45deg_2,Hemp 45deg
+10,0.872646,2.998598,Hemp 45deg_2,Hemp 45deg
+11,0.956008,3.1478,Hemp 45deg_2,Hemp 45deg
+12,1.039338,3.29061,Hemp 45deg_2,Hemp 45deg
+13,1.12265,3.422796,Hemp 45deg_2,Hemp 45deg
+14,1.205994,3.547514,Hemp 45deg_2,Hemp 45deg
+15,1.289346,3.66855,Hemp 45deg_2,Hemp 45deg
+16,1.37266,3.785706,Hemp 45deg_2,Hemp 45deg
+17,1.45601,3.900828,Hemp 45deg_2,Hemp 45deg
+18,1.539336,4.015346,Hemp 45deg_2,Hemp 45deg
+19,1.622652,4.121592,Hemp 45deg_2,Hemp 45deg
+20,1.706002,4.2199860000000005,Hemp 45deg_2,Hemp 45deg
+21,1.789336,4.312288,Hemp 45deg_2,Hemp 45deg
+22,1.872644,4.397094,Hemp 45deg_2,Hemp 45deg
+23,1.956008,4.474166,Hemp 45deg_2,Hemp 45deg
+24,2.039338,4.5434280000000005,Hemp 45deg_2,Hemp 45deg
+25,2.122652,4.606202,Hemp 45deg_2,Hemp 45deg
+26,2.206022,4.660356,Hemp 45deg_2,Hemp 45deg
+27,2.28934,4.708044,Hemp 45deg_2,Hemp 45deg
+28,2.372656,4.748404,Hemp 45deg_2,Hemp 45deg
+0,0.0397612244897959,0.167169387755102,Hemp 45deg_3,Hemp 45deg
+1,0.122638,0.489106,Hemp 45deg_3,Hemp 45deg
+2,0.20598,0.796524,Hemp 45deg_3,Hemp 45deg
+3,0.289302,1.063264,Hemp 45deg_3,Hemp 45deg
+4,0.37266,1.293914,Hemp 45deg_3,Hemp 45deg
+5,0.455994,1.4969659999999998,Hemp 45deg_3,Hemp 45deg
+6,0.5393180000000001,1.680522,Hemp 45deg_3,Hemp 45deg
+7,0.62266,1.842728,Hemp 45deg_3,Hemp 45deg
+8,0.705988,1.996702,Hemp 45deg_3,Hemp 45deg
+9,0.789336,2.134634,Hemp 45deg_3,Hemp 45deg
+10,0.872652,2.262978,Hemp 45deg_3,Hemp 45deg
+11,0.956008,2.411122,Hemp 45deg_3,Hemp 45deg
+12,1.039334,2.544914,Hemp 45deg_3,Hemp 45deg
+13,1.12266,2.662436,Hemp 45deg_3,Hemp 45deg
+14,1.205988,2.769164,Hemp 45deg_3,Hemp 45deg
+15,1.289344,2.863364,Hemp 45deg_3,Hemp 45deg
+16,1.372652,2.945964,Hemp 45deg_3,Hemp 45deg
+17,1.456002,3.018154,Hemp 45deg_3,Hemp 45deg
+18,1.539344,3.095618,Hemp 45deg_3,Hemp 45deg
+19,1.6226580000000002,3.170902,Hemp 45deg_3,Hemp 45deg
+20,1.706008,3.245542,Hemp 45deg_3,Hemp 45deg
+21,1.789338,3.318884,Hemp 45deg_3,Hemp 45deg
+22,1.872656,3.392718,Hemp 45deg_3,Hemp 45deg
+23,1.956008,3.462872,Hemp 45deg_3,Hemp 45deg
+0,0.0397612244897959,0.1220755102040816,Hemp 45deg_4,Hemp 45deg
+1,0.1226319999999999,0.447062,Hemp 45deg_4,Hemp 45deg
+2,0.205974,0.770816,Hemp 45deg_4,Hemp 45deg
+3,0.289298,1.036822,Hemp 45deg_4,Hemp 45deg
+4,0.372644,1.243614,Hemp 45deg_4,Hemp 45deg
+5,0.455996,1.410948,Hemp 45deg_4,Hemp 45deg
+6,0.539332,1.54863,Hemp 45deg_4,Hemp 45deg
+7,0.622664,1.681214,Hemp 45deg_4,Hemp 45deg
+8,0.705992,1.832112,Hemp 45deg_4,Hemp 45deg
+9,0.78933,1.953554,Hemp 45deg_4,Hemp 45deg
+10,0.872644,2.064668,Hemp 45deg_4,Hemp 45deg
+11,0.956,2.1756040000000003,Hemp 45deg_4,Hemp 45deg
+12,1.039342,2.290602,Hemp 45deg_4,Hemp 45deg
+13,1.122644,2.40804,Hemp 45deg_4,Hemp 45deg
+14,1.2059959999999998,2.52576,Hemp 45deg_4,Hemp 45deg
+15,1.289334,2.645922,Hemp 45deg_4,Hemp 45deg
+16,1.372662,2.766684,Hemp 45deg_4,Hemp 45deg
+17,1.45601,2.888716,Hemp 45deg_4,Hemp 45deg
+18,1.539334,3.009,Hemp 45deg_4,Hemp 45deg
+19,1.622644,3.125066,Hemp 45deg_4,Hemp 45deg
+20,1.706002,3.2383620000000004,Hemp 45deg_4,Hemp 45deg
+21,1.789332,3.346828,Hemp 45deg_4,Hemp 45deg
+22,1.872654,3.450338,Hemp 45deg_4,Hemp 45deg
+23,1.956004,3.551008,Hemp 45deg_4,Hemp 45deg
+24,2.039338,3.64841,Hemp 45deg_4,Hemp 45deg
+25,2.12265,3.74054,Hemp 45deg_4,Hemp 45deg
+26,2.206016,3.827154,Hemp 45deg_4,Hemp 45deg
+27,2.289332,3.909536,Hemp 45deg_4,Hemp 45deg
+28,2.372654,3.986752,Hemp 45deg_4,Hemp 45deg
+29,2.456002,4.057104,Hemp 45deg_4,Hemp 45deg
+30,2.539338,4.125326,Hemp 45deg_4,Hemp 45deg
+31,2.622654,4.192346,Hemp 45deg_4,Hemp 45deg
+32,2.706006,4.256414,Hemp 45deg_4,Hemp 45deg
+33,2.78933,4.318544,Hemp 45deg_4,Hemp 45deg
+34,2.872644,4.375854,Hemp 45deg_4,Hemp 45deg
+35,2.955994,4.42692,Hemp 45deg_4,Hemp 45deg
+36,3.03936,4.468028,Hemp 45deg_4,Hemp 45deg
+0,0.0397612244897959,0.1712551020408163,Flax 45deg_4,Flax 45deg
+1,0.122636,0.554878,Flax 45deg_4,Flax 45deg
+2,0.2059639999999999,0.977014,Flax 45deg_4,Flax 45deg
+3,0.289306,1.356132,Flax 45deg_4,Flax 45deg
+4,0.372642,1.678144,Flax 45deg_4,Flax 45deg
+5,0.45598,1.959074,Flax 45deg_4,Flax 45deg
+6,0.539328,2.215952,Flax 45deg_4,Flax 45deg
+7,0.622654,2.427144,Flax 45deg_4,Flax 45deg
+8,0.705992,2.61394,Flax 45deg_4,Flax 45deg
+9,0.7893399999999999,2.8099860000000003,Flax 45deg_4,Flax 45deg
+10,0.872632,3.0039,Flax 45deg_4,Flax 45deg
+11,0.956,3.193934,Flax 45deg_4,Flax 45deg
+12,1.03932,3.379894,Flax 45deg_4,Flax 45deg
+13,1.122642,3.5483480000000003,Flax 45deg_4,Flax 45deg
+14,1.2059959999999998,3.717306,Flax 45deg_4,Flax 45deg
+15,1.28933,3.889396,Flax 45deg_4,Flax 45deg
+16,1.372652,4.0614300000000005,Flax 45deg_4,Flax 45deg
+17,1.456006,4.233168,Flax 45deg_4,Flax 45deg
+18,1.539336,4.405858,Flax 45deg_4,Flax 45deg
+19,1.622646,4.579608,Flax 45deg_4,Flax 45deg
+20,1.705998,4.75044,Flax 45deg_4,Flax 45deg
+21,1.789322,4.922108,Flax 45deg_4,Flax 45deg
+22,1.872652,5.09246,Flax 45deg_4,Flax 45deg
+23,1.956006,5.260051999999999,Flax 45deg_4,Flax 45deg
+24,2.039342,5.4265,Flax 45deg_4,Flax 45deg
+25,2.122646,5.589022,Flax 45deg_4,Flax 45deg
+26,2.206024,5.748376,Flax 45deg_4,Flax 45deg
+27,2.28933,5.904594,Flax 45deg_4,Flax 45deg
+28,2.3726320000000003,6.055746,Flax 45deg_4,Flax 45deg
+29,2.45602,6.201794,Flax 45deg_4,Flax 45deg
+30,2.539314,6.343778,Flax 45deg_4,Flax 45deg
+31,2.62266,6.479883999999999,Flax 45deg_4,Flax 45deg
+32,2.706002,6.609439999999999,Flax 45deg_4,Flax 45deg
+33,2.789332,6.733904,Flax 45deg_4,Flax 45deg
+34,2.872644,6.851712,Flax 45deg_4,Flax 45deg
+35,2.956016,6.964504,Flax 45deg_4,Flax 45deg
+36,3.039332,7.074428,Flax 45deg_4,Flax 45deg
+37,3.122666,7.1791100000000005,Flax 45deg_4,Flax 45deg
+38,3.20599,7.279868,Flax 45deg_4,Flax 45deg
+39,3.28933,7.37944,Flax 45deg_4,Flax 45deg
+40,3.372672,7.476656,Flax 45deg_4,Flax 45deg
+41,3.456008,7.570552,Flax 45deg_4,Flax 45deg
+42,3.539324,7.663966,Flax 45deg_4,Flax 45deg
+43,3.622658,7.755128,Flax 45deg_4,Flax 45deg
+44,3.705988,7.845023999999999,Flax 45deg_4,Flax 45deg
+45,3.789342,7.934832,Flax 45deg_4,Flax 45deg
+46,3.87265,8.02262,Flax 45deg_4,Flax 45deg
+47,3.955998,8.108316,Flax 45deg_4,Flax 45deg
+48,4.039332,8.194152,Flax 45deg_4,Flax 45deg
+49,4.122662,8.27748,Flax 45deg_4,Flax 45deg
+50,4.206022,8.359976,Flax 45deg_4,Flax 45deg
+51,4.28933,8.442478,Flax 45deg_4,Flax 45deg
+52,4.372654,8.52206,Flax 45deg_4,Flax 45deg
+53,4.456006,8.597252,Flax 45deg_4,Flax 45deg
+54,4.53933,8.669622,Flax 45deg_4,Flax 45deg
+55,4.622662,8.734684,Flax 45deg_4,Flax 45deg
+56,4.706004,8.788406,Flax 45deg_4,Flax 45deg
