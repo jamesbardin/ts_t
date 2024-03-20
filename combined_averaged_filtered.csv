@@ -1,34 +1,34 @@
 Time,Displacement,Force,File_ID,Material_ID
-0,0.039769387755102,0.277538775510204,Basalt 0deg_1,Basalt 0deg
-1,0.122664,1.181704,Basalt 0deg_1,Basalt 0deg
+0,0.03976938775510204,0.27753877551020406,Basalt 0deg_1,Basalt 0deg
+1,0.12266400000000001,1.181704,Basalt 0deg_1,Basalt 0deg
 2,0.20602,1.917048,Basalt 0deg_1,Basalt 0deg
 3,0.28936,2.45855,Basalt 0deg_1,Basalt 0deg
-4,0.3726959999999999,2.9167140000000003,Basalt 0deg_1,Basalt 0deg
+4,0.37269599999999997,2.9167140000000003,Basalt 0deg_1,Basalt 0deg
 5,0.456038,3.318918,Basalt 0deg_1,Basalt 0deg
 6,0.539378,3.66346,Basalt 0deg_1,Basalt 0deg
-7,0.622706,3.93265,Basalt 0deg_1,Basalt 0deg
+7,0.622706,3.9326499999999998,Basalt 0deg_1,Basalt 0deg
 8,0.7060339999999999,4.185772,Basalt 0deg_1,Basalt 0deg
 9,0.7893819999999999,4.448956,Basalt 0deg_1,Basalt 0deg
 10,0.872688,4.71397,Basalt 0deg_1,Basalt 0deg
 11,0.956036,4.9856240000000005,Basalt 0deg_1,Basalt 0deg
-12,1.03938,5.265666,Basalt 0deg_1,Basalt 0deg
+12,1.03938,5.2656659999999995,Basalt 0deg_1,Basalt 0deg
 13,1.122702,5.552312,Basalt 0deg_1,Basalt 0deg
 14,1.20603,5.843624,Basalt 0deg_1,Basalt 0deg
 15,1.289374,6.143072,Basalt 0deg_1,Basalt 0deg
 16,1.372704,6.444482000000001,Basalt 0deg_1,Basalt 0deg
 17,1.4560400000000002,6.747446,Basalt 0deg_1,Basalt 0deg
 18,1.539374,7.056688,Basalt 0deg_1,Basalt 0deg
-19,1.622702,7.367916,Basalt 0deg_1,Basalt 0deg
+19,1.6227019999999999,7.367916,Basalt 0deg_1,Basalt 0deg
 20,1.7060400000000002,7.683016,Basalt 0deg_1,Basalt 0deg
 21,1.78938,8.004214,Basalt 0deg_1,Basalt 0deg
 22,1.872704,8.327796,Basalt 0deg_1,Basalt 0deg
-23,1.956032,8.656842000000001,Basalt 0deg_1,Basalt 0deg
-24,2.039372,8.994508,Basalt 0deg_1,Basalt 0deg
-25,2.122704,9.334924,Basalt 0deg_1,Basalt 0deg
+23,1.9560319999999998,8.656842000000001,Basalt 0deg_1,Basalt 0deg
+24,2.0393719999999997,8.994508,Basalt 0deg_1,Basalt 0deg
+25,2.122704,9.334923999999999,Basalt 0deg_1,Basalt 0deg
 26,2.206044,9.680256,Basalt 0deg_1,Basalt 0deg
-27,2.289372,10.03172,Basalt 0deg_1,Basalt 0deg
+27,2.2893719999999997,10.03172,Basalt 0deg_1,Basalt 0deg
 28,2.3727080000000003,10.384344,Basalt 0deg_1,Basalt 0deg
-29,2.456024,10.736812,Basalt 0deg_1,Basalt 0deg
+29,2.4560239999999998,10.736812,Basalt 0deg_1,Basalt 0deg
 30,2.539364,11.094628,Basalt 0deg_1,Basalt 0deg
 31,2.6227080000000003,11.453438,Basalt 0deg_1,Basalt 0deg
 32,2.706038,11.815128,Basalt 0deg_1,Basalt 0deg
@@ -36,52 +36,65 @@ Time,Displacement,Force,File_ID,Material_ID
 34,2.872702,12.552012,Basalt 0deg_1,Basalt 0deg
 35,2.956044,12.921624,Basalt 0deg_1,Basalt 0deg
 36,3.039364,13.294668,Basalt 0deg_1,Basalt 0deg
-37,3.122698,13.6675,Basalt 0deg_1,Basalt 0deg
-38,3.206036,14.037724,Basalt 0deg_1,Basalt 0deg
+37,3.1226979999999998,13.6675,Basalt 0deg_1,Basalt 0deg
+38,3.2060359999999997,14.037724,Basalt 0deg_1,Basalt 0deg
 39,3.28937,14.4133,Basalt 0deg_1,Basalt 0deg
 40,3.372702,14.787866,Basalt 0deg_1,Basalt 0deg
-41,3.456036,15.162482,Basalt 0deg_1,Basalt 0deg
+41,3.4560359999999997,15.162482,Basalt 0deg_1,Basalt 0deg
 42,3.539376,15.543806,Basalt 0deg_1,Basalt 0deg
-43,3.622692,15.92529,Basalt 0deg_1,Basalt 0deg
+43,3.6226920000000002,15.92529,Basalt 0deg_1,Basalt 0deg
 44,3.706052,16.311014,Basalt 0deg_1,Basalt 0deg
-45,3.789354,16.700504000000002,Basalt 0deg_1,Basalt 0deg
+45,3.7893540000000003,16.700504000000002,Basalt 0deg_1,Basalt 0deg
 46,3.872694,17.08781,Basalt 0deg_1,Basalt 0deg
-47,3.956034,17.475393999999998,Basalt 0deg_1,Basalt 0deg
+47,3.9560340000000003,17.475393999999998,Basalt 0deg_1,Basalt 0deg
 48,4.03937,17.865925999999998,Basalt 0deg_1,Basalt 0deg
 49,4.1227,18.25626,Basalt 0deg_1,Basalt 0deg
 50,4.20605,18.645364,Basalt 0deg_1,Basalt 0deg
-51,4.28938,19.034812,Basalt 0deg_1,Basalt 0deg
+51,4.2893799999999995,19.034812,Basalt 0deg_1,Basalt 0deg
 52,4.372686,19.421362,Basalt 0deg_1,Basalt 0deg
 53,4.456032,19.806574,Basalt 0deg_1,Basalt 0deg
 54,4.53939,20.193112,Basalt 0deg_1,Basalt 0deg
-55,4.62269,20.576802,Basalt 0deg_1,Basalt 0deg
-56,4.706046,20.947396,Basalt 0deg_1,Basalt 0deg
-57,4.789354,21.32412,Basalt 0deg_1,Basalt 0deg
+55,4.62269,20.576801999999997,Basalt 0deg_1,Basalt 0deg
+56,4.706046,20.947395999999998,Basalt 0deg_1,Basalt 0deg
+57,4.789354,21.324119999999997,Basalt 0deg_1,Basalt 0deg
 58,4.872713999999999,21.703632,Basalt 0deg_1,Basalt 0deg
 59,4.95605,22.078694,Basalt 0deg_1,Basalt 0deg
 60,5.03937,22.452496,Basalt 0deg_1,Basalt 0deg
-61,5.1227,22.823882,Basalt 0deg_1,Basalt 0deg
+61,5.1227,22.823881999999998,Basalt 0deg_1,Basalt 0deg
 62,5.206044,23.19687,Basalt 0deg_1,Basalt 0deg
 63,5.289358,23.572402,Basalt 0deg_1,Basalt 0deg
-64,5.372696,23.936144,Basalt 0deg_1,Basalt 0deg
-65,5.456040000000001,24.298686,Basalt 0deg_1,Basalt 0deg
-66,5.5393740000000005,24.654824,Basalt 0deg_1,Basalt 0deg
+64,5.3726959999999995,23.936144,Basalt 0deg_1,Basalt 0deg
+65,5.456040000000001,24.298685999999996,Basalt 0deg_1,Basalt 0deg
+66,5.5393740000000005,24.654823999999998,Basalt 0deg_1,Basalt 0deg
 67,5.622704,24.999148,Basalt 0deg_1,Basalt 0deg
 68,5.706040000000001,25.21457,Basalt 0deg_1,Basalt 0deg
 69,5.789382000000001,25.288506,Basalt 0deg_1,Basalt 0deg
 70,5.872726,25.296976,Basalt 0deg_1,Basalt 0deg
 71,5.956066,25.394008,Basalt 0deg_1,Basalt 0deg
-72,6.03938,25.582286,Basalt 0deg_1,Basalt 0deg
-73,6.122702,25.797966,Basalt 0deg_1,Basalt 0deg
-74,6.206066,25.997818,Basalt 0deg_1,Basalt 0deg
+72,6.0393799999999995,25.582286,Basalt 0deg_1,Basalt 0deg
+73,6.122702,25.797966000000002,Basalt 0deg_1,Basalt 0deg
+74,6.206066,25.997818000000002,Basalt 0deg_1,Basalt 0deg
 75,6.28937,26.168346,Basalt 0deg_1,Basalt 0deg
-76,6.372696,26.252206,Basalt 0deg_1,Basalt 0deg
-0,0.0397367346938775,0.6680081632653061,Basalt 0deg_2,Basalt 0deg
-1,0.12261,1.452554,Basalt 0deg_2,Basalt 0deg
-2,0.205972,2.099758,Basalt 0deg_2,Basalt 0deg
+76,6.3726959999999995,26.252206,Basalt 0deg_1,Basalt 0deg
+77,6.4560699999999995,26.187874,Basalt 0deg_1,Basalt 0deg
+78,6.539384,26.125094,Basalt 0deg_1,Basalt 0deg
+79,6.6227279999999995,26.047028,Basalt 0deg_1,Basalt 0deg
+80,6.7060699999999995,25.713991999999998,Basalt 0deg_1,Basalt 0deg
+81,6.789394,25.74129,Basalt 0deg_1,Basalt 0deg
+82,6.872712,25.864832,Basalt 0deg_1,Basalt 0deg
+83,6.956046,25.980056,Basalt 0deg_1,Basalt 0deg
+84,7.039368,26.08041,Basalt 0deg_1,Basalt 0deg
+85,7.1227219999999996,26.13437,Basalt 0deg_1,Basalt 0deg
+86,7.206068,26.127382,Basalt 0deg_1,Basalt 0deg
+87,7.28939,25.972901999999998,Basalt 0deg_1,Basalt 0deg
+88,7.372766,25.517229999999998,Basalt 0deg_1,Basalt 0deg
+89,7.44143125,23.653240625,Basalt 0deg_1,Basalt 0deg
+0,0.039736734693877555,0.6680081632653061,Basalt 0deg_2,Basalt 0deg
+1,0.12261,1.4525540000000001,Basalt 0deg_2,Basalt 0deg
+2,0.20597200000000002,2.099758,Basalt 0deg_2,Basalt 0deg
 3,0.28929,2.598018,Basalt 0deg_2,Basalt 0deg
 4,0.372638,3.006382,Basalt 0deg_2,Basalt 0deg
-5,0.45599,3.370426,Basalt 0deg_2,Basalt 0deg
+5,0.45599000000000006,3.370426,Basalt 0deg_2,Basalt 0deg
 6,0.539332,3.704832,Basalt 0deg_2,Basalt 0deg
 7,0.622646,4.005564,Basalt 0deg_2,Basalt 0deg
 8,0.705988,4.27558,Basalt 0deg_2,Basalt 0deg
@@ -104,26 +117,26 @@ Time,Displacement,Force,File_ID,Material_ID
 25,2.12265,8.97946,Basalt 0deg_2,Basalt 0deg
 26,2.2059960000000003,9.28444,Basalt 0deg_2,Basalt 0deg
 27,2.289322,9.598476,Basalt 0deg_2,Basalt 0deg
-28,2.37265,9.916524,Basalt 0deg_2,Basalt 0deg
+28,2.3726499999999997,9.916524,Basalt 0deg_2,Basalt 0deg
 29,2.455984,10.237298,Basalt 0deg_2,Basalt 0deg
 30,2.539312,10.562258,Basalt 0deg_2,Basalt 0deg
-31,2.622634,10.889658,Basalt 0deg_2,Basalt 0deg
+31,2.6226339999999997,10.889657999999999,Basalt 0deg_2,Basalt 0deg
 32,2.705992,11.217946,Basalt 0deg_2,Basalt 0deg
 33,2.789312,11.54971,Basalt 0deg_2,Basalt 0deg
-34,2.8726420000000004,11.880576,Basalt 0deg_2,Basalt 0deg
-35,2.956004,12.20877,Basalt 0deg_2,Basalt 0deg
-36,3.039324,12.539504,Basalt 0deg_2,Basalt 0deg
+34,2.8726420000000004,11.880576000000001,Basalt 0deg_2,Basalt 0deg
+35,2.9560039999999996,12.20877,Basalt 0deg_2,Basalt 0deg
+36,3.0393239999999997,12.539503999999999,Basalt 0deg_2,Basalt 0deg
 37,3.12267,12.869482,Basalt 0deg_2,Basalt 0deg
 38,3.205982,13.198758,Basalt 0deg_2,Basalt 0deg
 39,3.289328,13.530336,Basalt 0deg_2,Basalt 0deg
-40,3.372656,13.861028,Basalt 0deg_2,Basalt 0deg
+40,3.372656,13.861028000000001,Basalt 0deg_2,Basalt 0deg
 41,3.455978,14.192046,Basalt 0deg_2,Basalt 0deg
 42,3.539346,14.530118,Basalt 0deg_2,Basalt 0deg
-43,3.622646,14.86632,Basalt 0deg_2,Basalt 0deg
+43,3.6226459999999996,14.86632,Basalt 0deg_2,Basalt 0deg
 44,3.705986,15.202424,Basalt 0deg_2,Basalt 0deg
-45,3.789306,15.541736,Basalt 0deg_2,Basalt 0deg
-46,3.87263,15.877332,Basalt 0deg_2,Basalt 0deg
-47,3.956,16.208462,Basalt 0deg_2,Basalt 0deg
+45,3.7893060000000003,15.541736,Basalt 0deg_2,Basalt 0deg
+46,3.8726299999999996,15.877332,Basalt 0deg_2,Basalt 0deg
+47,3.9560000000000004,16.208462,Basalt 0deg_2,Basalt 0deg
 48,4.039314,16.539386,Basalt 0deg_2,Basalt 0deg
 49,4.122644,16.862650000000002,Basalt 0deg_2,Basalt 0deg
 50,4.205998,17.177796,Basalt 0deg_2,Basalt 0deg
@@ -140,14 +153,34 @@ Time,Displacement,Force,File_ID,Material_ID
 61,5.122658,19.965114,Basalt 0deg_2,Basalt 0deg
 62,5.205996,20.113958,Basalt 0deg_2,Basalt 0deg
 63,5.289326,20.202066,Basalt 0deg_2,Basalt 0deg
-64,5.372666000000001,20.234958,Basalt 0deg_2,Basalt 0deg
-0,0.039738775510204,0.3322428571428572,Basalt 0deg_3,Basalt 0deg
+64,5.372666000000001,20.234958000000002,Basalt 0deg_2,Basalt 0deg
+65,5.456024,20.115464,Basalt 0deg_2,Basalt 0deg
+66,5.5393740000000005,19.356628,Basalt 0deg_2,Basalt 0deg
+67,5.622734,17.762214,Basalt 0deg_2,Basalt 0deg
+68,5.70602,16.373474,Basalt 0deg_2,Basalt 0deg
+69,5.7893859999999995,15.67816,Basalt 0deg_2,Basalt 0deg
+70,5.87272,13.994754,Basalt 0deg_2,Basalt 0deg
+71,5.956034,13.265104,Basalt 0deg_2,Basalt 0deg
+72,6.039368,12.620301999999999,Basalt 0deg_2,Basalt 0deg
+73,6.122692,11.992911999999999,Basalt 0deg_2,Basalt 0deg
+74,6.206011999999999,11.437194,Basalt 0deg_2,Basalt 0deg
+75,6.289338,11.296256000000001,Basalt 0deg_2,Basalt 0deg
+76,6.372718,10.255474,Basalt 0deg_2,Basalt 0deg
+77,6.4560260000000005,9.219704,Basalt 0deg_2,Basalt 0deg
+78,6.539382000000001,8.586356,Basalt 0deg_2,Basalt 0deg
+79,6.62268,7.637984,Basalt 0deg_2,Basalt 0deg
+80,6.706036,7.0370740000000005,Basalt 0deg_2,Basalt 0deg
+81,6.789344,6.6463980000000005,Basalt 0deg_2,Basalt 0deg
+82,6.872663999999999,6.422645999999999,Basalt 0deg_2,Basalt 0deg
+83,6.956036,5.925312,Basalt 0deg_2,Basalt 0deg
+84,7.003742857142858,4.4710857142857146,Basalt 0deg_2,Basalt 0deg
+0,0.039738775510204084,0.3322428571428572,Basalt 0deg_3,Basalt 0deg
 1,0.122622,1.19726,Basalt 0deg_3,Basalt 0deg
-2,0.20597,1.878934,Basalt 0deg_3,Basalt 0deg
+2,0.20597000000000001,1.8789339999999999,Basalt 0deg_3,Basalt 0deg
 3,0.289292,2.427266,Basalt 0deg_3,Basalt 0deg
 4,0.372638,2.8879,Basalt 0deg_3,Basalt 0deg
-5,0.4559879999999999,3.291932,Basalt 0deg_3,Basalt 0deg
-6,0.539328,3.668258,Basalt 0deg_3,Basalt 0deg
+5,0.45598799999999995,3.291932,Basalt 0deg_3,Basalt 0deg
+6,0.539328,3.6682580000000002,Basalt 0deg_3,Basalt 0deg
 7,0.622638,4.017218,Basalt 0deg_3,Basalt 0deg
 8,0.705994,4.356604,Basalt 0deg_3,Basalt 0deg
 9,0.789336,4.693734,Basalt 0deg_3,Basalt 0deg
@@ -156,44 +189,44 @@ Time,Displacement,Force,File_ID,Material_ID
 12,1.039326,5.661124,Basalt 0deg_3,Basalt 0deg
 13,1.122646,5.949476,Basalt 0deg_3,Basalt 0deg
 14,1.205982,6.245764,Basalt 0deg_3,Basalt 0deg
-15,1.289322,6.553238,Basalt 0deg_3,Basalt 0deg
+15,1.2893219999999999,6.553238,Basalt 0deg_3,Basalt 0deg
 16,1.372642,6.866594,Basalt 0deg_3,Basalt 0deg
 17,1.455998,7.182644,Basalt 0deg_3,Basalt 0deg
-18,1.53933,7.502587999999999,Basalt 0deg_3,Basalt 0deg
+18,1.5393299999999999,7.502587999999999,Basalt 0deg_3,Basalt 0deg
 19,1.622644,7.826784,Basalt 0deg_3,Basalt 0deg
 20,1.705998,8.15617,Basalt 0deg_3,Basalt 0deg
 21,1.7893199999999998,8.490535999999999,Basalt 0deg_3,Basalt 0deg
 22,1.872646,8.830388000000001,Basalt 0deg_3,Basalt 0deg
 23,1.955986,9.173866,Basalt 0deg_3,Basalt 0deg
-24,2.03932,9.525346,Basalt 0deg_3,Basalt 0deg
+24,2.03932,9.525345999999999,Basalt 0deg_3,Basalt 0deg
 25,2.12264,9.878526,Basalt 0deg_3,Basalt 0deg
 26,2.206004,10.231182,Basalt 0deg_3,Basalt 0deg
 27,2.289318,10.585464,Basalt 0deg_3,Basalt 0deg
 28,2.372656,10.943324,Basalt 0deg_3,Basalt 0deg
-29,2.455972,11.305304,Basalt 0deg_3,Basalt 0deg
+29,2.455972,11.305304000000001,Basalt 0deg_3,Basalt 0deg
 30,2.539312,11.673384,Basalt 0deg_3,Basalt 0deg
 31,2.62264,12.04136,Basalt 0deg_3,Basalt 0deg
-32,2.705988,12.411168,Basalt 0deg_3,Basalt 0deg
-33,2.789324,12.785982,Basalt 0deg_3,Basalt 0deg
+32,2.7059879999999996,12.411168,Basalt 0deg_3,Basalt 0deg
+33,2.789324,12.785981999999999,Basalt 0deg_3,Basalt 0deg
 34,2.87264,13.15878,Basalt 0deg_3,Basalt 0deg
 35,2.955994,13.53308,Basalt 0deg_3,Basalt 0deg
 36,3.0393220000000003,13.91384,Basalt 0deg_3,Basalt 0deg
-37,3.12265,14.294608,Basalt 0deg_3,Basalt 0deg
+37,3.1226499999999997,14.294608,Basalt 0deg_3,Basalt 0deg
 38,3.205974,14.676186,Basalt 0deg_3,Basalt 0deg
 39,3.289332,15.063282,Basalt 0deg_3,Basalt 0deg
 40,3.372632,15.450004,Basalt 0deg_3,Basalt 0deg
 41,3.456006,15.838424,Basalt 0deg_3,Basalt 0deg
 42,3.5393220000000003,16.230961999999998,Basalt 0deg_3,Basalt 0deg
-43,3.62263,16.622666,Basalt 0deg_3,Basalt 0deg
-44,3.70598,17.013906,Basalt 0deg_3,Basalt 0deg
-45,3.789308,17.40785,Basalt 0deg_3,Basalt 0deg
-46,3.87263,17.800278000000002,Basalt 0deg_3,Basalt 0deg
-47,3.955984,18.189716,Basalt 0deg_3,Basalt 0deg
+43,3.6226299999999996,16.622666,Basalt 0deg_3,Basalt 0deg
+44,3.7059800000000003,17.013906,Basalt 0deg_3,Basalt 0deg
+45,3.7893079999999997,17.40785,Basalt 0deg_3,Basalt 0deg
+46,3.8726299999999996,17.800278000000002,Basalt 0deg_3,Basalt 0deg
+47,3.9559840000000004,18.189716,Basalt 0deg_3,Basalt 0deg
 48,4.039302,18.58104,Basalt 0deg_3,Basalt 0deg
 49,4.122662,18.967848,Basalt 0deg_3,Basalt 0deg
 50,4.206002,19.347732,Basalt 0deg_3,Basalt 0deg
 51,4.289326,19.72127,Basalt 0deg_3,Basalt 0deg
-52,4.372642,20.08544,Basalt 0deg_3,Basalt 0deg
+52,4.372642,20.085440000000002,Basalt 0deg_3,Basalt 0deg
 53,4.455976,20.433288,Basalt 0deg_3,Basalt 0deg
 54,4.539328,20.769464,Basalt 0deg_3,Basalt 0deg
 55,4.62265,21.090592,Basalt 0deg_3,Basalt 0deg
@@ -202,24 +235,27 @@ Time,Displacement,Force,File_ID,Material_ID
 58,4.87265,22.043292,Basalt 0deg_3,Basalt 0deg
 59,4.9559940000000005,22.345246000000003,Basalt 0deg_3,Basalt 0deg
 60,5.039314,22.653322,Basalt 0deg_3,Basalt 0deg
-61,5.122652,22.96456,Basalt 0deg_3,Basalt 0deg
+61,5.122652,22.964560000000002,Basalt 0deg_3,Basalt 0deg
 62,5.205992,23.271342,Basalt 0deg_3,Basalt 0deg
 63,5.289321999999999,23.574588,Basalt 0deg_3,Basalt 0deg
 64,5.372652,23.870244000000003,Basalt 0deg_3,Basalt 0deg
-65,5.455997999999999,24.150314,Basalt 0deg_3,Basalt 0deg
+65,5.455997999999999,24.150313999999998,Basalt 0deg_3,Basalt 0deg
 66,5.539334,24.407626,Basalt 0deg_3,Basalt 0deg
-67,5.622631999999999,24.63345,Basalt 0deg_3,Basalt 0deg
+67,5.622631999999999,24.633449999999996,Basalt 0deg_3,Basalt 0deg
 68,5.705979999999999,24.818644,Basalt 0deg_3,Basalt 0deg
 69,5.789339999999999,24.954804,Basalt 0deg_3,Basalt 0deg
-70,5.87265,25.006572,Basalt 0deg_3,Basalt 0deg
-0,0.0397367346938775,0.5038551020408163,Basalt 45deg_1,Basalt 45deg
+70,5.87265,25.006572000000002,Basalt 0deg_3,Basalt 0deg
+71,5.956029999999999,24.903962,Basalt 0deg_3,Basalt 0deg
+72,6.0393859999999995,24.243272,Basalt 0deg_3,Basalt 0deg
+73,6.110577142857143,21.278674285714285,Basalt 0deg_3,Basalt 0deg
+0,0.039736734693877555,0.5038551020408163,Basalt 45deg_1,Basalt 45deg
 1,0.12262,1.313946,Basalt 45deg_1,Basalt 45deg
-2,0.205946,1.876486,Basalt 45deg_1,Basalt 45deg
+2,0.205946,1.8764859999999999,Basalt 45deg_1,Basalt 45deg
 3,0.289324,2.230524,Basalt 45deg_1,Basalt 45deg
 4,0.37266,2.446002,Basalt 45deg_1,Basalt 45deg
-5,0.4559879999999999,2.5598,Basalt 45deg_1,Basalt 45deg
+5,0.45598799999999995,2.5598,Basalt 45deg_1,Basalt 45deg
 6,0.539326,2.736168,Basalt 45deg_1,Basalt 45deg
-7,0.62268,2.994892,Basalt 45deg_1,Basalt 45deg
+7,0.62268,2.9948919999999997,Basalt 45deg_1,Basalt 45deg
 8,0.7059739999999999,3.209198,Basalt 45deg_1,Basalt 45deg
 9,0.7893439999999999,3.4063,Basalt 45deg_1,Basalt 45deg
 10,0.87267,3.587508,Basalt 45deg_1,Basalt 45deg
@@ -230,12 +266,12 @@ Time,Displacement,Force,File_ID,Material_ID
 15,1.289324,4.488176,Basalt 45deg_1,Basalt 45deg
 16,1.372662,4.665541999999999,Basalt 45deg_1,Basalt 45deg
 17,1.456,4.852918,Basalt 45deg_1,Basalt 45deg
-18,1.539316,5.063352,Basalt 45deg_1,Basalt 45deg
+18,1.5393160000000001,5.063352,Basalt 45deg_1,Basalt 45deg
 19,1.622662,5.303068,Basalt 45deg_1,Basalt 45deg
 20,1.705978,5.562282,Basalt 45deg_1,Basalt 45deg
-21,1.789336,5.837348,Basalt 45deg_1,Basalt 45deg
-22,1.872658,6.126616,Basalt 45deg_1,Basalt 45deg
-23,1.955974,6.426734,Basalt 45deg_1,Basalt 45deg
+21,1.789336,5.8373479999999995,Basalt 45deg_1,Basalt 45deg
+22,1.8726580000000002,6.126616,Basalt 45deg_1,Basalt 45deg
+23,1.9559739999999999,6.426734,Basalt 45deg_1,Basalt 45deg
 24,2.039334,6.737296,Basalt 45deg_1,Basalt 45deg
 25,2.122656,7.057519999999999,Basalt 45deg_1,Basalt 45deg
 26,2.20599,7.387924000000001,Basalt 45deg_1,Basalt 45deg
@@ -244,25 +280,25 @@ Time,Displacement,Force,File_ID,Material_ID
 29,2.455978,8.422328,Basalt 45deg_1,Basalt 45deg
 30,2.539312,8.778044,Basalt 45deg_1,Basalt 45deg
 31,2.622652,9.139266,Basalt 45deg_1,Basalt 45deg
-32,2.705988,9.504186,Basalt 45deg_1,Basalt 45deg
+32,2.7059879999999996,9.504185999999999,Basalt 45deg_1,Basalt 45deg
 33,2.789334,9.870388,Basalt 45deg_1,Basalt 45deg
-34,2.87265,10.239872,Basalt 45deg_1,Basalt 45deg
+34,2.8726499999999997,10.239872,Basalt 45deg_1,Basalt 45deg
 35,2.955998,10.61231,Basalt 45deg_1,Basalt 45deg
 36,3.0393220000000003,10.987216,Basalt 45deg_1,Basalt 45deg
-37,3.122656,11.366324,Basalt 45deg_1,Basalt 45deg
-38,3.20597,11.750062,Basalt 45deg_1,Basalt 45deg
+37,3.122656,11.366323999999999,Basalt 45deg_1,Basalt 45deg
+38,3.2059699999999998,11.750062,Basalt 45deg_1,Basalt 45deg
 39,3.2893,12.132558,Basalt 45deg_1,Basalt 45deg
 40,3.372656,12.517422,Basalt 45deg_1,Basalt 45deg
 41,3.4559800000000003,12.90461,Basalt 45deg_1,Basalt 45deg
-42,3.53931,13.287652,Basalt 45deg_1,Basalt 45deg
+42,3.53931,13.287652000000001,Basalt 45deg_1,Basalt 45deg
 43,3.622658,13.670036,Basalt 45deg_1,Basalt 45deg
-44,3.705982,14.053826,Basalt 45deg_1,Basalt 45deg
-45,3.789318,14.434568,Basalt 45deg_1,Basalt 45deg
-46,3.872642,14.811574,Basalt 45deg_1,Basalt 45deg
-47,3.95598,15.185536,Basalt 45deg_1,Basalt 45deg
+44,3.705982,14.053825999999999,Basalt 45deg_1,Basalt 45deg
+45,3.789318,14.434567999999999,Basalt 45deg_1,Basalt 45deg
+46,3.8726420000000004,14.811574,Basalt 45deg_1,Basalt 45deg
+47,3.9559800000000003,15.185535999999999,Basalt 45deg_1,Basalt 45deg
 48,4.039328,15.552942,Basalt 45deg_1,Basalt 45deg
 49,4.122656,15.91545,Basalt 45deg_1,Basalt 45deg
-50,4.205968,16.277796000000002,Basalt 45deg_1,Basalt 45deg
+50,4.2059679999999995,16.277796000000002,Basalt 45deg_1,Basalt 45deg
 51,4.289326,16.632434,Basalt 45deg_1,Basalt 45deg
 52,4.3726400000000005,16.981174,Basalt 45deg_1,Basalt 45deg
 53,4.455954,17.328078,Basalt 45deg_1,Basalt 45deg
@@ -275,30 +311,42 @@ Time,Displacement,Force,File_ID,Material_ID
 60,5.03932,19.64894,Basalt 45deg_1,Basalt 45deg
 61,5.12266,19.96547,Basalt 45deg_1,Basalt 45deg
 62,5.205974,20.279446,Basalt 45deg_1,Basalt 45deg
-63,5.289324000000001,20.590752,Basalt 45deg_1,Basalt 45deg
+63,5.289324000000001,20.590752000000002,Basalt 45deg_1,Basalt 45deg
 64,5.372658,20.90016,Basalt 45deg_1,Basalt 45deg
 65,5.455976,21.211206,Basalt 45deg_1,Basalt 45deg
 66,5.539324000000001,21.51864,Basalt 45deg_1,Basalt 45deg
 67,5.622655999999999,21.820754,Basalt 45deg_1,Basalt 45deg
 68,5.7059820000000006,22.120386,Basalt 45deg_1,Basalt 45deg
 69,5.789326,22.413406,Basalt 45deg_1,Basalt 45deg
-70,5.872648000000001,22.703102,Basalt 45deg_1,Basalt 45deg
-71,5.955974,22.99077,Basalt 45deg_1,Basalt 45deg
+70,5.872648000000001,22.703101999999998,Basalt 45deg_1,Basalt 45deg
+71,5.955974,22.990769999999998,Basalt 45deg_1,Basalt 45deg
 72,6.039332000000001,23.27261,Basalt 45deg_1,Basalt 45deg
 73,6.122658,23.547126,Basalt 45deg_1,Basalt 45deg
 74,6.205974,23.81625,Basalt 45deg_1,Basalt 45deg
 75,6.289316,24.075404,Basalt 45deg_1,Basalt 45deg
-76,6.372662,24.32673,Basalt 45deg_1,Basalt 45deg
+76,6.372662,24.326729999999998,Basalt 45deg_1,Basalt 45deg
 77,6.455956,24.567006000000003,Basalt 45deg_1,Basalt 45deg
 78,6.539348,24.796114,Basalt 45deg_1,Basalt 45deg
-79,6.622666000000001,25.007418,Basalt 45deg_1,Basalt 45deg
+79,6.622666000000001,25.007417999999998,Basalt 45deg_1,Basalt 45deg
 80,6.705992,25.173186,Basalt 45deg_1,Basalt 45deg
 81,6.789328,25.273928,Basalt 45deg_1,Basalt 45deg
-0,0.0397612244897959,0.2265469387755102,Basalt 45deg_3,Basalt 45deg
+82,6.872668,25.237082,Basalt 45deg_1,Basalt 45deg
+83,6.956018,24.789607999999998,Basalt 45deg_1,Basalt 45deg
+84,7.039508,22.649366,Basalt 45deg_1,Basalt 45deg
+85,7.122892,16.366616,Basalt 45deg_1,Basalt 45deg
+86,7.205984,15.241148,Basalt 45deg_1,Basalt 45deg
+87,7.289346,15.515464,Basalt 45deg_1,Basalt 45deg
+88,7.372702,14.96594,Basalt 45deg_1,Basalt 45deg
+89,7.45602,14.226762,Basalt 45deg_1,Basalt 45deg
+90,7.539378,13.667167999999998,Basalt 45deg_1,Basalt 45deg
+91,7.622692,13.134544,Basalt 45deg_1,Basalt 45deg
+92,7.706002,12.577067999999999,Basalt 45deg_1,Basalt 45deg
+93,7.758584615384615,12.231869230769231,Basalt 45deg_1,Basalt 45deg
+0,0.03976122448979592,0.2265469387755102,Basalt 45deg_3,Basalt 45deg
 1,0.122638,0.715984,Basalt 45deg_3,Basalt 45deg
-2,0.2059659999999999,1.23163,Basalt 45deg_3,Basalt 45deg
+2,0.20596599999999998,1.23163,Basalt 45deg_3,Basalt 45deg
 3,0.289292,1.673402,Basalt 45deg_3,Basalt 45deg
-4,0.372646,2.01837,Basalt 45deg_3,Basalt 45deg
+4,0.37264600000000003,2.01837,Basalt 45deg_3,Basalt 45deg
 5,0.456,2.288378,Basalt 45deg_3,Basalt 45deg
 6,0.539326,2.4822800000000003,Basalt 45deg_3,Basalt 45deg
 7,0.622668,2.672318,Basalt 45deg_3,Basalt 45deg
@@ -306,10 +354,10 @@ Time,Displacement,Force,File_ID,Material_ID
 9,0.789342,3.053512,Basalt 45deg_3,Basalt 45deg
 10,0.872654,3.233046,Basalt 45deg_3,Basalt 45deg
 11,0.955994,3.417694,Basalt 45deg_3,Basalt 45deg
-12,1.039342,3.602974,Basalt 45deg_3,Basalt 45deg
+12,1.039342,3.6029739999999997,Basalt 45deg_3,Basalt 45deg
 13,1.122668,3.78584,Basalt 45deg_3,Basalt 45deg
-14,1.2059959999999998,3.962386,Basalt 45deg_3,Basalt 45deg
-15,1.2893,4.142976,Basalt 45deg_3,Basalt 45deg
+14,1.2059959999999998,3.9623860000000004,Basalt 45deg_3,Basalt 45deg
+15,1.2893000000000001,4.142976,Basalt 45deg_3,Basalt 45deg
 16,1.3726660000000002,4.329354,Basalt 45deg_3,Basalt 45deg
 17,1.456004,4.520678,Basalt 45deg_3,Basalt 45deg
 18,1.539324,4.712834,Basalt 45deg_3,Basalt 45deg
@@ -320,32 +368,32 @@ Time,Displacement,Force,File_ID,Material_ID
 23,1.95599,5.707730000000001,Basalt 45deg_3,Basalt 45deg
 24,2.03933,5.90428,Basalt 45deg_3,Basalt 45deg
 25,2.122646,6.1039200000000005,Basalt 45deg_3,Basalt 45deg
-26,2.206004,6.311518,Basalt 45deg_3,Basalt 45deg
+26,2.206004,6.3115179999999995,Basalt 45deg_3,Basalt 45deg
 27,2.28931,6.51759,Basalt 45deg_3,Basalt 45deg
 28,2.372652,6.726330000000001,Basalt 45deg_3,Basalt 45deg
-29,2.455988,6.93415,Basalt 45deg_3,Basalt 45deg
-30,2.539308,7.147058,Basalt 45deg_3,Basalt 45deg
-31,2.62266,7.360306,Basalt 45deg_3,Basalt 45deg
+29,2.4559879999999996,6.93415,Basalt 45deg_3,Basalt 45deg
+30,2.539308,7.1470579999999995,Basalt 45deg_3,Basalt 45deg
+31,2.62266,7.3603060000000005,Basalt 45deg_3,Basalt 45deg
 32,2.7059960000000003,7.579134,Basalt 45deg_3,Basalt 45deg
 33,2.78932,7.79052,Basalt 45deg_3,Basalt 45deg
 34,2.872664,8.009728,Basalt 45deg_3,Basalt 45deg
 35,2.956002,8.231988,Basalt 45deg_3,Basalt 45deg
-36,3.039324,8.458276,Basalt 45deg_3,Basalt 45deg
+36,3.0393239999999997,8.458276,Basalt 45deg_3,Basalt 45deg
 37,3.122658,8.686258,Basalt 45deg_3,Basalt 45deg
 38,3.205966,8.915272,Basalt 45deg_3,Basalt 45deg
 39,3.28933,9.142946,Basalt 45deg_3,Basalt 45deg
-40,3.37264,9.367012,Basalt 45deg_3,Basalt 45deg
+40,3.37264,9.367011999999999,Basalt 45deg_3,Basalt 45deg
 41,3.455986,9.59449,Basalt 45deg_3,Basalt 45deg
 42,3.539328,9.826044,Basalt 45deg_3,Basalt 45deg
 43,3.622656,10.057256,Basalt 45deg_3,Basalt 45deg
 44,3.705994,10.284286,Basalt 45deg_3,Basalt 45deg
-45,3.789312,10.510784,Basalt 45deg_3,Basalt 45deg
+45,3.789312,10.510784000000001,Basalt 45deg_3,Basalt 45deg
 46,3.872668,10.745254,Basalt 45deg_3,Basalt 45deg
 47,3.955986,10.985864,Basalt 45deg_3,Basalt 45deg
 48,4.039322,11.229628,Basalt 45deg_3,Basalt 45deg
-49,4.122652,11.47561,Basalt 45deg_3,Basalt 45deg
+49,4.1226519999999995,11.47561,Basalt 45deg_3,Basalt 45deg
 50,4.2059940000000005,11.722176,Basalt 45deg_3,Basalt 45deg
-51,4.289318,11.966318,Basalt 45deg_3,Basalt 45deg
+51,4.289318,11.966318000000001,Basalt 45deg_3,Basalt 45deg
 52,4.372658,12.215614,Basalt 45deg_3,Basalt 45deg
 53,4.455972,12.472064,Basalt 45deg_3,Basalt 45deg
 54,4.539312,12.724098,Basalt 45deg_3,Basalt 45deg
@@ -353,14 +401,14 @@ Time,Displacement,Force,File_ID,Material_ID
 56,4.705992,13.216322,Basalt 45deg_3,Basalt 45deg
 57,4.789314,13.466918,Basalt 45deg_3,Basalt 45deg
 58,4.87267,13.72005,Basalt 45deg_3,Basalt 45deg
-59,4.955992,13.976136,Basalt 45deg_3,Basalt 45deg
+59,4.955992,13.976135999999999,Basalt 45deg_3,Basalt 45deg
 60,5.039314,14.229194,Basalt 45deg_3,Basalt 45deg
-61,5.122666000000001,14.480604,Basalt 45deg_3,Basalt 45deg
-62,5.205978,14.73408,Basalt 45deg_3,Basalt 45deg
+61,5.122666000000001,14.480604000000001,Basalt 45deg_3,Basalt 45deg
+62,5.205978,14.734079999999999,Basalt 45deg_3,Basalt 45deg
 63,5.289316,14.99017,Basalt 45deg_3,Basalt 45deg
 64,5.372678,15.24787,Basalt 45deg_3,Basalt 45deg
 65,5.4559820000000006,15.503661999999998,Basalt 45deg_3,Basalt 45deg
-66,5.539344,15.749814,Basalt 45deg_3,Basalt 45deg
+66,5.539344,15.749813999999999,Basalt 45deg_3,Basalt 45deg
 67,5.622655999999999,15.985982,Basalt 45deg_3,Basalt 45deg
 68,5.705972,16.225922,Basalt 45deg_3,Basalt 45deg
 69,5.789316,16.467598,Basalt 45deg_3,Basalt 45deg
@@ -378,34 +426,65 @@ Time,Displacement,Force,File_ID,Material_ID
 81,6.789339999999999,19.354096,Basalt 45deg_3,Basalt 45deg
 82,6.872648000000001,19.590342,Basalt 45deg_3,Basalt 45deg
 83,6.955957999999999,19.819896,Basalt 45deg_3,Basalt 45deg
-84,7.03933,20.038278,Basalt 45deg_3,Basalt 45deg
+84,7.03933,20.038278000000002,Basalt 45deg_3,Basalt 45deg
 85,7.122655999999999,20.243694,Basalt 45deg_3,Basalt 45deg
 86,7.205979999999999,20.463046,Basalt 45deg_3,Basalt 45deg
-87,7.289339999999999,20.675384,Basalt 45deg_3,Basalt 45deg
+87,7.289339999999999,20.675383999999998,Basalt 45deg_3,Basalt 45deg
 88,7.372652,20.869322,Basalt 45deg_3,Basalt 45deg
 89,7.455992,21.066366,Basalt 45deg_3,Basalt 45deg
 90,7.539334,21.249602,Basalt 45deg_3,Basalt 45deg
 91,7.622663999999999,21.423276,Basalt 45deg_3,Basalt 45deg
 92,7.705979999999999,21.609798,Basalt 45deg_3,Basalt 45deg
-93,7.789289999999999,21.783846,Basalt 45deg_3,Basalt 45deg
-94,7.872695999999999,21.953606,Basalt 45deg_3,Basalt 45deg
-95,7.955982,22.125266,Basalt 45deg_3,Basalt 45deg
+93,7.789289999999999,21.783845999999997,Basalt 45deg_3,Basalt 45deg
+94,7.8726959999999995,21.953606,Basalt 45deg_3,Basalt 45deg
+95,7.9559820000000006,22.125266,Basalt 45deg_3,Basalt 45deg
 96,8.039332,22.30204,Basalt 45deg_3,Basalt 45deg
 97,8.122678,22.471906,Basalt 45deg_3,Basalt 45deg
 98,8.205968,22.64687,Basalt 45deg_3,Basalt 45deg
 99,8.289285999999999,22.820120000000003,Basalt 45deg_3,Basalt 45deg
-100,8.37269,22.978884,Basalt 45deg_3,Basalt 45deg
+100,8.37269,22.978883999999997,Basalt 45deg_3,Basalt 45deg
 101,8.45599,23.13219,Basalt 45deg_3,Basalt 45deg
 102,8.539335999999999,23.271988,Basalt 45deg_3,Basalt 45deg
-103,8.622658,23.405678,Basalt 45deg_3,Basalt 45deg
+103,8.622658,23.405677999999998,Basalt 45deg_3,Basalt 45deg
 104,8.705988,23.532342,Basalt 45deg_3,Basalt 45deg
 105,8.789322,23.648202,Basalt 45deg_3,Basalt 45deg
 106,8.872672,23.727234,Basalt 45deg_3,Basalt 45deg
 107,8.955978,23.75417,Basalt 45deg_3,Basalt 45deg
 108,9.039338,23.774956000000003,Basalt 45deg_3,Basalt 45deg
-0,0.0397673469387755,0.1781367346938775,Basalt 45deg_4,Basalt 45deg
+109,9.122644000000001,23.74982,Basalt 45deg_3,Basalt 45deg
+110,9.206033999999999,23.560734000000004,Basalt 45deg_3,Basalt 45deg
+111,9.289364,23.312946,Basalt 45deg_3,Basalt 45deg
+112,9.372684,23.008906000000003,Basalt 45deg_3,Basalt 45deg
+113,9.456002,22.652146,Basalt 45deg_3,Basalt 45deg
+114,9.539328000000001,22.207786000000002,Basalt 45deg_3,Basalt 45deg
+115,9.622744,21.141284,Basalt 45deg_3,Basalt 45deg
+116,9.706176000000001,18.032414000000003,Basalt 45deg_3,Basalt 45deg
+117,9.789386,15.644292,Basalt 45deg_3,Basalt 45deg
+118,9.872684,15.193538,Basalt 45deg_3,Basalt 45deg
+119,9.956006,14.880634,Basalt 45deg_3,Basalt 45deg
+120,10.039375999999999,14.311507999999998,Basalt 45deg_3,Basalt 45deg
+121,10.122716,13.4426,Basalt 45deg_3,Basalt 45deg
+122,10.206043999999999,12.41781,Basalt 45deg_3,Basalt 45deg
+123,10.289362,11.440392,Basalt 45deg_3,Basalt 45deg
+124,10.372722,10.432252,Basalt 45deg_3,Basalt 45deg
+125,10.456027999999998,9.591078,Basalt 45deg_3,Basalt 45deg
+126,10.539364,9.006814,Basalt 45deg_3,Basalt 45deg
+127,10.62269,8.61247,Basalt 45deg_3,Basalt 45deg
+128,10.705998,8.33759,Basalt 45deg_3,Basalt 45deg
+129,10.789348,8.097388,Basalt 45deg_3,Basalt 45deg
+130,10.872682,7.738012,Basalt 45deg_3,Basalt 45deg
+131,10.956026,7.039657999999999,Basalt 45deg_3,Basalt 45deg
+132,11.039368,6.34933,Basalt 45deg_3,Basalt 45deg
+133,11.122701999999999,5.750248,Basalt 45deg_3,Basalt 45deg
+134,11.206027999999998,5.083768,Basalt 45deg_3,Basalt 45deg
+135,11.289352,4.520233999999999,Basalt 45deg_3,Basalt 45deg
+136,11.372674,4.1385559999999995,Basalt 45deg_3,Basalt 45deg
+137,11.456002000000002,3.930134,Basalt 45deg_3,Basalt 45deg
+138,11.539352,3.791068,Basalt 45deg_3,Basalt 45deg
+139,11.60765,3.68495625,Basalt 45deg_3,Basalt 45deg
+0,0.03976734693877551,0.17813673469387756,Basalt 45deg_4,Basalt 45deg
 1,0.122622,0.691088,Basalt 45deg_4,Basalt 45deg
-2,0.2059339999999999,1.3612,Basalt 45deg_4,Basalt 45deg
+2,0.20593399999999998,1.3612,Basalt 45deg_4,Basalt 45deg
 3,0.289306,1.876664,Basalt 45deg_4,Basalt 45deg
 4,0.37265,2.256256,Basalt 45deg_4,Basalt 45deg
 5,0.455998,2.544924,Basalt 45deg_4,Basalt 45deg
@@ -413,8 +492,8 @@ Time,Displacement,Force,File_ID,Material_ID
 7,0.622656,3.001532,Basalt 45deg_4,Basalt 45deg
 8,0.705986,3.2279340000000003,Basalt 45deg_4,Basalt 45deg
 9,0.789326,3.452686,Basalt 45deg_4,Basalt 45deg
-10,0.8726619999999999,3.66157,Basalt 45deg_4,Basalt 45deg
-11,0.955986,3.87501,Basalt 45deg_4,Basalt 45deg
+10,0.8726619999999999,3.6615699999999998,Basalt 45deg_4,Basalt 45deg
+11,0.955986,3.8750099999999996,Basalt 45deg_4,Basalt 45deg
 12,1.03933,4.076904,Basalt 45deg_4,Basalt 45deg
 13,1.122662,4.294234,Basalt 45deg_4,Basalt 45deg
 14,1.205982,4.539461999999999,Basalt 45deg_4,Basalt 45deg
@@ -426,31 +505,31 @@ Time,Displacement,Force,File_ID,Material_ID
 20,1.705978,6.09197,Basalt 45deg_4,Basalt 45deg
 21,1.78934,6.373004,Basalt 45deg_4,Basalt 45deg
 22,1.87266,6.659098,Basalt 45deg_4,Basalt 45deg
-23,1.955966,6.950694,Basalt 45deg_4,Basalt 45deg
+23,1.9559659999999999,6.9506939999999995,Basalt 45deg_4,Basalt 45deg
 24,2.039338,7.243152,Basalt 45deg_4,Basalt 45deg
 25,2.122662,7.541636,Basalt 45deg_4,Basalt 45deg
 26,2.20599,7.85052,Basalt 45deg_4,Basalt 45deg
 27,2.289316,8.159638,Basalt 45deg_4,Basalt 45deg
 28,2.372654,8.468516,Basalt 45deg_4,Basalt 45deg
-29,2.455986,8.780868,Basalt 45deg_4,Basalt 45deg
+29,2.4559860000000002,8.780868,Basalt 45deg_4,Basalt 45deg
 30,2.539318,9.096302,Basalt 45deg_4,Basalt 45deg
 31,2.622652,9.41768,Basalt 45deg_4,Basalt 45deg
 32,2.7059839999999995,9.747164,Basalt 45deg_4,Basalt 45deg
-33,2.789326,10.077578,Basalt 45deg_4,Basalt 45deg
+33,2.789326,10.077577999999999,Basalt 45deg_4,Basalt 45deg
 34,2.872658,10.40686,Basalt 45deg_4,Basalt 45deg
 35,2.9559960000000003,10.738286,Basalt 45deg_4,Basalt 45deg
 36,3.03933,11.07133,Basalt 45deg_4,Basalt 45deg
 37,3.122656,11.407126,Basalt 45deg_4,Basalt 45deg
 38,3.20596,11.744782,Basalt 45deg_4,Basalt 45deg
 39,3.289316,12.08026,Basalt 45deg_4,Basalt 45deg
-40,3.372646,12.414136,Basalt 45deg_4,Basalt 45deg
+40,3.3726459999999996,12.414136000000001,Basalt 45deg_4,Basalt 45deg
 41,3.45599,12.750562,Basalt 45deg_4,Basalt 45deg
 42,3.539328,13.08714,Basalt 45deg_4,Basalt 45deg
-43,3.62265,13.423662,Basalt 45deg_4,Basalt 45deg
+43,3.6226499999999997,13.423662,Basalt 45deg_4,Basalt 45deg
 44,3.70599,13.760536,Basalt 45deg_4,Basalt 45deg
-45,3.789318,14.095764,Basalt 45deg_4,Basalt 45deg
+45,3.789318,14.095763999999999,Basalt 45deg_4,Basalt 45deg
 46,3.872652,14.432068,Basalt 45deg_4,Basalt 45deg
-47,3.95598,14.769708,Basalt 45deg_4,Basalt 45deg
+47,3.9559800000000003,14.769708000000001,Basalt 45deg_4,Basalt 45deg
 48,4.03932,15.104428,Basalt 45deg_4,Basalt 45deg
 49,4.122663999999999,15.438376,Basalt 45deg_4,Basalt 45deg
 50,4.20598,15.772946,Basalt 45deg_4,Basalt 45deg
@@ -466,36 +545,68 @@ Time,Displacement,Force,File_ID,Material_ID
 60,5.039312,19.082286,Basalt 45deg_4,Basalt 45deg
 61,5.122652,19.393306,Basalt 45deg_4,Basalt 45deg
 62,5.205972,19.701026,Basalt 45deg_4,Basalt 45deg
-63,5.289321999999999,19.99677,Basalt 45deg_4,Basalt 45deg
+63,5.289321999999999,19.996769999999998,Basalt 45deg_4,Basalt 45deg
 64,5.372662,20.283272,Basalt 45deg_4,Basalt 45deg
 65,5.455979999999999,20.560688,Basalt 45deg_4,Basalt 45deg
 66,5.53933,20.831288,Basalt 45deg_4,Basalt 45deg
 67,5.622666000000001,21.093466,Basalt 45deg_4,Basalt 45deg
 68,5.7059820000000006,21.333578,Basalt 45deg_4,Basalt 45deg
 69,5.789321999999999,21.544666000000003,Basalt 45deg_4,Basalt 45deg
-70,5.872652,21.699808,Basalt 45deg_4,Basalt 45deg
-71,5.955994,21.75448,Basalt 45deg_4,Basalt 45deg
-0,0.0397795918367346,0.0301755102040816,Basalt Flax 0deg_2,Basalt Flax 0deg
+70,5.872652,21.699807999999997,Basalt 45deg_4,Basalt 45deg
+71,5.955994,21.754479999999997,Basalt 45deg_4,Basalt 45deg
+72,6.039342,21.670362,Basalt 45deg_4,Basalt 45deg
+73,6.1226840000000005,21.364154,Basalt 45deg_4,Basalt 45deg
+74,6.206046,20.468924,Basalt 45deg_4,Basalt 45deg
+75,6.289435999999999,18.359248,Basalt 45deg_4,Basalt 45deg
+76,6.3727480000000005,16.226256,Basalt 45deg_4,Basalt 45deg
+77,6.456062,14.364261999999998,Basalt 45deg_4,Basalt 45deg
+78,6.539394,12.913943999999999,Basalt 45deg_4,Basalt 45deg
+79,6.622705999999999,11.988124000000001,Basalt 45deg_4,Basalt 45deg
+80,6.706018,11.385074,Basalt 45deg_4,Basalt 45deg
+81,6.789348,10.943345999999998,Basalt 45deg_4,Basalt 45deg
+82,6.872674,10.606446,Basalt 45deg_4,Basalt 45deg
+83,6.956,10.272038,Basalt 45deg_4,Basalt 45deg
+84,7.039344,9.910368,Basalt 45deg_4,Basalt 45deg
+85,7.122686,9.494524,Basalt 45deg_4,Basalt 45deg
+86,7.2060059999999995,9.053802,Basalt 45deg_4,Basalt 45deg
+87,7.289339999999999,8.631606,Basalt 45deg_4,Basalt 45deg
+88,7.37269,8.232924,Basalt 45deg_4,Basalt 45deg
+89,7.456018,7.843796,Basalt 45deg_4,Basalt 45deg
+90,7.539338,7.486554,Basalt 45deg_4,Basalt 45deg
+91,7.622688,7.1955100000000005,Basalt 45deg_4,Basalt 45deg
+92,7.706011999999999,6.942944,Basalt 45deg_4,Basalt 45deg
+93,7.789348,6.741656000000001,Basalt 45deg_4,Basalt 45deg
+94,7.872668,6.556844,Basalt 45deg_4,Basalt 45deg
+95,7.956011999999999,6.356164,Basalt 45deg_4,Basalt 45deg
+96,8.039344,6.146548,Basalt 45deg_4,Basalt 45deg
+97,8.12268,5.972334,Basalt 45deg_4,Basalt 45deg
+98,8.206014,5.851128,Basalt 45deg_4,Basalt 45deg
+99,8.28934,5.71225,Basalt 45deg_4,Basalt 45deg
+100,8.372672,5.574634,Basalt 45deg_4,Basalt 45deg
+101,8.456012,5.441508,Basalt 45deg_4,Basalt 45deg
+102,8.539344,5.288016,Basalt 45deg_4,Basalt 45deg
+103,8.60930294117647,5.147026470588235,Basalt 45deg_4,Basalt 45deg
+0,0.03977959183673469,0.03017551020408163,Basalt Flax 0deg_2,Basalt Flax 0deg
 1,0.122658,0.138296,Basalt Flax 0deg_2,Basalt Flax 0deg
-2,0.2059679999999999,0.518688,Basalt Flax 0deg_2,Basalt Flax 0deg
+2,0.20596799999999998,0.518688,Basalt Flax 0deg_2,Basalt Flax 0deg
 3,0.2893,0.905632,Basalt Flax 0deg_2,Basalt Flax 0deg
 4,0.37264,1.1766759999999998,Basalt Flax 0deg_2,Basalt Flax 0deg
 5,0.456002,1.423902,Basalt Flax 0deg_2,Basalt Flax 0deg
-6,0.539338,1.62275,Basalt Flax 0deg_2,Basalt Flax 0deg
+6,0.539338,1.6227500000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
 7,0.622654,1.7998580000000002,Basalt Flax 0deg_2,Basalt Flax 0deg
 8,0.706002,1.947526,Basalt Flax 0deg_2,Basalt Flax 0deg
-9,0.789342,2.099642,Basalt Flax 0deg_2,Basalt Flax 0deg
+9,0.789342,2.0996420000000002,Basalt Flax 0deg_2,Basalt Flax 0deg
 10,0.872648,2.23501,Basalt Flax 0deg_2,Basalt Flax 0deg
-11,0.956004,2.353584,Basalt Flax 0deg_2,Basalt Flax 0deg
-12,1.039322,2.482714,Basalt Flax 0deg_2,Basalt Flax 0deg
+11,0.956004,2.3535839999999997,Basalt Flax 0deg_2,Basalt Flax 0deg
+12,1.0393219999999999,2.482714,Basalt Flax 0deg_2,Basalt Flax 0deg
 13,1.122662,2.630032,Basalt Flax 0deg_2,Basalt Flax 0deg
-14,1.205988,2.760238,Basalt Flax 0deg_2,Basalt Flax 0deg
+14,1.205988,2.7602379999999997,Basalt Flax 0deg_2,Basalt Flax 0deg
 15,1.289344,2.891082,Basalt Flax 0deg_2,Basalt Flax 0deg
-16,1.372662,3.020224,Basalt Flax 0deg_2,Basalt Flax 0deg
+16,1.372662,3.0202240000000002,Basalt Flax 0deg_2,Basalt Flax 0deg
 17,1.45601,3.156784,Basalt Flax 0deg_2,Basalt Flax 0deg
-18,1.53934,3.296914,Basalt Flax 0deg_2,Basalt Flax 0deg
+18,1.53934,3.2969139999999997,Basalt Flax 0deg_2,Basalt Flax 0deg
 19,1.622642,3.439134,Basalt Flax 0deg_2,Basalt Flax 0deg
-20,1.706006,3.580928,Basalt Flax 0deg_2,Basalt Flax 0deg
+20,1.7060060000000001,3.580928,Basalt Flax 0deg_2,Basalt Flax 0deg
 21,1.78934,3.723732,Basalt Flax 0deg_2,Basalt Flax 0deg
 22,1.87265,3.8669,Basalt Flax 0deg_2,Basalt Flax 0deg
 23,1.955986,4.010356,Basalt Flax 0deg_2,Basalt Flax 0deg
@@ -509,8 +620,8 @@ Time,Displacement,Force,File_ID,Material_ID
 31,2.622668,5.267868,Basalt Flax 0deg_2,Basalt Flax 0deg
 32,2.70599,5.42568,Basalt Flax 0deg_2,Basalt Flax 0deg
 33,2.789318,5.571088,Basalt Flax 0deg_2,Basalt Flax 0deg
-34,2.87265,5.719632000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
-35,2.956006,5.875956,Basalt Flax 0deg_2,Basalt Flax 0deg
+34,2.8726499999999997,5.719632000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
+35,2.956006,5.8759559999999995,Basalt Flax 0deg_2,Basalt Flax 0deg
 36,3.0393220000000003,6.023866000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
 37,3.122658,6.167872,Basalt Flax 0deg_2,Basalt Flax 0deg
 38,3.206002,6.267996,Basalt Flax 0deg_2,Basalt Flax 0deg
@@ -518,28 +629,28 @@ Time,Displacement,Force,File_ID,Material_ID
 40,3.372658,6.409042,Basalt Flax 0deg_2,Basalt Flax 0deg
 41,3.456002,6.523922,Basalt Flax 0deg_2,Basalt Flax 0deg
 42,3.539326,6.646454,Basalt Flax 0deg_2,Basalt Flax 0deg
-43,3.62265,6.763162,Basalt Flax 0deg_2,Basalt Flax 0deg
+43,3.6226499999999997,6.7631619999999995,Basalt Flax 0deg_2,Basalt Flax 0deg
 44,3.705992,6.882192,Basalt Flax 0deg_2,Basalt Flax 0deg
-45,3.789332,7.005118,Basalt Flax 0deg_2,Basalt Flax 0deg
+45,3.789332,7.0051179999999995,Basalt Flax 0deg_2,Basalt Flax 0deg
 46,3.872658,7.118276,Basalt Flax 0deg_2,Basalt Flax 0deg
-47,3.955998,7.236914,Basalt Flax 0deg_2,Basalt Flax 0deg
+47,3.955998,7.2369140000000005,Basalt Flax 0deg_2,Basalt Flax 0deg
 48,4.03933,7.366112,Basalt Flax 0deg_2,Basalt Flax 0deg
 49,4.122654,7.49666,Basalt Flax 0deg_2,Basalt Flax 0deg
 50,4.206002,7.630882000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
-51,4.28933,7.76676,Basalt Flax 0deg_2,Basalt Flax 0deg
+51,4.28933,7.7667600000000006,Basalt Flax 0deg_2,Basalt Flax 0deg
 52,4.372662,7.898162,Basalt Flax 0deg_2,Basalt Flax 0deg
 53,4.455984,8.028787999999999,Basalt Flax 0deg_2,Basalt Flax 0deg
 54,4.539332,8.16658,Basalt Flax 0deg_2,Basalt Flax 0deg
 55,4.622654,8.304181999999999,Basalt Flax 0deg_2,Basalt Flax 0deg
 56,4.70601,8.444548,Basalt Flax 0deg_2,Basalt Flax 0deg
 57,4.78932,8.590786,Basalt Flax 0deg_2,Basalt Flax 0deg
-58,4.872652,8.737524,Basalt Flax 0deg_2,Basalt Flax 0deg
+58,4.8726519999999995,8.737524,Basalt Flax 0deg_2,Basalt Flax 0deg
 59,4.956004,8.887006,Basalt Flax 0deg_2,Basalt Flax 0deg
 60,5.039332,9.032792,Basalt Flax 0deg_2,Basalt Flax 0deg
-61,5.12266,9.17546,Basalt Flax 0deg_2,Basalt Flax 0deg
+61,5.12266,9.175460000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
 62,5.206008000000001,9.321188,Basalt Flax 0deg_2,Basalt Flax 0deg
 63,5.289326,9.467074,Basalt Flax 0deg_2,Basalt Flax 0deg
-64,5.372646,9.618104,Basalt Flax 0deg_2,Basalt Flax 0deg
+64,5.372646,9.618103999999999,Basalt Flax 0deg_2,Basalt Flax 0deg
 65,5.45601,9.77,Basalt Flax 0deg_2,Basalt Flax 0deg
 66,5.539326,9.923678,Basalt Flax 0deg_2,Basalt Flax 0deg
 67,5.622646,10.074214,Basalt Flax 0deg_2,Basalt Flax 0deg
@@ -547,22 +658,22 @@ Time,Displacement,Force,File_ID,Material_ID
 69,5.78933,10.38026,Basalt Flax 0deg_2,Basalt Flax 0deg
 70,5.87266,10.537656,Basalt Flax 0deg_2,Basalt Flax 0deg
 71,5.956018,10.697274,Basalt Flax 0deg_2,Basalt Flax 0deg
-72,6.039338,10.861448,Basalt Flax 0deg_2,Basalt Flax 0deg
+72,6.039338,10.861448000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
 73,6.122646,11.026676,Basalt Flax 0deg_2,Basalt Flax 0deg
-74,6.205992,11.190084,Basalt Flax 0deg_2,Basalt Flax 0deg
+74,6.205992,11.190083999999999,Basalt Flax 0deg_2,Basalt Flax 0deg
 75,6.28933,11.347856,Basalt Flax 0deg_2,Basalt Flax 0deg
 76,6.372648000000001,11.503098,Basalt Flax 0deg_2,Basalt Flax 0deg
 77,6.456002,11.656222,Basalt Flax 0deg_2,Basalt Flax 0deg
-78,6.539328,11.810726,Basalt Flax 0deg_2,Basalt Flax 0deg
+78,6.539328,11.810725999999999,Basalt Flax 0deg_2,Basalt Flax 0deg
 79,6.622652,11.965834,Basalt Flax 0deg_2,Basalt Flax 0deg
 80,6.706004,12.12251,Basalt Flax 0deg_2,Basalt Flax 0deg
-81,6.789331999999999,12.281448,Basalt Flax 0deg_2,Basalt Flax 0deg
+81,6.789331999999999,12.281448000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
 82,6.872644,12.440838,Basalt Flax 0deg_2,Basalt Flax 0deg
-83,6.955997999999999,12.592866,Basalt Flax 0deg_2,Basalt Flax 0deg
-84,7.039321999999999,12.740436,Basalt Flax 0deg_2,Basalt Flax 0deg
+83,6.955997999999999,12.592865999999999,Basalt Flax 0deg_2,Basalt Flax 0deg
+84,7.039321999999999,12.740435999999999,Basalt Flax 0deg_2,Basalt Flax 0deg
 85,7.122658,12.889516,Basalt Flax 0deg_2,Basalt Flax 0deg
 86,7.206,13.041394,Basalt Flax 0deg_2,Basalt Flax 0deg
-87,7.289312,13.179624,Basalt Flax 0deg_2,Basalt Flax 0deg
+87,7.289312,13.179623999999999,Basalt Flax 0deg_2,Basalt Flax 0deg
 88,7.37267,13.321928,Basalt Flax 0deg_2,Basalt Flax 0deg
 89,7.455986,13.472231999999998,Basalt Flax 0deg_2,Basalt Flax 0deg
 90,7.539312,13.618254,Basalt Flax 0deg_2,Basalt Flax 0deg
@@ -574,8 +685,8 @@ Time,Displacement,Force,File_ID,Material_ID
 96,8.039338,14.457672,Basalt Flax 0deg_2,Basalt Flax 0deg
 97,8.122658,14.600104000000002,Basalt Flax 0deg_2,Basalt Flax 0deg
 98,8.205982,14.743734,Basalt Flax 0deg_2,Basalt Flax 0deg
-99,8.289334,14.88478,Basalt Flax 0deg_2,Basalt Flax 0deg
-100,8.37265,15.026482,Basalt Flax 0deg_2,Basalt Flax 0deg
+99,8.289334,14.884780000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
+100,8.37265,15.026482000000001,Basalt Flax 0deg_2,Basalt Flax 0deg
 101,8.455996,15.168446,Basalt Flax 0deg_2,Basalt Flax 0deg
 102,8.53934,15.312486,Basalt Flax 0deg_2,Basalt Flax 0deg
 103,8.622658,15.453672,Basalt Flax 0deg_2,Basalt Flax 0deg
@@ -583,10 +694,10 @@ Time,Displacement,Force,File_ID,Material_ID
 105,8.789312,15.730688,Basalt Flax 0deg_2,Basalt Flax 0deg
 106,8.872646,15.865454,Basalt Flax 0deg_2,Basalt Flax 0deg
 107,8.955988,15.999975999999998,Basalt Flax 0deg_2,Basalt Flax 0deg
-108,9.039328,16.13308,Basalt Flax 0deg_2,Basalt Flax 0deg
+108,9.039328000000001,16.13308,Basalt Flax 0deg_2,Basalt Flax 0deg
 109,9.122666,16.246318,Basalt Flax 0deg_2,Basalt Flax 0deg
 110,9.206014,16.352866,Basalt Flax 0deg_2,Basalt Flax 0deg
-111,9.289326,16.462906,Basalt Flax 0deg_2,Basalt Flax 0deg
+111,9.289325999999999,16.462906,Basalt Flax 0deg_2,Basalt Flax 0deg
 112,9.372654,16.562592,Basalt Flax 0deg_2,Basalt Flax 0deg
 113,9.455992,16.684546,Basalt Flax 0deg_2,Basalt Flax 0deg
 114,9.539342,16.812768000000002,Basalt Flax 0deg_2,Basalt Flax 0deg
@@ -595,33 +706,36 @@ Time,Displacement,Force,File_ID,Material_ID
 117,9.78933,17.182848,Basalt Flax 0deg_2,Basalt Flax 0deg
 118,9.87266,17.306326,Basalt Flax 0deg_2,Basalt Flax 0deg
 119,9.955992,17.42394,Basalt Flax 0deg_2,Basalt Flax 0deg
-120,10.039326,17.529326,Basalt Flax 0deg_2,Basalt Flax 0deg
-121,10.122644,17.614556,Basalt Flax 0deg_2,Basalt Flax 0deg
+120,10.039325999999999,17.529326,Basalt Flax 0deg_2,Basalt Flax 0deg
+121,10.122644000000001,17.614556,Basalt Flax 0deg_2,Basalt Flax 0deg
 122,10.206,17.681252,Basalt Flax 0deg_2,Basalt Flax 0deg
 123,10.289338,17.714502,Basalt Flax 0deg_2,Basalt Flax 0deg
 124,10.372658,17.728722,Basalt Flax 0deg_2,Basalt Flax 0deg
-0,0.0397795918367346,0.017404081632653,Basalt Flax 0deg_3,Basalt Flax 0deg
+125,10.456016,17.658540000000002,Basalt Flax 0deg_2,Basalt Flax 0deg
+126,10.539364,17.277452,Basalt Flax 0deg_2,Basalt Flax 0deg
+127,10.620306382978724,16.224844680851064,Basalt Flax 0deg_2,Basalt Flax 0deg
+0,0.03977959183673469,0.01740408163265306,Basalt Flax 0deg_3,Basalt Flax 0deg
 1,0.12266,0.076524,Basalt Flax 0deg_3,Basalt Flax 0deg
-2,0.20597,0.336592,Basalt Flax 0deg_3,Basalt Flax 0deg
-3,0.289286,0.91737,Basalt Flax 0deg_3,Basalt Flax 0deg
-4,0.372646,1.413258,Basalt Flax 0deg_3,Basalt Flax 0deg
-5,0.45599,1.760264,Basalt Flax 0deg_3,Basalt Flax 0deg
+2,0.20597000000000001,0.336592,Basalt Flax 0deg_3,Basalt Flax 0deg
+3,0.289286,0.9173699999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
+4,0.37264600000000003,1.413258,Basalt Flax 0deg_3,Basalt Flax 0deg
+5,0.45599000000000006,1.760264,Basalt Flax 0deg_3,Basalt Flax 0deg
 6,0.539334,2.032208,Basalt Flax 0deg_3,Basalt Flax 0deg
 7,0.62266,2.234434,Basalt Flax 0deg_3,Basalt Flax 0deg
 8,0.706,2.451082,Basalt Flax 0deg_3,Basalt Flax 0deg
 9,0.7893340000000001,2.6645799999999995,Basalt Flax 0deg_3,Basalt Flax 0deg
 10,0.872632,2.866126,Basalt Flax 0deg_3,Basalt Flax 0deg
-11,0.956012,3.0519920000000003,Basalt Flax 0deg_3,Basalt Flax 0deg
+11,0.9560120000000001,3.0519920000000003,Basalt Flax 0deg_3,Basalt Flax 0deg
 12,1.039328,3.2195780000000003,Basalt Flax 0deg_3,Basalt Flax 0deg
-13,1.122642,3.37354,Basalt Flax 0deg_3,Basalt Flax 0deg
+13,1.122642,3.3735399999999998,Basalt Flax 0deg_3,Basalt Flax 0deg
 14,1.205994,3.529728,Basalt Flax 0deg_3,Basalt Flax 0deg
-15,1.289336,3.691632,Basalt Flax 0deg_3,Basalt Flax 0deg
+15,1.289336,3.6916320000000002,Basalt Flax 0deg_3,Basalt Flax 0deg
 16,1.372652,3.855618,Basalt Flax 0deg_3,Basalt Flax 0deg
-17,1.456014,4.017512,Basalt Flax 0deg_3,Basalt Flax 0deg
+17,1.4560140000000001,4.017512,Basalt Flax 0deg_3,Basalt Flax 0deg
 18,1.539344,4.182524,Basalt Flax 0deg_3,Basalt Flax 0deg
 19,1.622638,4.347014,Basalt Flax 0deg_3,Basalt Flax 0deg
-20,1.706006,4.510364,Basalt Flax 0deg_3,Basalt Flax 0deg
-21,1.7893279999999998,4.671408,Basalt Flax 0deg_3,Basalt Flax 0deg
+20,1.7060060000000001,4.510364,Basalt Flax 0deg_3,Basalt Flax 0deg
+21,1.7893279999999998,4.6714080000000004,Basalt Flax 0deg_3,Basalt Flax 0deg
 22,1.872656,4.82755,Basalt Flax 0deg_3,Basalt Flax 0deg
 23,1.956,4.989914,Basalt Flax 0deg_3,Basalt Flax 0deg
 24,2.039332,5.155264,Basalt Flax 0deg_3,Basalt Flax 0deg
@@ -632,17 +746,17 @@ Time,Displacement,Force,File_ID,Material_ID
 29,2.455988,5.964672,Basalt Flax 0deg_3,Basalt Flax 0deg
 30,2.53932,6.115048000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
 31,2.622664,6.2689520000000005,Basalt Flax 0deg_3,Basalt Flax 0deg
-32,2.7060000000000004,6.402872,Basalt Flax 0deg_3,Basalt Flax 0deg
+32,2.7060000000000004,6.4028719999999995,Basalt Flax 0deg_3,Basalt Flax 0deg
 33,2.789328,6.5153300000000005,Basalt Flax 0deg_3,Basalt Flax 0deg
 34,2.872654,6.582234,Basalt Flax 0deg_3,Basalt Flax 0deg
 35,2.95601,6.642024,Basalt Flax 0deg_3,Basalt Flax 0deg
-36,3.039324,6.73375,Basalt Flax 0deg_3,Basalt Flax 0deg
+36,3.0393239999999997,6.73375,Basalt Flax 0deg_3,Basalt Flax 0deg
 37,3.122656,6.83678,Basalt Flax 0deg_3,Basalt Flax 0deg
 38,3.205998,6.954059999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
 39,3.289334,7.082908,Basalt Flax 0deg_3,Basalt Flax 0deg
-40,3.372646,7.213991999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
-41,3.45602,7.339656,Basalt Flax 0deg_3,Basalt Flax 0deg
-42,3.53933,7.459805999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
+40,3.3726459999999996,7.213991999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
+41,3.4560199999999996,7.339656,Basalt Flax 0deg_3,Basalt Flax 0deg
+42,3.53933,7.4598059999999995,Basalt Flax 0deg_3,Basalt Flax 0deg
 43,3.622652,7.603636,Basalt Flax 0deg_3,Basalt Flax 0deg
 44,3.705992,7.751582,Basalt Flax 0deg_3,Basalt Flax 0deg
 45,3.789334,7.901934,Basalt Flax 0deg_3,Basalt Flax 0deg
@@ -651,80 +765,87 @@ Time,Displacement,Force,File_ID,Material_ID
 48,4.039332,8.355546,Basalt Flax 0deg_3,Basalt Flax 0deg
 49,4.122648,8.503326,Basalt Flax 0deg_3,Basalt Flax 0deg
 50,4.206008,8.652534,Basalt Flax 0deg_3,Basalt Flax 0deg
-51,4.289342,8.804156,Basalt Flax 0deg_3,Basalt Flax 0deg
+51,4.2893419999999995,8.804156,Basalt Flax 0deg_3,Basalt Flax 0deg
 52,4.372662,8.953224,Basalt Flax 0deg_3,Basalt Flax 0deg
 53,4.4559940000000005,9.100904,Basalt Flax 0deg_3,Basalt Flax 0deg
 54,4.539328,9.251756,Basalt Flax 0deg_3,Basalt Flax 0deg
-55,4.622654,9.403484,Basalt Flax 0deg_3,Basalt Flax 0deg
+55,4.622654,9.403483999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
 56,4.706008,9.553694,Basalt Flax 0deg_3,Basalt Flax 0deg
 57,4.789328,9.704848,Basalt Flax 0deg_3,Basalt Flax 0deg
 58,4.872646,9.85458,Basalt Flax 0deg_3,Basalt Flax 0deg
 59,4.956004,10.004284,Basalt Flax 0deg_3,Basalt Flax 0deg
 60,5.039326,10.156744,Basalt Flax 0deg_3,Basalt Flax 0deg
-61,5.122652,10.308426,Basalt Flax 0deg_3,Basalt Flax 0deg
+61,5.122652,10.308425999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
 62,5.206004,10.45958,Basalt Flax 0deg_3,Basalt Flax 0deg
-63,5.289326,10.613618,Basalt Flax 0deg_3,Basalt Flax 0deg
+63,5.289326,10.613617999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
 64,5.372672,10.769594,Basalt Flax 0deg_3,Basalt Flax 0deg
 65,5.456008000000001,10.92551,Basalt Flax 0deg_3,Basalt Flax 0deg
-66,5.53933,11.08243,Basalt Flax 0deg_3,Basalt Flax 0deg
+66,5.53933,11.082429999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
 67,5.622636,11.235244,Basalt Flax 0deg_3,Basalt Flax 0deg
 68,5.705997999999999,11.38406,Basalt Flax 0deg_3,Basalt Flax 0deg
 69,5.789328,11.536062,Basalt Flax 0deg_3,Basalt Flax 0deg
 70,5.872658,11.690758,Basalt Flax 0deg_3,Basalt Flax 0deg
 71,5.956011999999999,11.843702,Basalt Flax 0deg_3,Basalt Flax 0deg
 72,6.039334,12.001354,Basalt Flax 0deg_3,Basalt Flax 0deg
-73,6.122646,12.156628,Basalt Flax 0deg_3,Basalt Flax 0deg
+73,6.122646,12.156628000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
 74,6.205992,12.302034,Basalt Flax 0deg_3,Basalt Flax 0deg
-75,6.289324000000001,12.44542,Basalt Flax 0deg_3,Basalt Flax 0deg
+75,6.289324000000001,12.445419999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
 76,6.372652,12.59136,Basalt Flax 0deg_3,Basalt Flax 0deg
 77,6.456004,12.729276,Basalt Flax 0deg_3,Basalt Flax 0deg
 78,6.539318,12.87848,Basalt Flax 0deg_3,Basalt Flax 0deg
 79,6.622658,13.024724,Basalt Flax 0deg_3,Basalt Flax 0deg
 80,6.706004,13.16912,Basalt Flax 0deg_3,Basalt Flax 0deg
-81,6.789328,13.30586,Basalt Flax 0deg_3,Basalt Flax 0deg
+81,6.789328,13.305860000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
 82,6.872642,13.436506,Basalt Flax 0deg_3,Basalt Flax 0deg
 83,6.956016,13.573606,Basalt Flax 0deg_3,Basalt Flax 0deg
 84,7.039318,13.711951999999998,Basalt Flax 0deg_3,Basalt Flax 0deg
-85,7.12266,13.832356,Basalt Flax 0deg_3,Basalt Flax 0deg
+85,7.12266,13.832355999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
 86,7.20601,13.957262,Basalt Flax 0deg_3,Basalt Flax 0deg
-87,7.289306,14.088484,Basalt Flax 0deg_3,Basalt Flax 0deg
-88,7.372676,14.225696,Basalt Flax 0deg_3,Basalt Flax 0deg
+87,7.289306,14.088484000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
+88,7.372676,14.225696000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
 89,7.455996,14.349836,Basalt Flax 0deg_3,Basalt Flax 0deg
 90,7.539312,14.49545,Basalt Flax 0deg_3,Basalt Flax 0deg
 91,7.622662,14.64171,Basalt Flax 0deg_3,Basalt Flax 0deg
-92,7.705992,14.781254,Basalt Flax 0deg_3,Basalt Flax 0deg
+92,7.705992,14.781253999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
 93,7.789326,14.92181,Basalt Flax 0deg_3,Basalt Flax 0deg
 94,7.87266,15.06314,Basalt Flax 0deg_3,Basalt Flax 0deg
 95,7.956004,15.199496,Basalt Flax 0deg_3,Basalt Flax 0deg
 96,8.03933,15.333244,Basalt Flax 0deg_3,Basalt Flax 0deg
-97,8.122658,15.461916,Basalt Flax 0deg_3,Basalt Flax 0deg
+97,8.122658,15.461915999999999,Basalt Flax 0deg_3,Basalt Flax 0deg
 98,8.205994,15.582952,Basalt Flax 0deg_3,Basalt Flax 0deg
 99,8.289325999999999,15.698298,Basalt Flax 0deg_3,Basalt Flax 0deg
 100,8.372644000000001,15.805642,Basalt Flax 0deg_3,Basalt Flax 0deg
-101,8.456006,15.889726,Basalt Flax 0deg_3,Basalt Flax 0deg
+101,8.456006,15.889726000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
 102,8.539325999999999,15.960506,Basalt Flax 0deg_3,Basalt Flax 0deg
 103,8.622672,16.01374,Basalt Flax 0deg_3,Basalt Flax 0deg
 104,8.706012,16.048659999999998,Basalt Flax 0deg_3,Basalt Flax 0deg
 105,8.789325999999999,16.057642,Basalt Flax 0deg_3,Basalt Flax 0deg
-0,0.039738775510204,0.4036204081632653,Basalt Flax 0deg_4,Basalt Flax 0deg
+106,8.872654,16.043114,Basalt Flax 0deg_3,Basalt Flax 0deg
+107,8.955998,16.037156,Basalt Flax 0deg_3,Basalt Flax 0deg
+108,9.039334,16.007144,Basalt Flax 0deg_3,Basalt Flax 0deg
+109,9.122664,15.897198000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
+110,9.206018,15.67395,Basalt Flax 0deg_3,Basalt Flax 0deg
+111,9.289358,15.224616000000001,Basalt Flax 0deg_3,Basalt Flax 0deg
+112,9.343806666666667,13.779826666666667,Basalt Flax 0deg_3,Basalt Flax 0deg
+0,0.039738775510204084,0.40362040816326533,Basalt Flax 0deg_4,Basalt Flax 0deg
 1,0.122628,1.08973,Basalt Flax 0deg_4,Basalt Flax 0deg
 2,0.205974,1.611558,Basalt Flax 0deg_4,Basalt Flax 0deg
-3,0.289302,1.972306,Basalt Flax 0deg_4,Basalt Flax 0deg
+3,0.289302,1.9723060000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
 4,0.37265,2.25799,Basalt Flax 0deg_4,Basalt Flax 0deg
 5,0.455994,2.505066,Basalt Flax 0deg_4,Basalt Flax 0deg
 6,0.539334,2.7210680000000003,Basalt Flax 0deg_4,Basalt Flax 0deg
-7,0.622646,2.934276,Basalt Flax 0deg_4,Basalt Flax 0deg
+7,0.622646,2.9342759999999997,Basalt Flax 0deg_4,Basalt Flax 0deg
 8,0.705996,3.1365320000000003,Basalt Flax 0deg_4,Basalt Flax 0deg
 9,0.789332,3.317502,Basalt Flax 0deg_4,Basalt Flax 0deg
 10,0.872634,3.4856420000000004,Basalt Flax 0deg_4,Basalt Flax 0deg
-11,0.956008,3.650528,Basalt Flax 0deg_4,Basalt Flax 0deg
+11,0.9560080000000001,3.650528,Basalt Flax 0deg_4,Basalt Flax 0deg
 12,1.039338,3.821246,Basalt Flax 0deg_4,Basalt Flax 0deg
 13,1.122654,3.99216,Basalt Flax 0deg_4,Basalt Flax 0deg
 14,1.2059959999999998,4.159862,Basalt Flax 0deg_4,Basalt Flax 0deg
 15,1.28934,4.328272,Basalt Flax 0deg_4,Basalt Flax 0deg
 16,1.372654,4.49237,Basalt Flax 0deg_4,Basalt Flax 0deg
-17,1.456,4.652542,Basalt Flax 0deg_4,Basalt Flax 0deg
-18,1.539338,4.807606,Basalt Flax 0deg_4,Basalt Flax 0deg
+17,1.456,4.6525419999999995,Basalt Flax 0deg_4,Basalt Flax 0deg
+18,1.5393379999999999,4.807606,Basalt Flax 0deg_4,Basalt Flax 0deg
 19,1.622642,4.958600000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
 20,1.706,5.109284,Basalt Flax 0deg_4,Basalt Flax 0deg
 21,1.789332,5.268592,Basalt Flax 0deg_4,Basalt Flax 0deg
@@ -743,14 +864,14 @@ Time,Displacement,Force,File_ID,Material_ID
 34,2.8726420000000004,7.214678,Basalt Flax 0deg_4,Basalt Flax 0deg
 35,2.95601,7.354728,Basalt Flax 0deg_4,Basalt Flax 0deg
 36,3.0393220000000003,7.491764,Basalt Flax 0deg_4,Basalt Flax 0deg
-37,3.122656,7.621032,Basalt Flax 0deg_4,Basalt Flax 0deg
+37,3.122656,7.6210320000000005,Basalt Flax 0deg_4,Basalt Flax 0deg
 38,3.205992,7.749424,Basalt Flax 0deg_4,Basalt Flax 0deg
 39,3.289344,7.878342,Basalt Flax 0deg_4,Basalt Flax 0deg
 40,3.372658,8.020138,Basalt Flax 0deg_4,Basalt Flax 0deg
-41,3.45602,8.167162,Basalt Flax 0deg_4,Basalt Flax 0deg
+41,3.4560199999999996,8.167162,Basalt Flax 0deg_4,Basalt Flax 0deg
 42,3.539334,8.321390000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
 43,3.622648,8.474266,Basalt Flax 0deg_4,Basalt Flax 0deg
-44,3.705996,8.625966,Basalt Flax 0deg_4,Basalt Flax 0deg
+44,3.7059960000000003,8.625966,Basalt Flax 0deg_4,Basalt Flax 0deg
 45,3.789314,8.782034,Basalt Flax 0deg_4,Basalt Flax 0deg
 46,3.872654,8.93735,Basalt Flax 0deg_4,Basalt Flax 0deg
 47,3.955994,9.091102,Basalt Flax 0deg_4,Basalt Flax 0deg
@@ -758,41 +879,41 @@ Time,Displacement,Force,File_ID,Material_ID
 49,4.122656,9.396082,Basalt Flax 0deg_4,Basalt Flax 0deg
 50,4.20601,9.543872,Basalt Flax 0deg_4,Basalt Flax 0deg
 51,4.28933,9.688414,Basalt Flax 0deg_4,Basalt Flax 0deg
-52,4.372652,9.835282,Basalt Flax 0deg_4,Basalt Flax 0deg
+52,4.3726519999999995,9.835282,Basalt Flax 0deg_4,Basalt Flax 0deg
 53,4.455985999999999,9.99099,Basalt Flax 0deg_4,Basalt Flax 0deg
 54,4.539334,10.149552,Basalt Flax 0deg_4,Basalt Flax 0deg
-55,4.622652,10.304582,Basalt Flax 0deg_4,Basalt Flax 0deg
-56,4.706006,10.462038,Basalt Flax 0deg_4,Basalt Flax 0deg
+55,4.6226519999999995,10.304582,Basalt Flax 0deg_4,Basalt Flax 0deg
+56,4.7060059999999995,10.462038,Basalt Flax 0deg_4,Basalt Flax 0deg
 57,4.789324,10.628922,Basalt Flax 0deg_4,Basalt Flax 0deg
 58,4.872656,10.796862,Basalt Flax 0deg_4,Basalt Flax 0deg
 59,4.956,10.963494,Basalt Flax 0deg_4,Basalt Flax 0deg
-60,5.039326,11.133384,Basalt Flax 0deg_4,Basalt Flax 0deg
+60,5.039326,11.133384000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
 61,5.122648000000001,11.304274,Basalt Flax 0deg_4,Basalt Flax 0deg
-62,5.206004,11.47209,Basalt Flax 0deg_4,Basalt Flax 0deg
+62,5.206004,11.472090000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
 63,5.28932,11.640298,Basalt Flax 0deg_4,Basalt Flax 0deg
 64,5.372648000000001,11.80577,Basalt Flax 0deg_4,Basalt Flax 0deg
-65,5.45601,11.97253,Basalt Flax 0deg_4,Basalt Flax 0deg
+65,5.45601,11.972529999999999,Basalt Flax 0deg_4,Basalt Flax 0deg
 66,5.539328,12.140248,Basalt Flax 0deg_4,Basalt Flax 0deg
 67,5.622644,12.297937999999998,Basalt Flax 0deg_4,Basalt Flax 0deg
 68,5.705994,12.46555,Basalt Flax 0deg_4,Basalt Flax 0deg
-69,5.789334,12.637372,Basalt Flax 0deg_4,Basalt Flax 0deg
+69,5.789334,12.637372000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
 70,5.872654,12.807146,Basalt Flax 0deg_4,Basalt Flax 0deg
 71,5.956011999999999,12.974760000000002,Basalt Flax 0deg_4,Basalt Flax 0deg
-72,6.039338,13.140804,Basalt Flax 0deg_4,Basalt Flax 0deg
+72,6.039338,13.140804000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
 73,6.122646,13.305788,Basalt Flax 0deg_4,Basalt Flax 0deg
 74,6.205994,13.46262,Basalt Flax 0deg_4,Basalt Flax 0deg
 75,6.289326,13.616674,Basalt Flax 0deg_4,Basalt Flax 0deg
 76,6.372648000000001,13.769788,Basalt Flax 0deg_4,Basalt Flax 0deg
 77,6.455997999999999,13.9191,Basalt Flax 0deg_4,Basalt Flax 0deg
-78,6.539328,14.058212,Basalt Flax 0deg_4,Basalt Flax 0deg
+78,6.539328,14.058212000000001,Basalt Flax 0deg_4,Basalt Flax 0deg
 79,6.62265,14.192952,Basalt Flax 0deg_4,Basalt Flax 0deg
 80,6.706018,14.319956,Basalt Flax 0deg_4,Basalt Flax 0deg
 81,6.789334,14.467636,Basalt Flax 0deg_4,Basalt Flax 0deg
 82,6.872648000000001,14.628638,Basalt Flax 0deg_4,Basalt Flax 0deg
 83,6.956002,14.784126,Basalt Flax 0deg_4,Basalt Flax 0deg
-84,7.039334,14.944902,Basalt Flax 0deg_4,Basalt Flax 0deg
+84,7.039334,14.944901999999999,Basalt Flax 0deg_4,Basalt Flax 0deg
 85,7.122652,15.11239,Basalt Flax 0deg_4,Basalt Flax 0deg
-86,7.205996,15.279704,Basalt Flax 0deg_4,Basalt Flax 0deg
+86,7.205996,15.279703999999999,Basalt Flax 0deg_4,Basalt Flax 0deg
 87,7.289312,15.447536,Basalt Flax 0deg_4,Basalt Flax 0deg
 88,7.372666000000001,15.617686,Basalt Flax 0deg_4,Basalt Flax 0deg
 89,7.455990000000001,15.790364,Basalt Flax 0deg_4,Basalt Flax 0deg
@@ -801,7 +922,7 @@ Time,Displacement,Force,File_ID,Material_ID
 92,7.705986,16.309766,Basalt Flax 0deg_4,Basalt Flax 0deg
 93,7.789318,16.485048,Basalt Flax 0deg_4,Basalt Flax 0deg
 94,7.872658,16.654834,Basalt Flax 0deg_4,Basalt Flax 0deg
-95,7.956005999999999,16.819442,Basalt Flax 0deg_4,Basalt Flax 0deg
+95,7.9560059999999995,16.819442,Basalt Flax 0deg_4,Basalt Flax 0deg
 96,8.039334,16.983088,Basalt Flax 0deg_4,Basalt Flax 0deg
 97,8.122646,17.140984,Basalt Flax 0deg_4,Basalt Flax 0deg
 98,8.20601,17.298524,Basalt Flax 0deg_4,Basalt Flax 0deg
@@ -817,69 +938,70 @@ Time,Displacement,Force,File_ID,Material_ID
 108,9.039334,18.727718,Basalt Flax 0deg_4,Basalt Flax 0deg
 109,9.122662,18.858376,Basalt Flax 0deg_4,Basalt Flax 0deg
 110,9.206008,18.902968,Basalt Flax 0deg_4,Basalt Flax 0deg
-111,9.289326,18.949686,Basalt Flax 0deg_4,Basalt Flax 0deg
+111,9.289325999999999,18.949686,Basalt Flax 0deg_4,Basalt Flax 0deg
 112,9.37265,19.06324,Basalt Flax 0deg_4,Basalt Flax 0deg
 113,9.455994,19.176912,Basalt Flax 0deg_4,Basalt Flax 0deg
 114,9.539322,19.260748,Basalt Flax 0deg_4,Basalt Flax 0deg
 115,9.622672,19.27016,Basalt Flax 0deg_4,Basalt Flax 0deg
-0,0.0397428571428571,0.2571673469387755,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+116,9.692042424242425,18.84248787878788,Basalt Flax 0deg_4,Basalt Flax 0deg
+0,0.03974285714285714,0.2571673469387755,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 1,0.122624,0.835524,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-2,0.205972,1.351788,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+2,0.20597200000000002,1.351788,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 3,0.2893,1.698888,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-4,0.3726339999999999,1.94466,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+4,0.37263399999999997,1.94466,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 5,0.455996,2.15133,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 6,0.539332,2.331498,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-7,0.6226579999999999,2.487728,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+7,0.6226579999999999,2.4877279999999997,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 8,0.705998,2.639918,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-9,0.789294,2.798572,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-10,0.87265,2.955166,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+9,0.789294,2.7985719999999996,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+10,0.87265,2.9551659999999997,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 11,0.956002,3.114414,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-12,1.03931,3.27931,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+12,1.03931,3.2793099999999997,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 13,1.122664,3.43875,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 14,1.205982,3.604056,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-15,1.289324,3.77533,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+15,1.289324,3.7753300000000003,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 16,1.372664,3.946152,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 17,1.45601,4.114666000000001,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-18,1.539308,4.280398,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+18,1.5393080000000001,4.280398,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 19,1.622664,4.454448,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 20,1.70599,4.633104,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-21,1.7893,4.809648,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+21,1.7893000000000001,4.809648,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 22,1.87266,4.98496,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 23,1.956008,5.155984,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 24,2.0393,5.332702,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 25,2.12264,5.509755999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-26,2.206024,5.6959,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+26,2.2060239999999998,5.6959,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 27,2.28932,5.8831240000000005,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 28,2.372652,6.067812,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 29,2.456002,6.249144,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 30,2.539322,6.432938,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-31,2.62265,6.6101160000000005,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+31,2.6226499999999997,6.6101160000000005,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 32,2.7059960000000003,6.789904,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 33,2.789314,6.968152,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-34,2.872638,7.146248000000001,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+34,2.8726380000000002,7.146248000000001,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 35,2.956016,7.323297999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-36,3.039324,7.508211999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+36,3.0393239999999997,7.508211999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 37,3.12264,7.695264,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-38,3.20599,7.880818,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+38,3.20599,7.8808180000000005,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 39,3.28932,8.065474,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 40,3.3726800000000003,8.258326,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 41,3.45601,8.453375999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-42,3.539324,8.645704,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+42,3.5393239999999997,8.645704,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 43,3.622654,8.835808,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-44,3.705996,9.025638,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-45,3.78932,9.217574,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+44,3.7059960000000003,9.025638,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+45,3.78932,9.217573999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 46,3.872652,9.41175,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-47,3.956,9.605336,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+47,3.9560000000000004,9.605336,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 48,4.039324,9.798064,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 49,4.122656,9.988204,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-50,4.206008,10.177888,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-51,4.289328,10.36995,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+50,4.206008,10.177888000000001,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+51,4.289328,10.369950000000001,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 52,4.37266,10.55646,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-53,4.4559940000000005,10.740626,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+53,4.4559940000000005,10.740625999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 54,4.539326,10.928188,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 55,4.622648,11.113562,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 56,4.706008,11.295554,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-57,4.789328,11.479092,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+57,4.789328,11.479092000000001,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 58,4.87265,11.665124,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 59,4.956008,11.849838,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 60,5.039324,12.034954,Basalt Hemp 0deg_1,Basalt Hemp 0deg
@@ -888,9 +1010,9 @@ Time,Displacement,Force,File_ID,Material_ID
 63,5.289328,12.573426,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 64,5.372648000000001,12.755942,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 65,5.456014,12.93906,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-66,5.539328,13.11917,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-67,5.622644,13.299508,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-68,5.705988,13.478516,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+66,5.539328,13.119169999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+67,5.622644,13.299508000000001,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+68,5.705988,13.478515999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 69,5.789324000000001,13.657082,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 70,5.872666000000001,13.835034,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 71,5.956008000000001,14.012657999999998,Basalt Hemp 0deg_1,Basalt Hemp 0deg
@@ -901,7 +1023,7 @@ Time,Displacement,Force,File_ID,Material_ID
 76,6.372642,14.885228,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 77,6.456,15.05647,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 78,6.539321999999999,15.222640000000002,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-79,6.622644,15.38751,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+79,6.622644,15.387509999999999,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 80,6.706018,15.54728,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 81,6.789331999999999,15.696014,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 82,6.87266,15.843178,Basalt Hemp 0deg_1,Basalt Hemp 0deg
@@ -909,45 +1031,46 @@ Time,Displacement,Force,File_ID,Material_ID
 84,7.03933,16.126076,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 85,7.122644,16.24504,Basalt Hemp 0deg_1,Basalt Hemp 0deg
 86,7.206008000000001,16.36772,Basalt Hemp 0deg_1,Basalt Hemp 0deg
-0,0.0397408163265306,0.2747142857142857,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+87,7.283572093023256,16.278395348837208,Basalt Hemp 0deg_1,Basalt Hemp 0deg
+0,0.03974081632653061,0.27471428571428574,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 1,0.122634,0.7962640000000001,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 2,0.205976,1.303152,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 3,0.289306,1.692018,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-4,0.372642,2.002542,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+4,0.37264200000000003,2.002542,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 5,0.455994,2.257262,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 6,0.539332,2.477022,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-7,0.6226579999999999,2.695132,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+7,0.6226579999999999,2.6951319999999996,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 8,0.705998,2.89111,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 9,0.78932,3.10346,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 10,0.87265,3.3187900000000004,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-11,0.956008,3.530944,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+11,0.9560080000000001,3.530944,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 12,1.039328,3.751952,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 13,1.122656,3.961034,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 14,1.205984,4.171332,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 15,1.289348,4.393038000000001,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 16,1.372648,4.6078,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-17,1.456014,4.823778,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+17,1.4560140000000001,4.823778,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 18,1.539332,5.0344560000000005,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-19,1.622632,5.232402,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+19,1.622632,5.2324019999999996,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 20,1.706018,5.432404,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 21,1.789334,5.62764,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 22,1.872662,5.813146000000001,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 23,1.956004,6.008819999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 24,2.039324,6.216921999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-25,2.122644,6.428293999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+25,2.1226439999999998,6.428293999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 26,2.206006,6.63452,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 27,2.289326,6.839498,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-28,2.372644,7.042142,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+28,2.3726439999999998,7.042142,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 29,2.45599,7.244166,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 30,2.539322,7.446996,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 31,2.622652,7.64929,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-32,2.705988,7.846048,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+32,2.7059879999999996,7.846048,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 33,2.789334,8.044382,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-34,2.87265,8.245326,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+34,2.8726499999999997,8.245326,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 35,2.956002,8.442626,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 36,3.039336,8.639328,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 37,3.122658,8.835531999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-38,3.205978,9.030242,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+38,3.205978,9.030242000000001,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 39,3.2893419999999995,9.224388,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 40,3.372662,9.416482,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 41,3.456002,9.604814,Basalt Hemp 0deg_3,Basalt Hemp 0deg
@@ -955,7 +1078,7 @@ Time,Displacement,Force,File_ID,Material_ID
 43,3.622656,9.987252,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 44,3.705998,10.182654,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 45,3.789316,10.373604,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-46,3.872648,10.560016,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+46,3.872648,10.560016000000001,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 47,3.955998,10.744556,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 48,4.039314,10.928717999999998,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 49,4.122648,11.10835,Basalt Hemp 0deg_3,Basalt Hemp 0deg
@@ -965,25 +1088,31 @@ Time,Displacement,Force,File_ID,Material_ID
 53,4.4559820000000006,11.846622,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 54,4.539334,12.031292,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 55,4.622642,12.216959999999998,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-56,4.706004,12.402736,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-57,4.789326,12.584896,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+56,4.706004,12.402735999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+57,4.789326,12.584895999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 58,4.872646,12.752136,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 59,4.956004,12.93057,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 60,5.039326,13.103572,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 61,5.122652,13.282238,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-62,5.206,13.454776,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+62,5.206,13.454775999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 63,5.289326,13.616894,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 64,5.37265,13.77161,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-65,5.456006,13.931432,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+65,5.4560059999999995,13.931432,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 66,5.53933,14.080838000000002,Basalt Hemp 0deg_3,Basalt Hemp 0deg
 67,5.622646,14.237018,Basalt Hemp 0deg_3,Basalt Hemp 0deg
-0,0.0397510204081632,0.233469387755102,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+68,5.706016,14.226890000000001,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+69,5.789324000000001,13.978361999999999,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+70,5.87274,13.525834,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+71,5.95601,12.450226,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+72,6.039331999999999,12.69596,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+73,6.1127552631578945,12.583218421052631,Basalt Hemp 0deg_3,Basalt Hemp 0deg
+0,0.039751020408163265,0.23346938775510204,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 1,0.122644,0.747612,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-2,0.2059659999999999,1.248394,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+2,0.20596599999999998,1.248394,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 3,0.2893,1.6177959999999998,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 4,0.372656,1.897524,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-5,0.4559899999999999,2.106024,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-6,0.53933,2.284886,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+5,0.45598999999999995,2.1060239999999997,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+6,0.53933,2.2848859999999998,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 7,0.6226619999999999,2.448182,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 8,0.705996,2.60623,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 9,0.7893399999999999,2.781406,Basalt Hemp 0deg_4,Basalt Hemp 0deg
@@ -992,14 +1121,14 @@ Time,Displacement,Force,File_ID,Material_ID
 12,1.039332,3.292482,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 13,1.122658,3.46451,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 14,1.206002,3.645178,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-15,1.289336,3.832232,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+15,1.289336,3.8322320000000003,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 16,1.37265,4.017162,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-17,1.456008,4.202772,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+17,1.456008,4.2027719999999995,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 18,1.539332,4.390018,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 19,1.622646,4.57824,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 20,1.706004,4.770102,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-21,1.78933,4.96392,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-22,1.872646,5.161088,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+21,1.7893299999999999,4.96392,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+22,1.872646,5.1610879999999995,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 23,1.955994,5.357698,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 24,2.03933,5.55399,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 25,2.122652,5.748038,Basalt Hemp 0deg_4,Basalt Hemp 0deg
@@ -1008,10 +1137,10 @@ Time,Displacement,Force,File_ID,Material_ID
 28,2.372648,6.347656,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 29,2.4559800000000003,6.551632,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 30,2.539336,6.75821,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-31,2.622646,6.9636000000000005,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-32,2.7060000000000004,7.162162,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+31,2.6226459999999996,6.9636000000000005,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+32,2.7060000000000004,7.1621619999999995,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 33,2.7893220000000003,7.364808,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-34,2.872646,7.568228,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+34,2.8726459999999996,7.568228,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 35,2.9560000000000004,7.772982,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 36,3.03933,7.979674,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 37,3.122648,8.183796,Basalt Hemp 0deg_4,Basalt Hemp 0deg
@@ -1020,21 +1149,21 @@ Time,Displacement,Force,File_ID,Material_ID
 40,3.372656,8.800576,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 41,3.456006,9.003244,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 42,3.5393220000000003,9.205488,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-43,3.622664,9.412406,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+43,3.622664,9.412405999999999,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 44,3.705994,9.620234,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-45,3.78933,9.824378,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+45,3.78933,9.824378000000001,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 46,3.872652,10.027906,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-47,3.956,10.233894,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+47,3.9560000000000004,10.233894,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 48,4.039316,10.443858,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-49,4.122652,10.654682,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+49,4.1226519999999995,10.654682000000001,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 50,4.206012,10.86136,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 51,4.289332,11.067932,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 52,4.372654,11.270772,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-53,4.455998,11.470866,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+53,4.455998,11.470866000000001,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 54,4.539326,11.67302,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 55,4.622642,11.869776,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 56,4.705996,12.06261,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-57,4.78932,12.257428,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+57,4.78932,12.257427999999999,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 58,4.872648,12.448581999999998,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 59,4.955996,12.64186,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 60,5.03932,12.841322,Basalt Hemp 0deg_4,Basalt Hemp 0deg
@@ -1042,33 +1171,34 @@ Time,Displacement,Force,File_ID,Material_ID
 62,5.205992,13.244028,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 63,5.28932,13.440138,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 64,5.372646,13.628042,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-65,5.456006,13.821232,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+65,5.4560059999999995,13.821232,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 66,5.539328,14.014656,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 67,5.622631999999999,14.1999,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 68,5.705994,14.385048,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 69,5.789331999999999,14.572442,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 70,5.87266,14.752852,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-71,5.956016,14.931316,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+71,5.956016,14.931315999999999,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 72,6.039332000000001,15.117068,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 73,6.1226400000000005,15.293018,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-74,6.205978,15.462042,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-75,6.289328,15.635856,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+74,6.205978,15.462041999999999,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+75,6.289328,15.635855999999999,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 76,6.372654,15.808398,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 77,6.455992,15.971924,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 78,6.53932,16.131512,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 79,6.622642,16.29639,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 80,6.70601,16.453827999999998,Basalt Hemp 0deg_4,Basalt Hemp 0deg
 81,6.789326,16.546468,Basalt Hemp 0deg_4,Basalt Hemp 0deg
-0,0.0397673469387755,0.0737673469387755,Flax 0deg_2,Flax 0deg
+82,6.848704761904762,15.980390476190477,Basalt Hemp 0deg_4,Basalt Hemp 0deg
+0,0.03976734693877551,0.07376734693877551,Flax 0deg_2,Flax 0deg
 1,0.122642,0.39356,Flax 0deg_2,Flax 0deg
-2,0.20597,0.77208,Flax 0deg_2,Flax 0deg
-3,0.289304,1.106688,Flax 0deg_2,Flax 0deg
-4,0.3726319999999999,1.39883,Flax 0deg_2,Flax 0deg
+2,0.20597000000000001,0.77208,Flax 0deg_2,Flax 0deg
+3,0.289304,1.1066880000000001,Flax 0deg_2,Flax 0deg
+4,0.37263199999999996,1.39883,Flax 0deg_2,Flax 0deg
 5,0.456004,1.64289,Flax 0deg_2,Flax 0deg
 6,0.539326,1.844992,Flax 0deg_2,Flax 0deg
 7,0.62266,2.007182,Flax 0deg_2,Flax 0deg
-8,0.706002,2.167514,Flax 0deg_2,Flax 0deg
-9,0.789332,2.331332,Flax 0deg_2,Flax 0deg
+8,0.706002,2.1675139999999997,Flax 0deg_2,Flax 0deg
+9,0.789332,2.3313319999999997,Flax 0deg_2,Flax 0deg
 10,0.87264,2.475024,Flax 0deg_2,Flax 0deg
 11,0.956,2.63644,Flax 0deg_2,Flax 0deg
 12,1.039328,2.811392,Flax 0deg_2,Flax 0deg
@@ -1077,7 +1207,7 @@ Time,Displacement,Force,File_ID,Material_ID
 15,1.28934,3.329906,Flax 0deg_2,Flax 0deg
 16,1.372652,3.50943,Flax 0deg_2,Flax 0deg
 17,1.456018,3.69222,Flax 0deg_2,Flax 0deg
-18,1.539338,3.877504,Flax 0deg_2,Flax 0deg
+18,1.5393379999999999,3.877504,Flax 0deg_2,Flax 0deg
 19,1.622644,4.064374,Flax 0deg_2,Flax 0deg
 20,1.705994,4.251716,Flax 0deg_2,Flax 0deg
 21,1.789336,4.441414,Flax 0deg_2,Flax 0deg
@@ -1097,41 +1227,42 @@ Time,Displacement,Force,File_ID,Material_ID
 35,2.9559960000000003,7.004056,Flax 0deg_2,Flax 0deg
 36,3.039346,7.168182000000001,Flax 0deg_2,Flax 0deg
 37,3.122658,7.327139999999999,Flax 0deg_2,Flax 0deg
-38,3.205988,7.481584000000001,Flax 0deg_2,Flax 0deg
-39,3.289346,7.633497999999999,Flax 0deg_2,Flax 0deg
+38,3.2059879999999996,7.481584000000001,Flax 0deg_2,Flax 0deg
+39,3.289346,7.6334979999999995,Flax 0deg_2,Flax 0deg
 40,3.372662,7.780252000000001,Flax 0deg_2,Flax 0deg
 41,3.45601,7.923258,Flax 0deg_2,Flax 0deg
-42,3.539324,8.063332,Flax 0deg_2,Flax 0deg
-43,3.62265,8.198726,Flax 0deg_2,Flax 0deg
+42,3.5393239999999997,8.063332,Flax 0deg_2,Flax 0deg
+43,3.6226499999999997,8.198726,Flax 0deg_2,Flax 0deg
 44,3.705998,8.330814,Flax 0deg_2,Flax 0deg
 45,3.78932,8.461194,Flax 0deg_2,Flax 0deg
 46,3.872648,8.588208,Flax 0deg_2,Flax 0deg
-47,3.956008,8.711864,Flax 0deg_2,Flax 0deg
+47,3.9560079999999997,8.711864,Flax 0deg_2,Flax 0deg
 48,4.039332,8.834758,Flax 0deg_2,Flax 0deg
 49,4.122646,8.955136,Flax 0deg_2,Flax 0deg
-50,4.20601,9.073688,Flax 0deg_2,Flax 0deg
+50,4.20601,9.073687999999999,Flax 0deg_2,Flax 0deg
 51,4.289328,9.193078,Flax 0deg_2,Flax 0deg
 52,4.372656,9.310582,Flax 0deg_2,Flax 0deg
 53,4.455988,9.426408,Flax 0deg_2,Flax 0deg
-54,4.539334,9.542784,Flax 0deg_2,Flax 0deg
+54,4.539334,9.542784000000001,Flax 0deg_2,Flax 0deg
 55,4.62265,9.657076,Flax 0deg_2,Flax 0deg
 56,4.706002,9.76834,Flax 0deg_2,Flax 0deg
-0,0.0397591836734693,0.1074163265306122,Flax 0deg_3,Flax 0deg
-1,0.1226459999999999,0.4036039999999999,Flax 0deg_3,Flax 0deg
-2,0.20597,0.862706,Flax 0deg_3,Flax 0deg
-3,0.289296,1.3138,Flax 0deg_3,Flax 0deg
-4,0.3726339999999999,1.701124,Flax 0deg_3,Flax 0deg
-5,0.4559879999999999,2.015276,Flax 0deg_3,Flax 0deg
+57,4.76361052631579,9.625268421052631,Flax 0deg_2,Flax 0deg
+0,0.03975918367346939,0.10741632653061224,Flax 0deg_3,Flax 0deg
+1,0.12264599999999999,0.40360399999999996,Flax 0deg_3,Flax 0deg
+2,0.20597000000000001,0.862706,Flax 0deg_3,Flax 0deg
+3,0.289296,1.3137999999999999,Flax 0deg_3,Flax 0deg
+4,0.37263399999999997,1.701124,Flax 0deg_3,Flax 0deg
+5,0.45598799999999995,2.015276,Flax 0deg_3,Flax 0deg
 6,0.5393180000000001,2.269062,Flax 0deg_3,Flax 0deg
 7,0.62265,2.476454,Flax 0deg_3,Flax 0deg
-8,0.705994,2.655108,Flax 0deg_3,Flax 0deg
+8,0.705994,2.6551080000000002,Flax 0deg_3,Flax 0deg
 9,0.789328,2.83717,Flax 0deg_3,Flax 0deg
-10,0.872646,3.026368,Flax 0deg_3,Flax 0deg
+10,0.872646,3.0263679999999997,Flax 0deg_3,Flax 0deg
 11,0.95601,3.218532,Flax 0deg_3,Flax 0deg
 12,1.03932,3.40815,Flax 0deg_3,Flax 0deg
 13,1.122652,3.591792,Flax 0deg_3,Flax 0deg
 14,1.206,3.76924,Flax 0deg_3,Flax 0deg
-15,1.289338,3.932978,Flax 0deg_3,Flax 0deg
+15,1.2893379999999999,3.932978,Flax 0deg_3,Flax 0deg
 16,1.372668,4.103694,Flax 0deg_3,Flax 0deg
 17,1.456016,4.272742,Flax 0deg_3,Flax 0deg
 18,1.539336,4.441992,Flax 0deg_3,Flax 0deg
@@ -1139,33 +1270,33 @@ Time,Displacement,Force,File_ID,Material_ID
 20,1.706024,4.780994,Flax 0deg_3,Flax 0deg
 21,1.789326,4.95048,Flax 0deg_3,Flax 0deg
 22,1.872624,5.119724,Flax 0deg_3,Flax 0deg
-23,1.956006,5.289488,Flax 0deg_3,Flax 0deg
+23,1.9560060000000001,5.289488,Flax 0deg_3,Flax 0deg
 24,2.03934,5.460512,Flax 0deg_3,Flax 0deg
-25,2.122634,5.627786,Flax 0deg_3,Flax 0deg
+25,2.1226339999999997,5.6277859999999995,Flax 0deg_3,Flax 0deg
 26,2.206018,5.795846,Flax 0deg_3,Flax 0deg
-27,2.289332,5.964966,Flax 0deg_3,Flax 0deg
-28,2.372638,6.129534,Flax 0deg_3,Flax 0deg
+27,2.289332,5.9649659999999995,Flax 0deg_3,Flax 0deg
+28,2.3726380000000002,6.129534,Flax 0deg_3,Flax 0deg
 29,2.455994,6.291034,Flax 0deg_3,Flax 0deg
 30,2.539338,6.449932,Flax 0deg_3,Flax 0deg
-31,2.622646,6.604588,Flax 0deg_3,Flax 0deg
+31,2.6226459999999996,6.604588,Flax 0deg_3,Flax 0deg
 32,2.706006,6.755566,Flax 0deg_3,Flax 0deg
 33,2.7893380000000003,6.903472000000001,Flax 0deg_3,Flax 0deg
-34,2.87265,7.047262,Flax 0deg_3,Flax 0deg
+34,2.8726499999999997,7.047262,Flax 0deg_3,Flax 0deg
 35,2.9559840000000004,7.185764000000001,Flax 0deg_3,Flax 0deg
-36,3.039336,7.322211999999999,Flax 0deg_3,Flax 0deg
-37,3.122646,7.454077999999999,Flax 0deg_3,Flax 0deg
+36,3.039336,7.3222119999999995,Flax 0deg_3,Flax 0deg
+37,3.1226459999999996,7.454077999999999,Flax 0deg_3,Flax 0deg
 38,3.205992,7.582488,Flax 0deg_3,Flax 0deg
-39,3.289344,7.70879,Flax 0deg_3,Flax 0deg
+39,3.289344,7.7087900000000005,Flax 0deg_3,Flax 0deg
 40,3.372658,7.832324,Flax 0deg_3,Flax 0deg
 41,3.456012,7.953714,Flax 0deg_3,Flax 0deg
 42,3.5393380000000003,8.074756,Flax 0deg_3,Flax 0deg
 43,3.622654,8.192556,Flax 0deg_3,Flax 0deg
-44,3.705988,8.307488,Flax 0deg_3,Flax 0deg
+44,3.7059879999999996,8.307488,Flax 0deg_3,Flax 0deg
 45,3.78933,8.422372000000001,Flax 0deg_3,Flax 0deg
-46,3.87265,8.535362,Flax 0deg_3,Flax 0deg
+46,3.8726499999999997,8.535362,Flax 0deg_3,Flax 0deg
 47,3.955998,8.647108,Flax 0deg_3,Flax 0deg
 48,4.039332,8.759521999999999,Flax 0deg_3,Flax 0deg
-49,4.122652,8.869036,Flax 0deg_3,Flax 0deg
+49,4.1226519999999995,8.869036,Flax 0deg_3,Flax 0deg
 50,4.206018,8.97793,Flax 0deg_3,Flax 0deg
 51,4.2893360000000005,9.088362,Flax 0deg_3,Flax 0deg
 52,4.372662,9.197174,Flax 0deg_3,Flax 0deg
@@ -1177,10 +1308,11 @@ Time,Displacement,Force,File_ID,Material_ID
 58,4.87265,9.83125,Flax 0deg_3,Flax 0deg
 59,4.955996,9.933092,Flax 0deg_3,Flax 0deg
 60,5.039328,10.035574,Flax 0deg_3,Flax 0deg
-0,0.0397612244897959,0.047369387755102,Flax 0deg_4,Flax 0deg
-1,0.122656,0.246124,Flax 0deg_4,Flax 0deg
+61,5.120225531914894,9.987017021276595,Flax 0deg_3,Flax 0deg
+0,0.03976122448979592,0.04736938775510204,Flax 0deg_4,Flax 0deg
+1,0.12265600000000002,0.246124,Flax 0deg_4,Flax 0deg
 2,0.205974,0.633166,Flax 0deg_4,Flax 0deg
-3,0.289276,1.030942,Flax 0deg_4,Flax 0deg
+3,0.28927600000000003,1.030942,Flax 0deg_4,Flax 0deg
 4,0.372652,1.357626,Flax 0deg_4,Flax 0deg
 5,0.455992,1.620114,Flax 0deg_4,Flax 0deg
 6,0.539324,1.83996,Flax 0deg_4,Flax 0deg
@@ -1188,14 +1320,14 @@ Time,Displacement,Force,File_ID,Material_ID
 8,0.705984,2.24268,Flax 0deg_4,Flax 0deg
 9,0.789324,2.44216,Flax 0deg_4,Flax 0deg
 10,0.8726579999999999,2.639192,Flax 0deg_4,Flax 0deg
-11,0.956006,2.823002,Flax 0deg_4,Flax 0deg
-12,1.039316,3.004904,Flax 0deg_4,Flax 0deg
+11,0.956006,2.8230020000000002,Flax 0deg_4,Flax 0deg
+12,1.0393160000000001,3.0049040000000002,Flax 0deg_4,Flax 0deg
 13,1.12266,3.205936,Flax 0deg_4,Flax 0deg
 14,1.205988,3.391982,Flax 0deg_4,Flax 0deg
-15,1.289324,3.571108,Flax 0deg_4,Flax 0deg
-16,1.37266,3.742938,Flax 0deg_4,Flax 0deg
-17,1.456006,3.899878,Flax 0deg_4,Flax 0deg
-18,1.539338,4.058608,Flax 0deg_4,Flax 0deg
+15,1.289324,3.5711079999999997,Flax 0deg_4,Flax 0deg
+16,1.37266,3.7429379999999997,Flax 0deg_4,Flax 0deg
+17,1.4560060000000001,3.8998779999999997,Flax 0deg_4,Flax 0deg
+18,1.5393379999999999,4.0586079999999995,Flax 0deg_4,Flax 0deg
 19,1.622652,4.22114,Flax 0deg_4,Flax 0deg
 20,1.706018,4.387326,Flax 0deg_4,Flax 0deg
 21,1.7893199999999998,4.554136,Flax 0deg_4,Flax 0deg
@@ -1203,18 +1335,18 @@ Time,Displacement,Force,File_ID,Material_ID
 23,1.955996,4.877744,Flax 0deg_4,Flax 0deg
 24,2.03933,5.042532,Flax 0deg_4,Flax 0deg
 25,2.122646,5.207482,Flax 0deg_4,Flax 0deg
-26,2.206024,5.374582,Flax 0deg_4,Flax 0deg
+26,2.2060239999999998,5.374582,Flax 0deg_4,Flax 0deg
 27,2.289328,5.54256,Flax 0deg_4,Flax 0deg
-28,2.372638,5.70982,Flax 0deg_4,Flax 0deg
+28,2.3726380000000002,5.70982,Flax 0deg_4,Flax 0deg
 29,2.456006,5.8755820000000005,Flax 0deg_4,Flax 0deg
-30,2.539334,6.039748,Flax 0deg_4,Flax 0deg
+30,2.539334,6.0397479999999995,Flax 0deg_4,Flax 0deg
 31,2.622654,6.201376,Flax 0deg_4,Flax 0deg
 32,2.705982,6.359503999999999,Flax 0deg_4,Flax 0deg
 33,2.789324,6.515224,Flax 0deg_4,Flax 0deg
 34,2.872656,6.666946,Flax 0deg_4,Flax 0deg
-35,2.956008,6.813024,Flax 0deg_4,Flax 0deg
+35,2.9560079999999997,6.813024,Flax 0deg_4,Flax 0deg
 36,3.039328,6.956594,Flax 0deg_4,Flax 0deg
-37,3.122652,7.09665,Flax 0deg_4,Flax 0deg
+37,3.122652,7.0966499999999995,Flax 0deg_4,Flax 0deg
 38,3.205998,7.232268,Flax 0deg_4,Flax 0deg
 39,3.2893380000000003,7.364864,Flax 0deg_4,Flax 0deg
 40,3.37266,7.493316,Flax 0deg_4,Flax 0deg
@@ -1224,50 +1356,51 @@ Time,Displacement,Force,File_ID,Material_ID
 44,3.705994,7.983315999999999,Flax 0deg_4,Flax 0deg
 45,3.78932,8.101258,Flax 0deg_4,Flax 0deg
 46,3.872658,8.217376,Flax 0deg_4,Flax 0deg
-47,3.956,8.332704,Flax 0deg_4,Flax 0deg
+47,3.9560000000000004,8.332704,Flax 0deg_4,Flax 0deg
 48,4.039326,8.44847,Flax 0deg_4,Flax 0deg
-49,4.122652,8.56241,Flax 0deg_4,Flax 0deg
+49,4.1226519999999995,8.56241,Flax 0deg_4,Flax 0deg
 50,4.206016,8.675536,Flax 0deg_4,Flax 0deg
 51,4.28933,8.790104,Flax 0deg_4,Flax 0deg
 52,4.372658,8.902636,Flax 0deg_4,Flax 0deg
-53,4.45599,9.013692,Flax 0deg_4,Flax 0deg
-54,4.539342,9.125462,Flax 0deg_4,Flax 0deg
+53,4.45599,9.013691999999999,Flax 0deg_4,Flax 0deg
+54,4.5393419999999995,9.125462,Flax 0deg_4,Flax 0deg
 55,4.622648,9.235204,Flax 0deg_4,Flax 0deg
 56,4.706008,9.344358,Flax 0deg_4,Flax 0deg
-57,4.789324,9.454296,Flax 0deg_4,Flax 0deg
-58,4.872652,9.563168,Flax 0deg_4,Flax 0deg
+57,4.789324,9.454296000000001,Flax 0deg_4,Flax 0deg
+58,4.8726519999999995,9.563168000000001,Flax 0deg_4,Flax 0deg
 59,4.956004,9.669766,Flax 0deg_4,Flax 0deg
 60,5.039334,9.776726,Flax 0deg_4,Flax 0deg
 61,5.12266,9.882882,Flax 0deg_4,Flax 0deg
-62,5.206006,9.987048,Flax 0deg_4,Flax 0deg
-0,0.0397571428571428,0.156469387755102,Flax 45deg_1,Flax 45deg
+62,5.2060059999999995,9.987048,Flax 0deg_4,Flax 0deg
+63,5.253183333333333,8.6697,Flax 0deg_4,Flax 0deg
+0,0.03975714285714286,0.15646938775510202,Flax 45deg_1,Flax 45deg
 1,0.122634,0.620336,Flax 45deg_1,Flax 45deg
-2,0.20597,1.039008,Flax 45deg_1,Flax 45deg
-3,0.289302,1.41301,Flax 45deg_1,Flax 45deg
-4,0.372642,1.747854,Flax 45deg_1,Flax 45deg
+2,0.20597000000000001,1.039008,Flax 45deg_1,Flax 45deg
+3,0.289302,1.4130099999999999,Flax 45deg_1,Flax 45deg
+4,0.37264200000000003,1.747854,Flax 45deg_1,Flax 45deg
 5,0.455996,2.047322,Flax 45deg_1,Flax 45deg
 6,0.539332,2.314262,Flax 45deg_1,Flax 45deg
 7,0.622626,2.546666,Flax 45deg_1,Flax 45deg
 8,0.705998,2.7568560000000004,Flax 45deg_1,Flax 45deg
-9,0.7893340000000001,2.956472,Flax 45deg_1,Flax 45deg
-10,0.87262,3.149398,Flax 45deg_1,Flax 45deg
-11,0.956012,3.326212,Flax 45deg_1,Flax 45deg
+9,0.7893340000000001,2.9564719999999998,Flax 45deg_1,Flax 45deg
+10,0.87262,3.1493979999999997,Flax 45deg_1,Flax 45deg
+11,0.9560120000000001,3.326212,Flax 45deg_1,Flax 45deg
 12,1.039328,3.494082,Flax 45deg_1,Flax 45deg
 13,1.122654,3.651492,Flax 45deg_1,Flax 45deg
 14,1.206,3.814282,Flax 45deg_1,Flax 45deg
-15,1.28933,3.980616,Flax 45deg_1,Flax 45deg
+15,1.2893299999999999,3.980616,Flax 45deg_1,Flax 45deg
 16,1.372662,4.147862,Flax 45deg_1,Flax 45deg
-17,1.456006,4.314836000000001,Flax 45deg_1,Flax 45deg
+17,1.4560060000000001,4.314836000000001,Flax 45deg_1,Flax 45deg
 18,1.539324,4.48432,Flax 45deg_1,Flax 45deg
 19,1.62264,4.653178,Flax 45deg_1,Flax 45deg
-20,1.706018,4.82016,Flax 45deg_1,Flax 45deg
-21,1.789316,4.986368,Flax 45deg_1,Flax 45deg
+20,1.706018,4.8201600000000004,Flax 45deg_1,Flax 45deg
+21,1.7893160000000001,4.986368,Flax 45deg_1,Flax 45deg
 22,1.872652,5.150005999999999,Flax 45deg_1,Flax 45deg
 23,1.956,5.311898,Flax 45deg_1,Flax 45deg
 24,2.039328,5.470689999999999,Flax 45deg_1,Flax 45deg
 25,2.122642,5.624488,Flax 45deg_1,Flax 45deg
 26,2.206014,5.774192,Flax 45deg_1,Flax 45deg
-27,2.289346,5.921166,Flax 45deg_1,Flax 45deg
+27,2.289346,5.9211659999999995,Flax 45deg_1,Flax 45deg
 28,2.372648,6.062659999999999,Flax 45deg_1,Flax 45deg
 29,2.4559960000000003,6.199027999999999,Flax 45deg_1,Flax 45deg
 30,2.539336,6.331994,Flax 45deg_1,Flax 45deg
@@ -1275,18 +1408,18 @@ Time,Displacement,Force,File_ID,Material_ID
 32,2.706006,6.581867999999999,Flax 45deg_1,Flax 45deg
 33,2.789324,6.701094,Flax 45deg_1,Flax 45deg
 34,2.8726420000000004,6.81513,Flax 45deg_1,Flax 45deg
-35,2.956004,6.925517999999999,Flax 45deg_1,Flax 45deg
+35,2.9560039999999996,6.925517999999999,Flax 45deg_1,Flax 45deg
 36,3.039346,7.03441,Flax 45deg_1,Flax 45deg
 37,3.122656,7.139475999999999,Flax 45deg_1,Flax 45deg
-38,3.205988,7.240624,Flax 45deg_1,Flax 45deg
-39,3.2893380000000003,7.341072,Flax 45deg_1,Flax 45deg
+38,3.2059879999999996,7.240624,Flax 45deg_1,Flax 45deg
+39,3.2893380000000003,7.3410720000000005,Flax 45deg_1,Flax 45deg
 40,3.372654,7.439304,Flax 45deg_1,Flax 45deg
 41,3.456014,7.535406,Flax 45deg_1,Flax 45deg
 42,3.539334,7.630604,Flax 45deg_1,Flax 45deg
-43,3.62265,7.723496,Flax 45deg_1,Flax 45deg
+43,3.6226499999999997,7.723496,Flax 45deg_1,Flax 45deg
 44,3.706006,7.815014,Flax 45deg_1,Flax 45deg
 45,3.789326,7.906356,Flax 45deg_1,Flax 45deg
-46,3.872652,7.996064,Flax 45deg_1,Flax 45deg
+46,3.872652,7.9960640000000005,Flax 45deg_1,Flax 45deg
 47,3.955998,8.083262,Flax 45deg_1,Flax 45deg
 48,4.039332,8.171038,Flax 45deg_1,Flax 45deg
 49,4.122658,8.25667,Flax 45deg_1,Flax 45deg
@@ -1295,27 +1428,28 @@ Time,Displacement,Force,File_ID,Material_ID
 52,4.37266,8.508798,Flax 45deg_1,Flax 45deg
 53,4.456002,8.588116,Flax 45deg_1,Flax 45deg
 54,4.5393360000000005,8.666649999999999,Flax 45deg_1,Flax 45deg
-55,4.622652,8.741562,Flax 45deg_1,Flax 45deg
+55,4.6226519999999995,8.741562,Flax 45deg_1,Flax 45deg
 56,4.705998,8.811484,Flax 45deg_1,Flax 45deg
-57,4.78931,8.87827,Flax 45deg_1,Flax 45deg
+57,4.7893099999999995,8.87827,Flax 45deg_1,Flax 45deg
 58,4.872648,8.939146,Flax 45deg_1,Flax 45deg
 59,4.95602,8.98344,Flax 45deg_1,Flax 45deg
 60,5.039334,9.005932,Flax 45deg_1,Flax 45deg
-0,0.0397632653061224,0.2309020408163265,Flax 45deg_2,Flax 45deg
+61,5.116069047619048,8.838333333333333,Flax 45deg_1,Flax 45deg
+0,0.039763265306122446,0.2309020408163265,Flax 45deg_2,Flax 45deg
 1,0.122634,0.6719700000000001,Flax 45deg_2,Flax 45deg
-2,0.2059639999999999,1.099872,Flax 45deg_2,Flax 45deg
+2,0.20596399999999998,1.099872,Flax 45deg_2,Flax 45deg
 3,0.289314,1.49011,Flax 45deg_2,Flax 45deg
-4,0.3726379999999999,1.833926,Flax 45deg_2,Flax 45deg
+4,0.37263799999999997,1.833926,Flax 45deg_2,Flax 45deg
 5,0.455984,2.140072,Flax 45deg_2,Flax 45deg
 6,0.539328,2.415438,Flax 45deg_2,Flax 45deg
-7,0.622668,2.661636,Flax 45deg_2,Flax 45deg
+7,0.622668,2.6616359999999997,Flax 45deg_2,Flax 45deg
 8,0.706002,2.8757080000000004,Flax 45deg_2,Flax 45deg
 9,0.78933,3.0683960000000003,Flax 45deg_2,Flax 45deg
 10,0.872654,3.247856,Flax 45deg_2,Flax 45deg
 11,0.95599,3.428306,Flax 45deg_2,Flax 45deg
-12,1.039328,3.606994,Flax 45deg_2,Flax 45deg
-13,1.12264,3.784138,Flax 45deg_2,Flax 45deg
-14,1.206,3.951484,Flax 45deg_2,Flax 45deg
+12,1.039328,3.6069940000000003,Flax 45deg_2,Flax 45deg
+13,1.1226399999999999,3.784138,Flax 45deg_2,Flax 45deg
+14,1.206,3.9514839999999998,Flax 45deg_2,Flax 45deg
 15,1.289334,4.10694,Flax 45deg_2,Flax 45deg
 16,1.37265,4.2627120000000005,Flax 45deg_2,Flax 45deg
 17,1.456016,4.422872,Flax 45deg_2,Flax 45deg
@@ -1334,21 +1468,21 @@ Time,Displacement,Force,File_ID,Material_ID
 30,2.53933,6.198854,Flax 45deg_2,Flax 45deg
 31,2.622662,6.317670000000001,Flax 45deg_2,Flax 45deg
 32,2.706002,6.4331320000000005,Flax 45deg_2,Flax 45deg
-33,2.789324,6.546968000000001,Flax 45deg_2,Flax 45deg
+33,2.7893239999999997,6.546968000000001,Flax 45deg_2,Flax 45deg
 34,2.872656,6.657064,Flax 45deg_2,Flax 45deg
 35,2.956012,6.7638300000000005,Flax 45deg_2,Flax 45deg
 36,3.039324,6.869196,Flax 45deg_2,Flax 45deg
 37,3.122652,6.971442,Flax 45deg_2,Flax 45deg
 38,3.2059960000000003,7.07129,Flax 45deg_2,Flax 45deg
 39,3.289344,7.170126,Flax 45deg_2,Flax 45deg
-40,3.372666,7.266097999999999,Flax 45deg_2,Flax 45deg
+40,3.3726659999999997,7.2660979999999995,Flax 45deg_2,Flax 45deg
 41,3.456006,7.35973,Flax 45deg_2,Flax 45deg
 42,3.5393380000000003,7.453306,Flax 45deg_2,Flax 45deg
 43,3.622648,7.544202,Flax 45deg_2,Flax 45deg
-44,3.706004,7.633176,Flax 45deg_2,Flax 45deg
+44,3.7060039999999996,7.633176,Flax 45deg_2,Flax 45deg
 45,3.789336,7.721596,Flax 45deg_2,Flax 45deg
-46,3.87265,7.808696,Flax 45deg_2,Flax 45deg
-47,3.956004,7.894692,Flax 45deg_2,Flax 45deg
+46,3.8726499999999997,7.808696,Flax 45deg_2,Flax 45deg
+47,3.9560039999999996,7.894692,Flax 45deg_2,Flax 45deg
 48,4.039334,7.980994000000001,Flax 45deg_2,Flax 45deg
 49,4.122642,8.065263999999999,Flax 45deg_2,Flax 45deg
 50,4.20602,8.14888,Flax 45deg_2,Flax 45deg
@@ -1360,16 +1494,17 @@ Time,Displacement,Force,File_ID,Material_ID
 56,4.706008,8.636756,Flax 45deg_2,Flax 45deg
 57,4.789322,8.715054,Flax 45deg_2,Flax 45deg
 58,4.872654,8.790998,Flax 45deg_2,Flax 45deg
-59,4.956006,8.863842,Flax 45deg_2,Flax 45deg
+59,4.9560059999999995,8.863842,Flax 45deg_2,Flax 45deg
 60,5.03934,8.93575,Flax 45deg_2,Flax 45deg
 61,5.122658,9.004158,Flax 45deg_2,Flax 45deg
 62,5.206008000000001,9.069006,Flax 45deg_2,Flax 45deg
 63,5.289344,9.1248,Flax 45deg_2,Flax 45deg
-0,0.0397612244897959,0.1712551020408163,Flax 45deg_4,Flax 45deg
-1,0.122636,0.554878,Flax 45deg_4,Flax 45deg
-2,0.2059639999999999,0.977014,Flax 45deg_4,Flax 45deg
-3,0.289306,1.356132,Flax 45deg_4,Flax 45deg
-4,0.372642,1.678144,Flax 45deg_4,Flax 45deg
+64,5.372705999999999,9.061154,Flax 45deg_2,Flax 45deg
+0,0.03976122448979592,0.17125510204081634,Flax 45deg_4,Flax 45deg
+1,0.12263600000000001,0.554878,Flax 45deg_4,Flax 45deg
+2,0.20596399999999998,0.9770139999999999,Flax 45deg_4,Flax 45deg
+3,0.289306,1.3561320000000001,Flax 45deg_4,Flax 45deg
+4,0.37264200000000003,1.678144,Flax 45deg_4,Flax 45deg
 5,0.45598,1.959074,Flax 45deg_4,Flax 45deg
 6,0.539328,2.215952,Flax 45deg_4,Flax 45deg
 7,0.622654,2.427144,Flax 45deg_4,Flax 45deg
@@ -1377,140 +1512,144 @@ Time,Displacement,Force,File_ID,Material_ID
 9,0.7893399999999999,2.8099860000000003,Flax 45deg_4,Flax 45deg
 10,0.872632,3.0039,Flax 45deg_4,Flax 45deg
 11,0.956,3.193934,Flax 45deg_4,Flax 45deg
-12,1.03932,3.379894,Flax 45deg_4,Flax 45deg
+12,1.03932,3.3798939999999997,Flax 45deg_4,Flax 45deg
 13,1.122642,3.5483480000000003,Flax 45deg_4,Flax 45deg
-14,1.2059959999999998,3.717306,Flax 45deg_4,Flax 45deg
-15,1.28933,3.889396,Flax 45deg_4,Flax 45deg
+14,1.2059959999999998,3.7173059999999998,Flax 45deg_4,Flax 45deg
+15,1.2893299999999999,3.8893959999999996,Flax 45deg_4,Flax 45deg
 16,1.372652,4.0614300000000005,Flax 45deg_4,Flax 45deg
-17,1.456006,4.233168,Flax 45deg_4,Flax 45deg
+17,1.4560060000000001,4.233168,Flax 45deg_4,Flax 45deg
 18,1.539336,4.405858,Flax 45deg_4,Flax 45deg
 19,1.622646,4.579608,Flax 45deg_4,Flax 45deg
 20,1.705998,4.75044,Flax 45deg_4,Flax 45deg
-21,1.789322,4.922108,Flax 45deg_4,Flax 45deg
+21,1.7893219999999999,4.922108,Flax 45deg_4,Flax 45deg
 22,1.872652,5.09246,Flax 45deg_4,Flax 45deg
-23,1.956006,5.260051999999999,Flax 45deg_4,Flax 45deg
+23,1.9560060000000001,5.260051999999999,Flax 45deg_4,Flax 45deg
 24,2.039342,5.4265,Flax 45deg_4,Flax 45deg
 25,2.122646,5.589022,Flax 45deg_4,Flax 45deg
-26,2.206024,5.748376,Flax 45deg_4,Flax 45deg
-27,2.28933,5.904594,Flax 45deg_4,Flax 45deg
+26,2.2060239999999998,5.7483759999999995,Flax 45deg_4,Flax 45deg
+27,2.28933,5.9045939999999995,Flax 45deg_4,Flax 45deg
 28,2.3726320000000003,6.055746,Flax 45deg_4,Flax 45deg
 29,2.45602,6.201794,Flax 45deg_4,Flax 45deg
-30,2.539314,6.343778,Flax 45deg_4,Flax 45deg
+30,2.539314,6.3437779999999995,Flax 45deg_4,Flax 45deg
 31,2.62266,6.479883999999999,Flax 45deg_4,Flax 45deg
 32,2.706002,6.609439999999999,Flax 45deg_4,Flax 45deg
 33,2.789332,6.733904,Flax 45deg_4,Flax 45deg
 34,2.872644,6.851712,Flax 45deg_4,Flax 45deg
 35,2.956016,6.964504,Flax 45deg_4,Flax 45deg
 36,3.039332,7.074428,Flax 45deg_4,Flax 45deg
-37,3.122666,7.1791100000000005,Flax 45deg_4,Flax 45deg
-38,3.20599,7.279868,Flax 45deg_4,Flax 45deg
+37,3.1226659999999997,7.1791100000000005,Flax 45deg_4,Flax 45deg
+38,3.20599,7.2798680000000004,Flax 45deg_4,Flax 45deg
 39,3.28933,7.37944,Flax 45deg_4,Flax 45deg
 40,3.372672,7.476656,Flax 45deg_4,Flax 45deg
-41,3.456008,7.570552,Flax 45deg_4,Flax 45deg
-42,3.539324,7.663966,Flax 45deg_4,Flax 45deg
+41,3.4560079999999997,7.570552,Flax 45deg_4,Flax 45deg
+42,3.5393239999999997,7.663966,Flax 45deg_4,Flax 45deg
 43,3.622658,7.755128,Flax 45deg_4,Flax 45deg
-44,3.705988,7.845023999999999,Flax 45deg_4,Flax 45deg
-45,3.789342,7.934832,Flax 45deg_4,Flax 45deg
-46,3.87265,8.02262,Flax 45deg_4,Flax 45deg
+44,3.7059879999999996,7.8450239999999996,Flax 45deg_4,Flax 45deg
+45,3.7893419999999995,7.934832,Flax 45deg_4,Flax 45deg
+46,3.8726499999999997,8.02262,Flax 45deg_4,Flax 45deg
 47,3.955998,8.108316,Flax 45deg_4,Flax 45deg
 48,4.039332,8.194152,Flax 45deg_4,Flax 45deg
 49,4.122662,8.27748,Flax 45deg_4,Flax 45deg
 50,4.206022,8.359976,Flax 45deg_4,Flax 45deg
 51,4.28933,8.442478,Flax 45deg_4,Flax 45deg
 52,4.372654,8.52206,Flax 45deg_4,Flax 45deg
-53,4.456006,8.597252,Flax 45deg_4,Flax 45deg
+53,4.4560059999999995,8.597252,Flax 45deg_4,Flax 45deg
 54,4.53933,8.669622,Flax 45deg_4,Flax 45deg
 55,4.622662,8.734684,Flax 45deg_4,Flax 45deg
 56,4.706004,8.788406,Flax 45deg_4,Flax 45deg
-0,0.0397571428571428,0.1542816326530612,Hemp 0deg_1,Hemp 0deg
+57,4.786889361702127,8.7057,Flax 45deg_4,Flax 45deg
+0,0.03975714285714286,0.15428163265306122,Hemp 0deg_1,Hemp 0deg
 1,0.12263,0.47021,Hemp 0deg_1,Hemp 0deg
 2,0.205974,0.815848,Hemp 0deg_1,Hemp 0deg
 3,0.289306,1.144812,Hemp 0deg_1,Hemp 0deg
 4,0.37265,1.423942,Hemp 0deg_1,Hemp 0deg
-5,0.4559879999999999,1.6667519999999998,Hemp 0deg_1,Hemp 0deg
+5,0.45598799999999995,1.6667519999999998,Hemp 0deg_1,Hemp 0deg
 6,0.5393439999999999,1.865718,Hemp 0deg_1,Hemp 0deg
 7,0.6226579999999999,2.042404,Hemp 0deg_1,Hemp 0deg
-8,0.706002,2.218434,Hemp 0deg_1,Hemp 0deg
+8,0.706002,2.2184340000000002,Hemp 0deg_1,Hemp 0deg
 9,0.789346,2.392194,Hemp 0deg_1,Hemp 0deg
 10,0.87263,2.560132,Hemp 0deg_1,Hemp 0deg
 11,0.95601,2.7225740000000003,Hemp 0deg_1,Hemp 0deg
 12,1.039332,2.879412,Hemp 0deg_1,Hemp 0deg
 13,1.12265,3.030236,Hemp 0deg_1,Hemp 0deg
-14,1.205982,3.176826,Hemp 0deg_1,Hemp 0deg
+14,1.205982,3.1768259999999997,Hemp 0deg_1,Hemp 0deg
 15,1.289342,3.317104,Hemp 0deg_1,Hemp 0deg
 16,1.3726580000000002,3.449612,Hemp 0deg_1,Hemp 0deg
-17,1.456014,3.5776060000000003,Hemp 0deg_1,Hemp 0deg
-18,1.539346,3.705858,Hemp 0deg_1,Hemp 0deg
+17,1.4560140000000001,3.5776060000000003,Hemp 0deg_1,Hemp 0deg
+18,1.5393459999999999,3.705858,Hemp 0deg_1,Hemp 0deg
 19,1.622646,3.824126,Hemp 0deg_1,Hemp 0deg
-20,1.706006,3.932318,Hemp 0deg_1,Hemp 0deg
+20,1.7060060000000001,3.9323180000000004,Hemp 0deg_1,Hemp 0deg
 21,1.78934,4.030022,Hemp 0deg_1,Hemp 0deg
-22,1.872658,4.12308,Hemp 0deg_1,Hemp 0deg
+22,1.8726580000000002,4.12308,Hemp 0deg_1,Hemp 0deg
 23,1.955994,4.215168,Hemp 0deg_1,Hemp 0deg
-24,2.0393440000000003,4.302736,Hemp 0deg_1,Hemp 0deg
+24,2.0393440000000003,4.3027359999999994,Hemp 0deg_1,Hemp 0deg
 25,2.122666,4.382156,Hemp 0deg_1,Hemp 0deg
 26,2.206012,4.454454,Hemp 0deg_1,Hemp 0deg
 27,2.28932,4.519088,Hemp 0deg_1,Hemp 0deg
 28,2.372662,4.564192,Hemp 0deg_1,Hemp 0deg
 29,2.456002,4.604914,Hemp 0deg_1,Hemp 0deg
-0,0.0397530612244897,0.1011918367346938,Hemp 0deg_2,Hemp 0deg
+30,2.5293763157894738,4.583676315789473,Hemp 0deg_1,Hemp 0deg
+0,0.039753061224489794,0.10119183673469388,Hemp 0deg_2,Hemp 0deg
 1,0.122638,0.394392,Hemp 0deg_2,Hemp 0deg
-2,0.205972,0.739074,Hemp 0deg_2,Hemp 0deg
+2,0.20597200000000002,0.739074,Hemp 0deg_2,Hemp 0deg
 3,0.289292,1.0766,Hemp 0deg_2,Hemp 0deg
-4,0.3726359999999999,1.369392,Hemp 0deg_2,Hemp 0deg
+4,0.37263599999999997,1.369392,Hemp 0deg_2,Hemp 0deg
 5,0.456002,1.61607,Hemp 0deg_2,Hemp 0deg
 6,0.539338,1.82531,Hemp 0deg_2,Hemp 0deg
 7,0.622636,2.01641,Hemp 0deg_2,Hemp 0deg
 8,0.706,2.178562,Hemp 0deg_2,Hemp 0deg
 9,0.7893340000000001,2.343554,Hemp 0deg_2,Hemp 0deg
 10,0.872636,2.505458,Hemp 0deg_2,Hemp 0deg
-11,0.956008,2.664554,Hemp 0deg_2,Hemp 0deg
-12,1.039332,2.829654,Hemp 0deg_2,Hemp 0deg
-13,1.122648,2.976548,Hemp 0deg_2,Hemp 0deg
-14,1.20599,3.107578,Hemp 0deg_2,Hemp 0deg
-15,1.289348,3.237426,Hemp 0deg_2,Hemp 0deg
+11,0.9560080000000001,2.664554,Hemp 0deg_2,Hemp 0deg
+12,1.039332,2.8296539999999997,Hemp 0deg_2,Hemp 0deg
+13,1.1226479999999999,2.976548,Hemp 0deg_2,Hemp 0deg
+14,1.2059900000000001,3.1075779999999997,Hemp 0deg_2,Hemp 0deg
+15,1.289348,3.2374259999999997,Hemp 0deg_2,Hemp 0deg
 16,1.372652,3.36308,Hemp 0deg_2,Hemp 0deg
-17,1.456008,3.4845,Hemp 0deg_2,Hemp 0deg
+17,1.456008,3.4844999999999997,Hemp 0deg_2,Hemp 0deg
 18,1.53934,3.604038,Hemp 0deg_2,Hemp 0deg
-19,1.622628,3.719302,Hemp 0deg_2,Hemp 0deg
-20,1.706014,3.83238,Hemp 0deg_2,Hemp 0deg
+19,1.622628,3.7193020000000003,Hemp 0deg_2,Hemp 0deg
+20,1.7060140000000001,3.83238,Hemp 0deg_2,Hemp 0deg
 21,1.789336,3.942596,Hemp 0deg_2,Hemp 0deg
 22,1.872644,4.046748,Hemp 0deg_2,Hemp 0deg
 23,1.955986,4.1486860000000005,Hemp 0deg_2,Hemp 0deg
 24,2.039342,4.242442,Hemp 0deg_2,Hemp 0deg
 25,2.122664,4.32897,Hemp 0deg_2,Hemp 0deg
 26,2.206012,4.408242,Hemp 0deg_2,Hemp 0deg
-0,0.0397591836734693,0.1100204081632653,Hemp 0deg_4,Hemp 0deg
+27,2.2685079999999997,4.36932,Hemp 0deg_2,Hemp 0deg
+0,0.03975918367346939,0.1100204081632653,Hemp 0deg_4,Hemp 0deg
 1,0.122644,0.39046,Hemp 0deg_4,Hemp 0deg
-2,0.2059639999999999,0.74233,Hemp 0deg_4,Hemp 0deg
+2,0.20596399999999998,0.74233,Hemp 0deg_4,Hemp 0deg
 3,0.289306,1.074828,Hemp 0deg_4,Hemp 0deg
 4,0.372624,1.3807900000000002,Hemp 0deg_4,Hemp 0deg
 5,0.456014,1.6544139999999998,Hemp 0deg_4,Hemp 0deg
-6,0.539336,1.89282,Hemp 0deg_4,Hemp 0deg
-7,0.622642,2.10456,Hemp 0deg_4,Hemp 0deg
+6,0.539336,1.8928200000000002,Hemp 0deg_4,Hemp 0deg
+7,0.622642,2.1045599999999998,Hemp 0deg_4,Hemp 0deg
 8,0.70601,2.2924360000000004,Hemp 0deg_4,Hemp 0deg
 9,0.789332,2.47132,Hemp 0deg_4,Hemp 0deg
 10,0.872642,2.65251,Hemp 0deg_4,Hemp 0deg
-11,0.956016,2.82816,Hemp 0deg_4,Hemp 0deg
+11,0.9560160000000001,2.8281599999999996,Hemp 0deg_4,Hemp 0deg
 12,1.03934,2.988784,Hemp 0deg_4,Hemp 0deg
 13,1.122654,3.139036,Hemp 0deg_4,Hemp 0deg
-14,1.20599,3.2835840000000003,Hemp 0deg_4,Hemp 0deg
+14,1.2059900000000001,3.2835840000000003,Hemp 0deg_4,Hemp 0deg
 15,1.28934,3.423852,Hemp 0deg_4,Hemp 0deg
 16,1.372654,3.556262,Hemp 0deg_4,Hemp 0deg
-17,1.456006,3.682252,Hemp 0deg_4,Hemp 0deg
+17,1.4560060000000001,3.6822519999999996,Hemp 0deg_4,Hemp 0deg
 18,1.539344,3.801082,Hemp 0deg_4,Hemp 0deg
-19,1.622648,3.90791,Hemp 0deg_4,Hemp 0deg
-20,1.705968,4.008778,Hemp 0deg_4,Hemp 0deg
+19,1.622648,3.9079099999999998,Hemp 0deg_4,Hemp 0deg
+20,1.705968,4.0087779999999995,Hemp 0deg_4,Hemp 0deg
 21,1.789366,4.105918,Hemp 0deg_4,Hemp 0deg
 22,1.872652,4.195576,Hemp 0deg_4,Hemp 0deg
 23,1.955986,4.282406,Hemp 0deg_4,Hemp 0deg
 24,2.039334,4.36464,Hemp 0deg_4,Hemp 0deg
 25,2.122658,4.430212,Hemp 0deg_4,Hemp 0deg
-0,0.0397591836734693,0.1068653061224489,Hemp 45deg_1,Hemp 45deg
+26,2.1687000000000003,3.6828000000000003,Hemp 0deg_4,Hemp 0deg
+0,0.03975918367346939,0.10686530612244897,Hemp 45deg_1,Hemp 45deg
 1,0.122638,0.49552,Hemp 45deg_1,Hemp 45deg
 2,0.205974,0.8725740000000001,Hemp 45deg_1,Hemp 45deg
 3,0.289298,1.213902,Hemp 45deg_1,Hemp 45deg
-4,0.372644,1.516402,Hemp 45deg_1,Hemp 45deg
-5,0.45599,1.789294,Hemp 45deg_1,Hemp 45deg
+4,0.37264400000000003,1.516402,Hemp 45deg_1,Hemp 45deg
+5,0.45599000000000006,1.789294,Hemp 45deg_1,Hemp 45deg
 6,0.539336,2.037996,Hemp 45deg_1,Hemp 45deg
 7,0.622664,2.253184,Hemp 45deg_1,Hemp 45deg
 8,0.705994,2.4244220000000003,Hemp 45deg_1,Hemp 45deg
@@ -1518,16 +1657,16 @@ Time,Displacement,Force,File_ID,Material_ID
 10,0.872636,2.750492,Hemp 45deg_1,Hemp 45deg
 11,0.956,2.908766,Hemp 45deg_1,Hemp 45deg
 12,1.039334,3.063148,Hemp 45deg_1,Hemp 45deg
-13,1.122644,3.210434,Hemp 45deg_1,Hemp 45deg
+13,1.122644,3.2104340000000002,Hemp 45deg_1,Hemp 45deg
 14,1.205992,3.34902,Hemp 45deg_1,Hemp 45deg
-15,1.289346,3.4822800000000003,Hemp 45deg_1,Hemp 45deg
+15,1.2893459999999999,3.4822800000000003,Hemp 45deg_1,Hemp 45deg
 16,1.3726580000000002,3.610878,Hemp 45deg_1,Hemp 45deg
 17,1.45601,3.734352,Hemp 45deg_1,Hemp 45deg
-18,1.539346,3.851798,Hemp 45deg_1,Hemp 45deg
+18,1.5393459999999999,3.851798,Hemp 45deg_1,Hemp 45deg
 19,1.622646,3.96,Hemp 45deg_1,Hemp 45deg
 20,1.706,4.062374,Hemp 45deg_1,Hemp 45deg
 21,1.789334,4.16011,Hemp 45deg_1,Hemp 45deg
-22,1.872658,4.250606,Hemp 45deg_1,Hemp 45deg
+22,1.8726580000000002,4.250606,Hemp 45deg_1,Hemp 45deg
 23,1.955992,4.334992,Hemp 45deg_1,Hemp 45deg
 24,2.03934,4.414464,Hemp 45deg_1,Hemp 45deg
 25,2.122666,4.487566,Hemp 45deg_1,Hemp 45deg
@@ -1537,23 +1676,24 @@ Time,Displacement,Force,File_ID,Material_ID
 29,2.45599,4.710522,Hemp 45deg_1,Hemp 45deg
 30,2.5393440000000003,4.7428,Hemp 45deg_1,Hemp 45deg
 31,2.62266,4.76517,Hemp 45deg_1,Hemp 45deg
-0,0.0397591836734693,0.0919306122448979,Hemp 45deg_2,Hemp 45deg
-1,0.122636,0.49372,Hemp 45deg_2,Hemp 45deg
+32,2.6719888888888885,4.523777777777777,Hemp 45deg_1,Hemp 45deg
+0,0.03975918367346939,0.09193061224489796,Hemp 45deg_2,Hemp 45deg
+1,0.12263600000000001,0.49372,Hemp 45deg_2,Hemp 45deg
 2,0.20598,0.8810420000000001,Hemp 45deg_2,Hemp 45deg
 3,0.28929,1.248746,Hemp 45deg_2,Hemp 45deg
 4,0.372658,1.5835579999999998,Hemp 45deg_2,Hemp 45deg
 5,0.455992,1.886886,Hemp 45deg_2,Hemp 45deg
 6,0.539312,2.164326,Hemp 45deg_2,Hemp 45deg
-7,0.6226700000000001,2.412488,Hemp 45deg_2,Hemp 45deg
-8,0.705984,2.632792,Hemp 45deg_2,Hemp 45deg
+7,0.6226700000000001,2.4124879999999997,Hemp 45deg_2,Hemp 45deg
+8,0.705984,2.6327920000000002,Hemp 45deg_2,Hemp 45deg
 9,0.789324,2.829224,Hemp 45deg_2,Hemp 45deg
 10,0.872646,2.998598,Hemp 45deg_2,Hemp 45deg
 11,0.956008,3.1478,Hemp 45deg_2,Hemp 45deg
-12,1.039338,3.29061,Hemp 45deg_2,Hemp 45deg
+12,1.039338,3.2906099999999996,Hemp 45deg_2,Hemp 45deg
 13,1.12265,3.422796,Hemp 45deg_2,Hemp 45deg
 14,1.205994,3.547514,Hemp 45deg_2,Hemp 45deg
-15,1.289346,3.66855,Hemp 45deg_2,Hemp 45deg
-16,1.37266,3.785706,Hemp 45deg_2,Hemp 45deg
+15,1.2893459999999999,3.66855,Hemp 45deg_2,Hemp 45deg
+16,1.37266,3.7857060000000002,Hemp 45deg_2,Hemp 45deg
 17,1.45601,3.900828,Hemp 45deg_2,Hemp 45deg
 18,1.539336,4.015346,Hemp 45deg_2,Hemp 45deg
 19,1.622652,4.121592,Hemp 45deg_2,Hemp 45deg
@@ -1566,19 +1706,20 @@ Time,Displacement,Force,File_ID,Material_ID
 26,2.206022,4.660356,Hemp 45deg_2,Hemp 45deg
 27,2.28934,4.708044,Hemp 45deg_2,Hemp 45deg
 28,2.372656,4.748404,Hemp 45deg_2,Hemp 45deg
-0,0.0397612244897959,0.1220755102040816,Hemp 45deg_4,Hemp 45deg
-1,0.1226319999999999,0.447062,Hemp 45deg_4,Hemp 45deg
+29,2.4368888888888893,4.5977,Hemp 45deg_2,Hemp 45deg
+0,0.03976122448979592,0.12207551020408164,Hemp 45deg_4,Hemp 45deg
+1,0.12263199999999999,0.447062,Hemp 45deg_4,Hemp 45deg
 2,0.205974,0.770816,Hemp 45deg_4,Hemp 45deg
 3,0.289298,1.036822,Hemp 45deg_4,Hemp 45deg
-4,0.372644,1.243614,Hemp 45deg_4,Hemp 45deg
-5,0.455996,1.410948,Hemp 45deg_4,Hemp 45deg
+4,0.37264400000000003,1.243614,Hemp 45deg_4,Hemp 45deg
+5,0.455996,1.4109479999999999,Hemp 45deg_4,Hemp 45deg
 6,0.539332,1.54863,Hemp 45deg_4,Hemp 45deg
 7,0.622664,1.681214,Hemp 45deg_4,Hemp 45deg
 8,0.705992,1.832112,Hemp 45deg_4,Hemp 45deg
 9,0.78933,1.953554,Hemp 45deg_4,Hemp 45deg
 10,0.872644,2.064668,Hemp 45deg_4,Hemp 45deg
 11,0.956,2.1756040000000003,Hemp 45deg_4,Hemp 45deg
-12,1.039342,2.290602,Hemp 45deg_4,Hemp 45deg
+12,1.039342,2.2906020000000002,Hemp 45deg_4,Hemp 45deg
 13,1.122644,2.40804,Hemp 45deg_4,Hemp 45deg
 14,1.2059959999999998,2.52576,Hemp 45deg_4,Hemp 45deg
 15,1.289334,2.645922,Hemp 45deg_4,Hemp 45deg
@@ -1591,15 +1732,16 @@ Time,Displacement,Force,File_ID,Material_ID
 22,1.872654,3.450338,Hemp 45deg_4,Hemp 45deg
 23,1.956004,3.551008,Hemp 45deg_4,Hemp 45deg
 24,2.039338,3.64841,Hemp 45deg_4,Hemp 45deg
-25,2.12265,3.74054,Hemp 45deg_4,Hemp 45deg
-26,2.206016,3.827154,Hemp 45deg_4,Hemp 45deg
+25,2.1226499999999997,3.7405399999999998,Hemp 45deg_4,Hemp 45deg
+26,2.206016,3.8271539999999997,Hemp 45deg_4,Hemp 45deg
 27,2.289332,3.909536,Hemp 45deg_4,Hemp 45deg
 28,2.372654,3.986752,Hemp 45deg_4,Hemp 45deg
 29,2.456002,4.057104,Hemp 45deg_4,Hemp 45deg
 30,2.539338,4.125326,Hemp 45deg_4,Hemp 45deg
 31,2.622654,4.192346,Hemp 45deg_4,Hemp 45deg
-32,2.706006,4.256414,Hemp 45deg_4,Hemp 45deg
+32,2.706006,4.2564139999999995,Hemp 45deg_4,Hemp 45deg
 33,2.78933,4.318544,Hemp 45deg_4,Hemp 45deg
 34,2.872644,4.375854,Hemp 45deg_4,Hemp 45deg
 35,2.955994,4.42692,Hemp 45deg_4,Hemp 45deg
 36,3.03936,4.468028,Hemp 45deg_4,Hemp 45deg
+37,3.111005555555556,4.347183333333334,Hemp 45deg_4,Hemp 45deg
